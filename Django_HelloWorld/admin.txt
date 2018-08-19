@@ -1,4 +1,0 @@
-username:admin
-password£ºfc541548
-
-±¾»úIP£º169.254.39.168/16

@@ -1,0 +1,5617 @@
+@prefix ns1: <http://www.e3ol.com/biography/html/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ns1:丁仪 ns1:兄弟 ns1:丁廙 ;
+    ns1:官至 ns1:右刺奸椽 ;
+    ns1:曾效力过 ns1:魏 ;
+    ns1:父亲 ns1:丁冲 .
+
+ns1:丁原 ns1:官至 ns1:执金吾 ;
+    ns1:曾效力过 ns1:东汉 .
+
+ns1:丁厷 ns1:曾效力过 ns1:蜀 .
+
+ns1:丁君干 ns1:曾效力过 ns1:蜀 .
+
+ns1:丁咸 ns1:曾效力过 ns1:蜀 .
+
+ns1:丁固 ns1:曾效力过 ns1:吴 .
+
+ns1:丁奉 ns1:兄弟 ns1:丁封 ;
+    ns1:官至 ns1:右大司马,
+        ns1:安丰侯 ;
+    ns1:曾效力过 ns1:吴 .
+
+ns1:丁孚 ns1:曾效力过 ns1:吴 .
+
+ns1:丁宫 ns1:曾效力过 ns1:东汉 .
+
+ns1:丁尊 ns1:曾效力过 ns1:魏 .
+
+ns1:丁弥 ns1:曾效力过 ns1:西晋 .
+
+ns1:丁忠 ns1:曾效力过 ns1:吴 .
+
+ns1:丁斐 ns1:官至 ns1:典军校尉 ;
+    ns1:曾效力过 ns1:东汉,
+        ns1:魏 .
+
+ns1:丁晏 ns1:曾效力过 ns1:吴 .
+
+ns1:丁潭 ns1:曾效力过 ns1:西晋 .
+
+ns1:丁立 ns1:曾效力过 ns1:蜀 .
+
+ns1:丁蕃 ns1:曾效力过 ns1:吴 .
+
+ns1:丁览 ns1:曾效力过 ns1:吴 .
+
+ns1:丁谞 ns1:曾效力过 ns1:吴 .
+
+ns1:丁谧 ns1:官至 ns1:尚书 ;
+    ns1:曾效力过 ns1:魏 .
+
+ns1:万彧 ns1:官至 ns1:右丞相 ;
+    ns1:曾效力过 ns1:吴 .
+
+ns1:万政 ns1:官至 ns1:将军 ;
+    ns1:曾效力过 ns1:魏 .
+
+ns1:万泰 ns1:曾效力过 ns1:吴 .
+
+ns1:万演 ns1:曾效力过 ns1:东汉 .
+
+ns1:万潜 ns1:曾效力过 ns1:东汉 .
+
+ns1:万秉 ns1:曾效力过 ns1:起义军 .
+
+ns1:上党王 ns1:曾效力过 ns1:蜀 .
+
+ns1:上官崇 ns1:曾效力过 ns1:魏 .
+
+ns1:上官雝 ns1:曾效力过 ns1:蜀 .
+
+ns1:不耐濊王 ns1:曾效力过 ns1:其他 .
+
+ns1:丘建 ns1:官至 ns1:帐下督 ;
+    ns1:曾效力过 ns1:魏 .
+
+ns1:丘本 ns1:官至 ns1:监军 ;
+    ns1:曾效力过 ns1:西晋,
+        ns1:魏 .
+
+ns1:东乡君 ns1:曾效力过 ns1:魏 .
+
+ns1:东方安世 ns1:曾效力过 ns1:魏 .
+
+ns1:东里衮 ns1:曾效力过 ns1:魏 .
+
+ns1:严凯 ns1:曾效力过 ns1:吴 .
+
+ns1:严匡 ns1:曾效力过 ns1:东汉 .
+
+ns1:严君平 ns1:曾效力过 ns1:其他 .
+
+ns1:严圭 ns1:曾效力过 ns1:吴 .
+
+ns1:严密 ns1:曾效力过 ns1:吴 .
+
+ns1:严峻 ns1:曾效力过 ns1:东汉 .
+
+ns1:严干 ns1:曾效力过 ns1:魏 .
+
+ns1:严才 ns1:曾效力过 ns1:东汉 .
+
+ns1:严政 ns1:官至 ns1:部将 ;
+    ns1:曾效力过 ns1:东汉,
+        ns1:张角 .
+
+ns1:严敬 ns1:曾效力过 ns1:袁绍 .
+
+ns1:严昕 ns1:曾效力过 ns1:在野 .
+
+ns1:严武 ns1:曾效力过 ns1:吴 .
+
+ns1:严爽 ns1:曾效力过 ns1:吴 .
+
+ns1:严畯 ns1:曾效力过 ns1:吴 .
+
+ns1:严白虎 ns1:兄弟 ns1:严舆 ;
+    ns1:官至 ns1:自称东吴德王 ;
+    ns1:曾效力过 ns1:东汉 .
+
+<http://www.e3ol.com/biography/html/严纲[东汉]> ns1:官至 ns1:冀州刺史 ;
+    ns1:曾效力过 ns1:东汉 .
+
+<http://www.e3ol.com/biography/html/严纲[吴]> ns1:曾效力过 ns1:吴 .
+
+ns1:严维 ns1:曾效力过 ns1:吴 .
+
+ns1:严苞 ns1:曾效力过 ns1:魏 .
+
+ns1:严象 ns1:官至 ns1:扬州刺史 ;
+    ns1:曾效力过 ns1:东汉 .
+
+ns1:严遵 ns1:曾效力过 ns1:在野 .
+
+ns1:严颜 ns1:官至 ns1:宾客 ;
+    ns1:曾效力过 ns1:刘焉,
+        ns1:蜀 .
+
+ns1:中山国督邮 ns1:曾效力过 ns1:东汉 .
+
+ns1:中黄 ns1:曾效力过 ns1:其他 .
+
+ns1:乃太原 ns1:曾效力过 ns1:在野 .
+
+ns1:乌伦 ns1:曾效力过 ns1:少数民族 .
+
+ns1:乌延 ns1:曾效力过 ns1:少数民族 .
+
+ns1:乌桓触 ns1:曾效力过 ns1:袁绍 .
+
+ns1:乌越 ns1:曾效力过 ns1:其他 .
+
+ns1:乐何当 ns1:曾效力过 ns1:东汉 .
+
+ns1:乐就 ns1:官至 ns1:将军 ;
+    ns1:曾效力过 ns1:袁术 .
+
+ns1:乐广 ns1:曾效力过 ns1:西晋 .
+
+ns1:乐敦 ns1:官至 ns1:永宁署令 ;
+    ns1:曾效力过 ns1:魏 .
+
+ns1:乐方 ns1:曾效力过 ns1:魏 .
+
+ns1:乐毅 ns1:曾效力过 ns1:其他 .
+
+ns1:乐详 ns1:官至 ns1:骑都尉 ;
+    ns1:曾效力过 ns1:魏 .
+
+ns1:乐资 ns1:曾效力过 ns1:西晋 .
+
+ns1:乐隐 ns1:曾效力过 ns1:东汉 .
+
+ns1:乙修 ns1:曾效力过 ns1:魏 .
+
+ns1:习凿齿 ns1:曾效力过 ns1:其他 .
+
+ns1:习忠 ns1:曾效力过 ns1:蜀 .
+
+ns1:习授 ns1:曾效力过 ns1:魏 .
+
+<http://www.e3ol.com/biography/html/习氏[庞林妻]> ns1:曾效力过 ns1:魏 .
+
+<http://www.e3ol.com/biography/html/习氏[李衡妻]> ns1:曾效力过 ns1:吴 .
+
+ns1:习温 ns1:曾效力过 ns1:吴 .
+
+ns1:习祯 ns1:曾效力过 ns1:蜀 .
+
+ns1:习隆 ns1:曾效力过 ns1:蜀 .
+
+ns1:于仇贲 ns1:曾效力过 ns1:少数民族 .
+
+ns1:于兹 ns1:曾效力过 ns1:东汉 .
+
+ns1:于吉 ns1:官至 ns1:上师 ;
+    ns1:曾效力过 ns1:在野 .
+
+ns1:于夫罗 ns1:官至 ns1:南匈奴单于 ;
+    ns1:曾效力过 ns1:少数民族 .
+
+ns1:于毒 ns1:官至 ns1:无 ;
+    ns1:曾效力过 ns1:张燕,
+        ns1:张角 .
+
+ns1:于禁 ns1:子女 ns1:于圭 ;
+    ns1:官至 ns1:安远将军,
+        ns1:益寿亭侯,
+        ns1:谥曰厉侯 ;
+    ns1:曾效力过 ns1:东汉,
+        ns1:蜀,
+        ns1:魏 .
+
+ns1:于绰 ns1:曾效力过 ns1:魏 .
+
+ns1:于羝根 ns1:曾效力过 ns1:起义军 .
+
+ns1:于诠 ns1:官至 ns1:将军 .
+
+ns1:于麋 ns1:曾效力过 ns1:东汉 .
+
+ns1:云午 ns1:曾效力过 ns1:魏 .
+
+ns1:云英 ns1:曾效力过 ns1:魏 .
+
+ns1:五习 ns1:曾效力过 ns1:董卓 .
+
+ns1:五梁 ns1:官至 ns1:五官中郎将 ;
+    ns1:曾效力过 ns1:蜀 .
+
+ns1:五鹿 ns1:曾效力过 ns1:起义军 .
+
+ns1:介象 ns1:曾效力过 ns1:在野 .
+
+ns1:仍弩 ns1:曾效力过 ns1:起义军 .
+
+ns1:仓慈 ns1:曾效力过 ns1:魏 .
+
+ns1:令狐华 ns1:曾效力过 ns1:魏 .
+
+ns1:令狐愚 ns1:曾效力过 ns1:魏 .
+
+ns1:令狐景 ns1:曾效力过 ns1:魏 .
+
+ns1:令狐邵 ns1:曾效力过 ns1:魏 .
+
+ns1:仲兴 ns1:曾效力过 ns1:东汉 .
+
+ns1:仲长 ns1:曾效力过 ns1:魏 .
+
+ns1:仲长统 ns1:官至 ns1:尚书郎 ;
+    ns1:曾效力过 ns1:东汉 .
+
+ns1:任光 ns1:曾效力过 ns1:东汉 .
+
+ns1:任养 ns1:曾效力过 ns1:东汉 .
+
+ns1:任嘏 ns1:曾效力过 ns1:魏 .
+
+ns1:任夔 ns1:官至 ns1:将军 ;
+    ns1:曾效力过 ns1:蜀 .
+
+ns1:任奕 ns1:曾效力过 ns1:魏 .
+
+ns1:任安 ns1:曾效力过 ns1:东汉 .
+
+ns1:任尚 ns1:曾效力过 ns1:东汉 .
+
+ns1:任岐 ns1:官至 ns1:犍为太守 ;
+    ns1:曾效力过 ns1:东汉 .
+
+ns1:任峻 ns1:子女 ns1:任先,
+        ns1:任览 ;
+    ns1:官至 ns1:谥曰成侯,
+        ns1:都亭侯,
+        ns1:长水校尉 ;
+    ns1:曾效力过 ns1:东汉,
+        ns1:魏 .
+
+ns1:任度 ns1:曾效力过 ns1:吴 .
+
+ns1:任延 ns1:曾效力过 ns1:东汉 .
+
+ns1:任旐 ns1:曾效力过 ns1:东汉 .
+
+ns1:任燠 ns1:曾效力过 ns1:魏 .
+
+ns1:任福 ns1:曾效力过 ns1:魏 .
+
+ns1:任藩 ns1:曾效力过 ns1:东汉 .
+
+ns1:伊健妓妾 ns1:曾效力过 ns1:少数民族 .
+
+ns1:伊声耆 ns1:曾效力过 ns1:其他 .
+
+ns1:伊夷模 ns1:曾效力过 ns1:少数民族 .
+
+ns1:伊尹 ns1:曾效力过 ns1:其他 .
+
+ns1:伊籍 ns1:官至 ns1:昭文将军 ;
+    ns1:曾效力过 ns1:刘表,
+        ns1:蜀 .
+
+ns1:伍子胥 ns1:曾效力过 ns1:其他 .
+
+ns1:伍孚 ns1:官至 ns1:越骑校尉 ;
+    ns1:曾效力过 ns1:东汉 .
+
+ns1:伍延 ns1:官至 ns1:江陵督 ;
+    ns1:曾效力过 ns1:吴 .
+
+ns1:伍朝 ns1:曾效力过 ns1:在野 .
+
+ns1:伍琼 ns1:曾效力过 ns1:东汉 .
+
+ns1:伍隆 ns1:曾效力过 ns1:东汉 .
+
+ns1:伏完 ns1:官至 ns1:屯骑校尉,
+        ns1:皇丈 ;
+    ns1:曾效力过 ns1:东汉 .
+
+ns1:伏德 ns1:曾效力过 ns1:东汉 .
+
+ns1:伐同 ns1:曾效力过 ns1:少数民族 .
+
+ns1:优居 ns1:曾效力过 ns1:少数民族 .
+
+ns1:伯乐 ns1:曾效力过 ns1:其他 .
+
+ns1:伯固 ns1:曾效力过 ns1:其他 .
+
+ns1:伯夷 ns1:曾效力过 ns1:其他 .
+
+ns1:位宫 ns1:曾效力过 ns1:少数民族 .
+
+ns1:位居 ns1:曾效力过 ns1:少数民族 .
+
+ns1:何仪 ns1:曾效力过 ns1:张角,
+        ns1:魏 .
+
+ns1:何休 ns1:曾效力过 ns1:东汉 .
+
+ns1:何典 ns1:曾效力过 ns1:吴 .
+
+ns1:何勖 ns1:曾效力过 ns1:西晋 .
+
+ns1:何双 ns1:曾效力过 ns1:蜀 .
+
+ns1:何姬 ns1:官至 ns1:昭献皇后 ;
+    ns1:曾效力过 ns1:吴 .
+
+ns1:何宗 ns1:官至 ns1:大鸿胪 ;
+    ns1:曾效力过 ns1:刘焉,
+        ns1:蜀 .
+
+ns1:何定 ns1:曾效力过 ns1:吴 .
+
+ns1:何恽 ns1:曾效力过 ns1:西晋 .
+
+ns1:何才人 ns1:曾效力过 ns1:魏 .
+
+ns1:何晏 ns1:官至 ns1:侍中尚书 ;
+    ns1:曾效力过 ns1:魏 .
+
+ns1:何曼 ns1:官至 ns1:渠帅 .
+
+ns1:何曾 ns1:子女 ns1:何劭,
+        ns1:何遵 ;
+    ns1:官至 ns1:侍中,
+        ns1:太傅,
+        ns1:太宰,
+        ns1:谥曰元公,
+        ns1:郎陵公 ;
+    ns1:曾效力过 ns1:西晋,
+        ns1:魏 ;
+    ns1:父亲 ns1:何夔 .
+
+ns1:何桢 ns1:官至 ns1:光禄大夫,
+        ns1:尚书 ;
+    ns1:曾效力过 ns1:西晋,
+        ns1:魏 .
+
+ns1:何植 ns1:官至 ns1:司徒 ;
+    ns1:曾效力过 ns1:吴,
+        ns1:西晋 .
+
+ns1:何洪 ns1:曾效力过 ns1:吴 .
+
+ns1:何熙 ns1:曾效力过 ns1:东汉 .
+
+ns1:何祗 ns1:曾效力过 ns1:吴 .
+
+ns1:何绥 ns1:曾效力过 ns1:西晋 .
+
+ns1:何英 ns1:曾效力过 ns1:东汉 .
+
+ns1:何茂 ns1:曾效力过 ns1:魏 .
+
+ns1:何蒋 ns1:曾效力过 ns1:吴 .
+
+ns1:何蕤 ns1:曾效力过 ns1:西晋 .
+
+ns1:何衡 ns1:曾效力过 ns1:东汉 .
+
+ns1:何遂 ns1:曾效力过 ns1:吴 .
+
+ns1:何邈 ns1:曾效力过 ns1:吴 .
+
+ns1:何都 ns1:曾效力过 ns1:吴 .
+
+ns1:何雄 ns1:曾效力过 ns1:东汉 .
+
+ns1:何颙 ns1:曾效力过 ns1:东汉,
+        ns1:袁绍 .
+
+ns1:何龛 ns1:曾效力过 ns1:西晋 .
+
+ns1:侯和 ns1:曾效力过 ns1:蜀 .
+
+ns1:侯声 ns1:曾效力过 ns1:东汉 .
+
+ns1:侯太守 ns1:曾效力过 ns1:东汉 .
+
+ns1:侯成 ns1:官至 ns1:将军 ;
+    ns1:曾效力过 ns1:魏 .
+
+ns1:侯武阳 ns1:曾效力过 ns1:东汉 .
+
+ns1:侯览 ns1:曾效力过 ns1:东汉 .
+
+ns1:侯谐 ns1:曾效力过 ns1:东汉 .
+
+ns1:侯选 ns1:曾效力过 ns1:魏 .
+
+ns1:侯音 ns1:曾效力过 ns1:东汉 .
+
+ns1:俄何 ns1:官至 ns1:羌将 ;
+    ns1:曾效力过 ns1:少数民族 .
+
+ns1:俞涉 ns1:官至 ns1:将军 ;
+    ns1:曾效力过 ns1:袁术 .
+
+ns1:俞赞 ns1:曾效力过 ns1:西晋 .
+
+ns1:信都令 ns1:曾效力过 ns1:魏 .
+
+ns1:修允 ns1:官至 ns1:合浦太守 ;
+    ns1:曾效力过 ns1:吴 .
+
+ns1:修则 ns1:官至 ns1:前部督 ;
+    ns1:曾效力过 ns1:吴 .
+
+ns1:修武卢 ns1:曾效力过 ns1:少数民族 .
+
+ns1:倪清河 ns1:曾效力过 ns1:魏 .
+
+ns1:倪顗 ns1:曾效力过 ns1:魏 .
+
+ns1:傅佥 ns1:子女 ns1:傅募,
+        ns1:傅著 ;
+    ns1:官至 ns1:关中都督 ;
+    ns1:曾效力过 ns1:蜀 ;
+    ns1:父亲 ns1:傅肜 .
+
+ns1:傅充 ns1:曾效力过 ns1:东汉 .
+
+ns1:傅公明 ns1:曾效力过 ns1:东汉 .
+
+ns1:傅咸 ns1:曾效力过 ns1:西晋 .
+
+ns1:傅嘏 ns1:子女 ns1:傅祗 ;
+    ns1:官至 ns1:尚书仆射,
+        ns1:谥曰元,
+        ns1:追赠太常,
+        ns1:阳乡侯 ;
+    ns1:曾效力过 ns1:魏 ;
+    ns1:父亲 ns1:傅允 .
+
+ns1:傅太后 ns1:曾效力过 ns1:东汉 .
+
+ns1:傅婴 ns1:官至 ns1:牙门将 ;
+    ns1:曾效力过 ns1:吴 .
+
+ns1:傅宣 ns1:曾效力过 ns1:西晋 .
+
+ns1:傅容 ns1:曾效力过 ns1:魏 .
+
+ns1:傅巽 ns1:兄弟 ns1:傅允 ;
+    ns1:官至 ns1:侍中,
+        ns1:关内侯,
+        ns1:尚书 ;
+    ns1:曾效力过 ns1:东汉,
+        ns1:刘表,
+        ns1:魏 ;
+    ns1:父亲 ns1:傅睿 .
+
+ns1:傅常 ns1:曾效力过 ns1:吴 .
+
+ns1:傅干 ns1:官至 ns1:丞相仓曹属 ;
+    ns1:曾效力过 ns1:魏 .
+
+ns1:傅玄 ns1:曾效力过 ns1:西晋 .
+
+ns1:傅畅 ns1:曾效力过 ns1:西晋 .
+
+ns1:僮芝 ns1:曾效力过 ns1:东汉 .
+
+ns1:儋萌 ns1:曾效力过 ns1:东汉 .
+
+ns1:儿孝德 ns1:曾效力过 ns1:东汉 .
+
+ns1:儿寻 ns1:曾效力过 ns1:魏 .
+
+ns1:儿禅 ns1:曾效力过 ns1:少数民族 .
+
+ns1:兀突骨 ns1:曾效力过 ns1:少数民族 .
+
+ns1:元稹 ns1:曾效力过 ns1:其他 .
+
+ns1:党均 ns1:曾效力过 ns1:魏 .
+
+ns1:全仪 ns1:曾效力过 ns1:魏 .
+
+ns1:全尚 ns1:子女 ns1:全皇后,
+        ns1:全纪 ;
+    ns1:官至 ns1:卫将军,
+        ns1:太常,
+        ns1:永平侯 ;
+    ns1:曾效力过 ns1:吴 ;
+    ns1:配偶 <http://www.e3ol.com/biography/html/孙氏[全尚妻]> .
+
+ns1:全熙 ns1:曾效力过 ns1:吴 .
+
+ns1:全琮 ns1:子女 ns1:全吴,
+        ns1:全寄,
+        ns1:全怿,
+        ns1:全绪 ;
+    ns1:官至 ns1:右大司马,
+        ns1:左军师,
+        ns1:徐州牧,
+        ns1:钱唐侯 ;
+    ns1:曾效力过 ns1:吴 ;
+    ns1:父亲 ns1:全柔 ;
+    ns1:配偶 ns1:孙鲁班 .
+
+ns1:全祎 ns1:曾效力过 ns1:吴,
+        ns1:魏 .
+
+ns1:全端 ns1:官至 ns1:将军 ;
+    ns1:曾效力过 ns1:吴,
+        ns1:魏 .
+
+ns1:全缉 ns1:曾效力过 ns1:魏 .
+
+ns1:全翩 ns1:曾效力过 ns1:魏 .
+
+ns1:全静 ns1:曾效力过 ns1:魏 .
+
+ns1:公仇称 ns1:曾效力过 ns1:吴 .
+
+ns1:公孙修 ns1:曾效力过 ns1:东汉 .
+
+ns1:公孙度 ns1:子女 ns1:公孙康,
+        ns1:公孙恭 ;
+    ns1:官至 ns1:平州牧,
+        ns1:武威将军,
+        ns1:永宁乡侯,
+        ns1:自立为辽东侯 ;
+    ns1:曾效力过 ns1:东汉 ;
+    ns1:父亲 ns1:公孙延 .
+
+ns1:公孙方 ns1:曾效力过 ns1:东汉 .
+
+ns1:公孙昭 ns1:官至 ns1:襄平令 ;
+    ns1:曾效力过 ns1:东汉 .
+
+ns1:公孙晃 ns1:官至 ns1:汉中郎将 ;
+    ns1:曾效力过 ns1:东汉 .
+
+ns1:公孙模 ns1:曾效力过 ns1:东汉 .
+
+ns1:公孙渊 ns1:官至 ns1:乐浪公,
+        ns1:大司马,
+        ns1:持节,
+        ns1:燕王,
+        ns1:辽东太守 ;
+    ns1:曾效力过 ns1:东汉,
+        ns1:魏 .
+
+ns1:公孙滕 ns1:曾效力过 ns1:吴 .
+
+ns1:公孙犊 ns1:曾效力过 ns1:袁绍 .
+
+ns1:公孙珩 ns1:官至 ns1:西曹掾 ;
+    ns1:曾效力过 ns1:东汉 .
+
+ns1:公孙琙 ns1:官至 ns1:玄菟太守 ;
+    ns1:曾效力过 ns1:东汉 .
+
+ns1:公孙豹 ns1:曾效力过 ns1:东汉 .
+
+ns1:公孙述 ns1:曾效力过 ns1:东汉 .
+
+ns1:公孙阳 ns1:曾效力过 ns1:吴 .
+
+ns1:公孙集 ns1:曾效力过 ns1:魏 .
+
+ns1:公沙卢 ns1:曾效力过 ns1:东汉 .
+
+ns1:公绪恭 ns1:曾效力过 ns1:东汉 .
+
+ns1:关宁 ns1:曾效力过 ns1:在野 .
+
+ns1:关定 ns1:官至 ns1:无 ;
+    ns1:曾效力过 ns1:在野 .
+
+ns1:关平 ns1:兄弟 ns1:关兴,
+        ns1:关氏,
+        ns1:关索,
+        ns1:关银屏 ;
+    ns1:曾效力过 ns1:蜀 ;
+    ns1:父亲 ns1:关羽 .
+
+ns1:关彝 ns1:官至 ns1:汉寿亭侯 ;
+    ns1:曾效力过 ns1:蜀 .
+
+ns1:关统 ns1:官至 ns1:汉寿亭侯,
+        ns1:虎贲中郎将 ;
+    ns1:曾效力过 ns1:蜀 .
+
+ns1:关靖 ns1:官至 ns1:长史 ;
+    ns1:曾效力过 ns1:东汉 .
+
+ns1:其至鞬 ns1:曾效力过 ns1:少数民族 .
+
+ns1:冬逢 ns1:曾效力过 ns1:蜀 .
+
+ns1:冯习 ns1:官至 ns1:领军 ;
+    ns1:曾效力过 ns1:蜀 .
+
+ns1:冯则 ns1:官至 ns1:骑士 ;
+    ns1:曾效力过 ns1:吴 .
+
+ns1:冯异 ns1:曾效力过 ns1:东汉 .
+
+ns1:冯愔 ns1:曾效力过 ns1:东汉 .
+
+ns1:冯斐 ns1:曾效力过 ns1:吴 .
+
+ns1:冯方 ns1:曾效力过 ns1:东汉 .
+
+ns1:冯朝 ns1:曾效力过 ns1:吴 .
+
+ns1:冯楷 ns1:曾效力过 ns1:魏 .
+
+ns1:冯焕 ns1:曾效力过 ns1:东汉 .
+
+ns1:冯熙 ns1:曾效力过 ns1:吴 .
+
+ns1:冯硕 ns1:官至 ns1:尚书 ;
+    ns1:曾效力过 ns1:东汉 .
+
+ns1:冯礼 ns1:曾效力过 ns1:袁绍 .
+
+ns1:冯紞 ns1:官至 ns1:侍中,
+        ns1:散骑常侍 ;
+    ns1:曾效力过 ns1:西晋,
+        ns1:魏 .
+
+ns1:冯纯 ns1:曾效力过 ns1:吴 .
+
+ns1:冯肃 ns1:曾效力过 ns1:东汉 .
+
+ns1:冯芳 ns1:曾效力过 ns1:东汉 .
+
+ns1:冯谅 ns1:曾效力过 ns1:东汉 .
+
+ns1:冷苞 ns1:官至 ns1:将军 ;
+    ns1:曾效力过 ns1:刘焉 .
+
+ns1:凉茂 ns1:官至 ns1:太子太傅 ;
+    ns1:曾效力过 ns1:魏 .
+
+ns1:凌统 ns1:子女 ns1:凌封,
+        ns1:凌烈 ;
+    ns1:官至 ns1:偏将军 ;
+    ns1:曾效力过 ns1:吴 ;
+    ns1:父亲 ns1:凌操 .
+
+ns1:刁嘉 ns1:曾效力过 ns1:吴 .
+
+ns1:刁玄 ns1:曾效力过 ns1:吴 .
+
+ns1:刘不疑 ns1:曾效力过 ns1:东汉 .
+
+ns1:刘丞 ns1:官至 ns1:将军 ;
+    ns1:曾效力过 ns1:吴 .
+
+ns1:刘义逊 ns1:曾效力过 ns1:东汉 .
+
+ns1:刘乔 ns1:曾效力过 ns1:西晋 .
+
+ns1:刘仲始 ns1:曾效力过 ns1:在野 .
+
+ns1:刘伟 ns1:曾效力过 ns1:魏 .
+
+ns1:刘伶 ns1:官至 ns1:建威参军 ;
+    ns1:曾效力过 ns1:西晋,
+        ns1:魏 .
+
+ns1:刘何 ns1:曾效力过 ns1:东汉 .
+
+ns1:刘俊 ns1:官至 ns1:交州刺史 ;
+    ns1:曾效力过 ns1:吴 .
+
+ns1:刘保 ns1:曾效力过 ns1:东汉 .
+
+ns1:刘偕 ns1:曾效力过 ns1:东汉 .
+
+ns1:刘元起 ns1:曾效力过 ns1:东汉 .
+
+ns1:刘兆 ns1:曾效力过 ns1:西晋 .
+
+ns1:刘先 ns1:官至 ns1:尚书令 ;
+    ns1:曾效力过 ns1:东汉,
+        ns1:刘表,
+        ns1:魏 .
+
+ns1:刘助 ns1:曾效力过 ns1:吴 .
+
+ns1:刘劭 ns1:子女 ns1:刘琳 ;
+    ns1:官至 ns1:关内侯,
+        ns1:散骑常侍,
+        ns1:追赠光禄勋 ;
+    ns1:曾效力过 ns1:魏 .
+
+<http://www.e3ol.com/biography/html/刘勋[东汉]> ns1:官至 ns1:虎牙将军 ;
+    ns1:曾效力过 ns1:东汉 .
+
+<http://www.e3ol.com/biography/html/刘勋[曹芳近臣]> ns1:曾效力过 ns1:魏 .
+
+<http://www.e3ol.com/biography/html/刘勋[魏]> ns1:官至 ns1:列侯,
+        ns1:征虏将军 ;
+    ns1:曾效力过 ns1:东汉,
+        ns1:袁术,
+        ns1:魏 .
+
+ns1:刘协 ns1:兄弟 ns1:刘公主,
+        ns1:刘辩 ;
+    ns1:子女 ns1:刘懿,
+        ns1:刘敦,
+        ns1:刘曼,
+        <http://www.e3ol.com/biography/html/刘熙[刘协子]> ;
+    ns1:官至 ns1:汉皇帝,
+        ns1:谥孝献皇帝,
+        ns1:魏山阳公 ;
+    ns1:曾效力过 ns1:东汉 ;
+    ns1:母亲 ns1:灵怀皇后 ;
+    ns1:父亲 <http://www.e3ol.com/biography/html/刘宏[汉灵帝]> ;
+    ns1:配偶 ns1:伏寿,
+        ns1:曹华,
+        ns1:曹宪,
+        <http://www.e3ol.com/biography/html/曹节[献穆皇后]>,
+        ns1:董贵人 .
+
+ns1:刘启 ns1:曾效力过 ns1:其他 .
+
+ns1:刘咸 ns1:曾效力过 ns1:西晋 .
+
+ns1:刘哀 ns1:曾效力过 ns1:东汉 .
+
+ns1:刘嚣 ns1:曾效力过 ns1:东汉 .
+
+ns1:刘固 ns1:曾效力过 ns1:魏 .
+
+ns1:刘圣博 ns1:曾效力过 ns1:东汉 .
+
+ns1:刘基 ns1:官至 ns1:光禄勋 ;
+    ns1:曾效力过 ns1:刘繇,
+        ns1:吴 .
+
+ns1:刘声叔 ns1:曾效力过 ns1:吴 .
+
+ns1:刘壹 ns1:曾效力过 ns1:东汉 .
+
+ns1:刘夏 ns1:曾效力过 ns1:魏 .
+
+ns1:刘太守 ns1:曾效力过 ns1:东汉 .
+
+ns1:刘奉林 ns1:曾效力过 ns1:在野 .
+
+ns1:刘威 ns1:曾效力过 ns1:东汉 .
+
+ns1:刘子平 ns1:曾效力过 ns1:东汉 .
+
+ns1:刘子惠 ns1:曾效力过 ns1:东汉 .
+
+ns1:刘子敬 ns1:曾效力过 ns1:东汉 .
+
+ns1:刘孔慈 ns1:曾效力过 ns1:东汉 .
+
+ns1:刘宁 ns1:曾效力过 ns1:吴 .
+
+ns1:刘安 ns1:曾效力过 ns1:在野 .
+
+ns1:刘安妻 ns1:曾效力过 ns1:在野 .
+
+<http://www.e3ol.com/biography/html/刘宏[西晋]> ns1:曾效力过 ns1:西晋 .
+
+<http://www.e3ol.com/biography/html/刘宝[吴]> ns1:曾效力过 ns1:吴 .
+
+<http://www.e3ol.com/biography/html/刘宝[西晋]> ns1:曾效力过 ns1:西晋 .
+
+ns1:刘宠 ns1:曾效力过 ns1:东汉 .
+
+ns1:刘宪 ns1:曾效力过 ns1:东汉 .
+
+ns1:刘寔 ns1:兄弟 ns1:刘智 ;
+    ns1:官至 ns1:太尉,
+        ns1:循阳侯,
+        ns1:谥曰元侯 ;
+    ns1:曾效力过 ns1:西晋,
+        ns1:魏 .
+
+ns1:刘封 ns1:兄弟 ns1:无 ;
+    ns1:子女 ns1:刘林 ;
+    ns1:官至 ns1:副军将军 ;
+    ns1:曾效力过 ns1:蜀 ;
+    ns1:母亲 ns1:刘氏 ;
+    ns1:父亲 ns1:寇氏 .
+
+ns1:刘尚 ns1:曾效力过 ns1:西晋 .
+
+ns1:刘展 ns1:曾效力过 ns1:东汉 .
+
+<http://www.e3ol.com/biography/html/刘岱[东汉]> ns1:官至 ns1:兖州刺吏 ;
+    ns1:曾效力过 ns1:东汉 .
+
+<http://www.e3ol.com/biography/html/刘岱[魏]> ns1:官至 ns1:列侯,
+        ns1:司空长史 ;
+    ns1:曾效力过 ns1:魏 .
+
+ns1:刘川 ns1:曾效力过 ns1:吴 .
+
+<http://www.e3ol.com/biography/html/刘巴[征南将军]> ns1:曾效力过 ns1:蜀 .
+
+<http://www.e3ol.com/biography/html/刘巴[蜀]> ns1:官至 ns1:尚书令 ;
+    ns1:曾效力过 ns1:东汉,
+        ns1:蜀,
+        ns1:魏 ;
+    ns1:父亲 ns1:刘祥 .
+
+ns1:刘干 ns1:曾效力过 ns1:蜀 .
+
+ns1:刘平 ns1:曾效力过 ns1:在野 .
+
+ns1:刘庄 ns1:曾效力过 ns1:东汉 .
+
+ns1:刘庆 ns1:曾效力过 ns1:东汉 .
+
+ns1:刘府君 ns1:曾效力过 ns1:东汉 .
+
+ns1:刘度 ns1:官至 ns1:零陵太守 ;
+    ns1:曾效力过 ns1:刘表,
+        ns1:蜀,
+        ns1:魏 .
+
+ns1:刘康 ns1:官至 ns1:山阳公 ;
+    ns1:曾效力过 ns1:东汉 .
+
+ns1:刘廙 ns1:官至 ns1:侍中,
+        ns1:关内侯 ;
+    ns1:曾效力过 ns1:魏 .
+
+<http://www.e3ol.com/biography/html/刘延[东汉]> ns1:曾效力过 ns1:东汉 .
+
+<http://www.e3ol.com/biography/html/刘延[魏]> ns1:官至 ns1:东郡太守 ;
+    ns1:曾效力过 ns1:魏 .
+
+<http://www.e3ol.com/biography/html/刘建[千乘王]> ns1:曾效力过 ns1:东汉 .
+
+<http://www.e3ol.com/biography/html/刘建[安国侯]> ns1:曾效力过 ns1:东汉 .
+
+<http://www.e3ol.com/biography/html/刘建[曲成侯]> ns1:曾效力过 ns1:东汉 .
+
+<http://www.e3ol.com/biography/html/刘建[贞王]> ns1:曾效力过 ns1:东汉 .
+
+ns1:刘式 ns1:曾效力过 ns1:蜀 .
+
+<http://www.e3ol.com/biography/html/刘弘[东汉]> ns1:曾效力过 ns1:东汉 .
+
+<http://www.e3ol.com/biography/html/刘弘[西晋]> ns1:曾效力过 ns1:西晋 .
+
+ns1:刘强 ns1:曾效力过 ns1:东汉 .
+
+ns1:刘彦 ns1:曾效力过 ns1:东汉 .
+
+ns1:刘彻 ns1:曾效力过 ns1:其他 .
+
+ns1:刘循 ns1:官至 ns1:奉车中郎将 ;
+    ns1:曾效力过 ns1:蜀 .
+
+ns1:刘德然 ns1:曾效力过 ns1:在野 .
+
+ns1:刘徽 ns1:曾效力过 ns1:在野 .
+
+ns1:刘必 ns1:曾效力过 ns1:东汉 .
+
+ns1:刘恋 ns1:曾效力过 ns1:其他 .
+
+ns1:刘恒 ns1:曾效力过 ns1:其他 .
+
+ns1:刘恢 ns1:曾效力过 ns1:东汉 .
+
+ns1:刘惇 ns1:曾效力过 ns1:在野 .
+
+ns1:刘惔 ns1:曾效力过 ns1:其他 .
+
+ns1:刘惠 ns1:曾效力过 ns1:东汉 .
+
+ns1:刘慈 ns1:曾效力过 ns1:魏 .
+
+<http://www.e3ol.com/biography/html/刘承[吴]> ns1:曾效力过 ns1:吴 .
+
+<http://www.e3ol.com/biography/html/刘承[蜀]> ns1:曾效力过 ns1:蜀 .
+
+ns1:刘括 ns1:曾效力过 ns1:在野 .
+
+ns1:刘放 ns1:子女 <http://www.e3ol.com/biography/html/刘宏[东汉]>,
+        ns1:刘正,
+        <http://www.e3ol.com/biography/html/刘熙[刘放子]>,
+        ns1:刘许 ;
+    ns1:官至 ns1:中书监,
+        ns1:方城侯,
+        ns1:谥曰敬,
+        ns1:骠骑将军 ;
+    ns1:曾效力过 ns1:东汉,
+        ns1:魏 .
+
+ns1:刘政 ns1:曾效力过 ns1:东汉 .
+
+ns1:刘敏 ns1:官至 ns1:云亭侯,
+        ns1:左护军,
+        ns1:扬威将军 ;
+    ns1:曾效力过 ns1:蜀 .
+
+ns1:刘整 ns1:曾效力过 ns1:魏 .
+
+ns1:刘斐 ns1:曾效力过 ns1:魏 .
+
+ns1:刘昂 ns1:曾效力过 ns1:其他 .
+
+ns1:刘昕 ns1:曾效力过 ns1:魏 .
+
+ns1:刘昶 ns1:曾效力过 ns1:魏 .
+
+ns1:刘晔 ns1:官至 ns1:东亭侯,
+        ns1:太中大夫,
+        ns1:谥曰景侯 ;
+    ns1:曾效力过 ns1:袁术,
+        ns1:魏 .
+
+ns1:刘晙 ns1:曾效力过 ns1:刘璋 .
+
+ns1:刘普 ns1:曾效力过 ns1:东汉 .
+
+ns1:刘景宗 ns1:曾效力过 ns1:东汉 .
+
+<http://www.e3ol.com/biography/html/刘曜[东汉]> ns1:曾效力过 ns1:东汉 .
+
+<http://www.e3ol.com/biography/html/刘曜[魏]> ns1:曾效力过 ns1:魏 .
+
+ns1:刘望之 ns1:曾效力过 ns1:刘表 .
+
+ns1:刘本 ns1:曾效力过 ns1:东汉 .
+
+ns1:刘柱 ns1:曾效力过 ns1:魏 .
+
+ns1:刘桢 ns1:官至 ns1:丞相掾属 ;
+    ns1:曾效力过 ns1:魏 .
+
+ns1:刘梁 ns1:曾效力过 ns1:东汉,
+        ns1:蜀 .
+
+ns1:刘植 ns1:曾效力过 ns1:东汉 .
+
+ns1:刘武 ns1:曾效力过 ns1:蜀 .
+
+ns1:刘毅 ns1:曾效力过 ns1:东汉 .
+
+<http://www.e3ol.com/biography/html/刘氏[孙霸妻]> ns1:曾效力过 ns1:吴 .
+
+<http://www.e3ol.com/biography/html/刘氏[李密祖母]> ns1:曾效力过 ns1:西晋 .
+
+<http://www.e3ol.com/biography/html/刘氏[毌丘俭孙女婿]> ns1:曾效力过 ns1:西晋 .
+
+<http://www.e3ol.com/biography/html/刘氏[袁绍妻]> ns1:曾效力过 ns1:袁绍 .
+
+<http://www.e3ol.com/biography/html/刘氏[费观妻]> ns1:曾效力过 ns1:刘璋,
+        ns1:蜀 .
+
+ns1:刘汉 ns1:曾效力过 ns1:西晋 .
+
+ns1:刘泌 ns1:官至 ns1:樊城令 ;
+    ns1:曾效力过 ns1:东汉,
+        ns1:蜀 .
+
+ns1:刘涣 ns1:曾效力过 ns1:西晋 .
+
+ns1:刘炟 ns1:官至 ns1:皇帝 ;
+    ns1:曾效力过 ns1:东汉 .
+
+ns1:刘炳 ns1:官至 ns1:皇帝 ;
+    ns1:曾效力过 ns1:东汉 .
+
+<http://www.e3ol.com/biography/html/刘熙[东汉]> ns1:曾效力过 ns1:东汉 .
+
+<http://www.e3ol.com/biography/html/刘熙[刘靖子]> ns1:曾效力过 ns1:魏 .
+
+ns1:刘献 ns1:曾效力过 ns1:袁绍 .
+
+ns1:刘珍 ns1:曾效力过 ns1:东汉 .
+
+ns1:刘班 ns1:曾效力过 ns1:东汉 .
+
+ns1:刘琨 ns1:曾效力过 ns1:西晋 .
+
+ns1:刘琬 ns1:曾效力过 ns1:东汉 .
+
+ns1:刘琰 ns1:官至 ns1:卫尉,
+        ns1:行中军师,
+        ns1:车骑将军,
+        ns1:都乡侯 ;
+    ns1:曾效力过 ns1:蜀 ;
+    ns1:配偶 ns1:胡氏 .
+
+ns1:刘璝 ns1:官至 ns1:将军 ;
+    ns1:曾效力过 ns1:刘焉 .
+
+ns1:刘璠 ns1:曾效力过 ns1:西晋 .
+
+ns1:刘由 ns1:曾效力过 ns1:吴 .
+
+<http://www.e3ol.com/biography/html/刘略[南海太守]> ns1:官至 ns1:南海太守 ;
+    ns1:曾效力过 ns1:吴 .
+
+<http://www.e3ol.com/biography/html/刘略[零陵太守]> ns1:官至 ns1:零陵太守 ;
+    ns1:曾效力过 ns1:吴 .
+
+ns1:刘石 ns1:曾效力过 ns1:起义军 .
+
+ns1:刘磐 ns1:曾效力过 ns1:刘表 .
+
+ns1:刘祗 ns1:曾效力过 ns1:东汉 .
+
+ns1:刘禄 ns1:曾效力过 ns1:其他 .
+
+ns1:刘租 ns1:曾效力过 ns1:东汉 .
+
+ns1:刘章 ns1:曾效力过 ns1:其他 .
+
+ns1:刘类 ns1:曾效力过 ns1:魏 .
+
+ns1:刘粹 ns1:曾效力过 ns1:西晋 .
+
+ns1:刘纂 ns1:曾效力过 ns1:吴 .
+
+ns1:刘纬台 ns1:曾效力过 ns1:东汉 .
+
+ns1:刘缵 ns1:官至 ns1:皇帝 ;
+    ns1:曾效力过 ns1:东汉 .
+
+ns1:刘翊 ns1:曾效力过 ns1:东汉 .
+
+ns1:刘耽 ns1:官至 ns1:内史 ;
+    ns1:曾效力过 ns1:东汉 .
+
+ns1:刘肇 ns1:曾效力过 ns1:魏 .
+
+ns1:刘胄 ns1:曾效力过 ns1:蜀 .
+
+ns1:刘胜 ns1:曾效力过 ns1:其他 .
+
+ns1:刘舆 ns1:曾效力过 ns1:东汉 .
+
+<http://www.e3ol.com/biography/html/刘舒[祖邑侯]> ns1:曾效力过 ns1:东汉 .
+
+ns1:刘良 ns1:曾效力过 ns1:在野 .
+
+ns1:刘艾 ns1:曾效力过 ns1:东汉 .
+
+ns1:刘节 ns1:曾效力过 ns1:魏 .
+
+ns1:刘苌 ns1:曾效力过 ns1:东汉 .
+
+ns1:刘若 ns1:曾效力过 ns1:东汉 .
+
+ns1:刘英 ns1:曾效力过 ns1:东汉 .
+
+ns1:刘茂 ns1:官至 ns1:乐浪太守 ;
+    ns1:曾效力过 ns1:魏 .
+
+ns1:刘虎 ns1:曾效力过 ns1:刘表 .
+
+<http://www.e3ol.com/biography/html/刘询[东汉]> ns1:曾效力过 ns1:东汉 .
+
+ns1:刘详 ns1:曾效力过 ns1:袁术 .
+
+ns1:刘谊 ns1:曾效力过 ns1:东汉 .
+
+<http://www.e3ol.com/biography/html/刘豹[蜀]> ns1:官至 ns1:议郎,
+        ns1:阳泉侯 ;
+    ns1:曾效力过 ns1:蜀 .
+
+ns1:刘贞 ns1:曾效力过 ns1:其他 .
+
+<http://www.e3ol.com/biography/html/刘贤[刘表]> ns1:曾效力过 ns1:刘表,
+        ns1:魏 .
+
+<http://www.e3ol.com/biography/html/刘贤[魏]> ns1:曾效力过 ns1:魏 .
+
+ns1:刘贺 ns1:曾效力过 ns1:其他 .
+
+ns1:刘辟 ns1:曾效力过 ns1:起义军 .
+
+<http://www.e3ol.com/biography/html/刘达[东汉]> ns1:曾效力过 ns1:东汉 .
+
+ns1:刘邕 ns1:官至 ns1:关内侯,
+        ns1:后将军,
+        ns1:监军 ;
+    ns1:曾效力过 ns1:蜀 .
+
+ns1:刘邠 ns1:曾效力过 ns1:魏 .
+
+ns1:刘邵 ns1:曾效力过 ns1:吴 .
+
+ns1:刘郃 ns1:曾效力过 ns1:蜀 .
+
+ns1:刘钦 ns1:曾效力过 ns1:魏 .
+
+ns1:刘铄 ns1:曾效力过 ns1:吴 .
+
+ns1:刘长仁 ns1:曾效力过 ns1:在野 .
+
+ns1:刘阐 ns1:官至 ns1:御史中丞 ;
+    ns1:曾效力过 ns1:吴,
+        ns1:蜀 .
+
+ns1:刘阖 ns1:曾效力过 ns1:刘表 .
+
+ns1:刘阜 ns1:曾效力过 ns1:魏 .
+
+ns1:刘阳 ns1:曾效力过 ns1:东汉 .
+
+ns1:刘阿 ns1:曾效力过 ns1:吴 .
+
+<http://www.e3ol.com/biography/html/刘陶[东汉]> ns1:曾效力过 ns1:东汉 .
+
+<http://www.e3ol.com/biography/html/刘陶[魏]> ns1:曾效力过 ns1:魏 .
+
+ns1:刘隆 ns1:曾效力过 ns1:东汉 .
+
+ns1:刘隐 ns1:曾效力过 ns1:东汉 .
+
+ns1:刘隽 ns1:曾效力过 ns1:东汉 .
+
+<http://www.e3ol.com/biography/html/刘雄[东汉]> ns1:曾效力过 ns1:东汉 .
+
+<http://www.e3ol.com/biography/html/刘雄[刘备祖父]> ns1:官至 ns1:东郡范令 ;
+    ns1:曾效力过 ns1:东汉 .
+
+ns1:刘雄鸣 ns1:曾效力过 ns1:东汉 .
+
+<http://www.e3ol.com/biography/html/刘靖[东汉]> ns1:曾效力过 ns1:东汉 .
+
+<http://www.e3ol.com/biography/html/刘靖[匈奴王]> ns1:曾效力过 ns1:少数民族 .
+
+<http://www.e3ol.com/biography/html/刘靖[吴]> ns1:曾效力过 ns1:吴 .
+
+ns1:刘韪 ns1:曾效力过 ns1:东汉 .
+
+ns1:刘颖 ns1:曾效力过 ns1:吴 .
+
+ns1:刘馀 ns1:曾效力过 ns1:其他 .
+
+ns1:刘馥 ns1:子女 <http://www.e3ol.com/biography/html/刘靖[魏]> ;
+    ns1:官至 ns1:扬州刺史 ;
+    ns1:曾效力过 ns1:魏 .
+
+ns1:刘龟 ns1:曾效力过 ns1:魏 .
+
+ns1:劭提 ns1:曾效力过 ns1:少数民族 .
+
+ns1:劳精 ns1:曾效力过 ns1:魏 .
+
+ns1:勾践 ns1:曾效力过 ns1:其他 .
+
+ns1:北宫玉 ns1:曾效力过 ns1:东汉 .
+
+ns1:北斗 ns1:曾效力过 ns1:其他 .
+
+ns1:匡琦 ns1:曾效力过 ns1:东汉 .
+
+ns1:区星 ns1:官至 ns1:将军 ;
+    ns1:曾效力过 ns1:张角 .
+
+ns1:区景 ns1:曾效力过 ns1:东汉 .
+
+ns1:千万 ns1:官至 ns1:百顷氐王 ;
+    ns1:曾效力过 ns1:少数民族,
+        ns1:魏 .
+
+ns1:升迁亭公主 ns1:曾效力过 ns1:魏 .
+
+ns1:华佗 ns1:曾效力过 ns1:在野 ;
+    ns1:配偶 ns1:华佗妻 .
+
+ns1:华佗徒 ns1:曾效力过 ns1:在野 .
+
+ns1:华峤 ns1:官至 <http://www.e3ol.com/biography/html/乐乡侯，转秘书监,散骑常侍> ;
+    ns1:曾效力过 ns1:西晋,
+        ns1:魏 .
+
+ns1:华廙 ns1:官至 ns1:侍中,
+        ns1:光禄大夫,
+        ns1:尚书令 ;
+    ns1:曾效力过 ns1:魏 .
+
+ns1:华当 ns1:曾效力过 ns1:吴 .
+
+ns1:华彦 ns1:曾效力过 ns1:袁绍 .
+
+ns1:华恒 ns1:曾效力过 ns1:西晋 .
+
+ns1:华昆 ns1:曾效力过 ns1:西晋 .
+
+ns1:华核 ns1:官至 ns1:东观令,
+        ns1:史徐陵亭侯,
+        ns1:领右国 ;
+    ns1:曾效力过 ns1:吴 .
+
+ns1:华歆 ns1:子女 ns1:华博,
+        ns1:华周,
+        ns1:华表 ;
+    ns1:官至 ns1:太尉,
+        ns1:安乐乡侯,
+        ns1:谥曰敬 ;
+    ns1:曾效力过 ns1:东汉,
+        ns1:吴,
+        ns1:魏 .
+
+ns1:华澹 ns1:曾效力过 ns1:西晋 .
+
+ns1:华缉 ns1:曾效力过 ns1:魏 .
+
+ns1:华荟 ns1:曾效力过 ns1:西晋 .
+
+ns1:华融 ns1:曾效力过 ns1:吴 .
+
+ns1:华谞 ns1:曾效力过 ns1:吴 .
+
+ns1:华谭 ns1:曾效力过 ns1:西晋 .
+
+ns1:华轶 ns1:曾效力过 ns1:西晋 .
+
+ns1:华锜 ns1:曾效力过 ns1:吴 .
+
+ns1:华长骏 ns1:曾效力过 ns1:魏 .
+
+ns1:华雄 ns1:官至 ns1:都督 ;
+    ns1:曾效力过 ns1:董卓 .
+
+ns1:卑弥呼 ns1:官至 <http://www.e3ol.com/biography/html/倭（奴）国女王> ;
+    ns1:曾效力过 ns1:其他 .
+
+ns1:卑弥弓呼 ns1:曾效力过 ns1:其他 .
+
+ns1:卑湛 ns1:曾效力过 ns1:魏 .
+
+ns1:卑衍 ns1:官至 ns1:大将军 ;
+    ns1:曾效力过 ns1:东汉,
+        ns1:魏 .
+
+ns1:卓氏 ns1:曾效力过 ns1:在野 .
+
+ns1:卓膺 ns1:官至 ns1:将军 ;
+    ns1:曾效力过 ns1:蜀 .
+
+ns1:单伯龙 ns1:曾效力过 ns1:在野 .
+
+ns1:单固 ns1:曾效力过 ns1:魏 .
+
+ns1:单子春 ns1:曾效力过 ns1:魏 .
+
+ns1:单甫 ns1:曾效力过 ns1:东汉 .
+
+ns1:单经 ns1:官至 ns1:兖州刺史 ;
+    ns1:曾效力过 ns1:东汉 .
+
+ns1:单飏 ns1:曾效力过 ns1:东汉 .
+
+ns1:南华老仙 ns1:曾效力过 ns1:其他 .
+
+ns1:南斗 ns1:曾效力过 ns1:其他 .
+
+ns1:卜己 ns1:官至 ns1:黄巾大将 ;
+    ns1:曾效力过 ns1:起义军 .
+
+ns1:卜清 ns1:曾效力过 ns1:在野 .
+
+ns1:卜贲邑 ns1:曾效力过 ns1:少数民族 .
+
+ns1:卜静 ns1:曾效力过 ns1:吴 .
+
+ns1:卞兰 ns1:曾效力过 ns1:魏 .
+
+ns1:卞和 ns1:曾效力过 ns1:其他 .
+
+ns1:卞喜 ns1:曾效力过 ns1:魏 .
+
+ns1:卞广 ns1:曾效力过 ns1:魏 .
+
+ns1:卞晖 ns1:曾效力过 ns1:魏 .
+
+ns1:卞秉 ns1:官至 ns1:昭烈将军 .
+
+ns1:卢植 ns1:子女 ns1:卢毓 ;
+    ns1:官至 ns1:北中郎将,
+        ns1:尚书 ;
+    ns1:曾效力过 ns1:东汉,
+        ns1:董卓 .
+
+ns1:卫兹 ns1:子女 ns1:卫臻 ;
+    ns1:官至 ns1:将军 .
+
+ns1:卫温 ns1:官至 ns1:将军 .
+
+ns1:卫演 ns1:官至 ns1:侍中 .
+
+ns1:卫继 ns1:官至 ns1:大尚书,
+        ns1:奉车都尉 ;
+    ns1:曾效力过 ns1:刘焉 .
+
+ns1:卫觊 ns1:子女 ns1:卫瓘 ;
+    ns1:官至 ns1:尚书,
+        ns1:谥曰敬侯,
+        ns1:閺乡侯 ;
+    ns1:曾效力过 ns1:东汉 .
+
+ns1:去卑 ns1:官至 ns1:南匈奴右贤王,
+        ns1:追夏正皇帝 .
+
+ns1:句安 ns1:官至 ns1:将军 ;
+    ns1:曾效力过 ns1:蜀 .
+
+ns1:句扶 ns1:官至 ns1:宕渠侯,
+        ns1:左将军 .
+
+ns1:史涣 ns1:子女 ns1:史静 ;
+    ns1:官至 ns1:中领军 .
+
+ns1:司马睿 ns1:官至 ns1:安东将军,
+        ns1:晋元帝 .
+
+ns1:司马芝 ns1:官至 ns1:关内侯,
+        ns1:大司农 .
+
+ns1:司马衷 ns1:官至 ns1:晋惠帝 .
+
+ns1:合肥后槽 ns1:官至 ns1:后槽 .
+
+ns1:吉本 ns1:官至 ns1:太医令 .
+
+ns1:向举 ns1:官至 ns1:议郎,
+        ns1:青衣侯 .
+
+ns1:向宠 ns1:兄弟 ns1:向充 ;
+    ns1:官至 ns1:中领军,
+        ns1:都亭侯 .
+
+ns1:向朗 ns1:官至 ns1:左将军,
+        ns1:明显亭侯,
+        ns1:长史 ;
+    ns1:曾效力过 ns1:刘表 .
+
+ns1:向秀 ns1:官至 ns1:散骑常侍,
+        ns1:黄门侍郎 ;
+    ns1:曾效力过 ns1:魏 .
+
+ns1:吕乂 ns1:官至 ns1:尚书令 .
+
+ns1:吕伯奢 ns1:官至 ns1:无 .
+
+ns1:吕公 ns1:官至 ns1:将军 .
+
+<http://www.e3ol.com/biography/html/吕凯[蜀]> ns1:官至 ns1:云南太守,
+        ns1:阳迁亭侯 .
+
+ns1:吕岱 ns1:子女 <http://www.e3ol.com/biography/html/吕凯[吴]> ;
+    ns1:官至 ns1:大司马,
+        ns1:都乡侯 .
+
+<http://www.e3ol.com/biography/html/吕常[魏]> ns1:官至 ns1:横海将军,
+        ns1:襄阳太守,
+        ns1:西鄂都乡侯 .
+
+ns1:吕建 ns1:官至 ns1:将军 .
+
+ns1:吕旷 ns1:曾效力过 ns1:魏 .
+
+ns1:吕昭 ns1:官至 ns1:镇北将军 .
+
+ns1:吕翔 ns1:曾效力过 ns1:魏 .
+
+ns1:吕范 ns1:子女 ns1:吕据 ;
+    ns1:官至 ns1:假节,
+        ns1:前将军,
+        ns1:南昌侯,
+        ns1:扬州牧,
+        ns1:追赠大司马 .
+
+ns1:吕蒙 ns1:子女 ns1:吕琮,
+        ns1:吕睦,
+        ns1:吕霸 ;
+    ns1:官至 ns1:南郡太守,
+        ns1:孱陵候,
+        ns1:左护军,
+        ns1:虎威将军 .
+
+ns1:吕虔 ns1:子女 ns1:吕翻 ;
+    ns1:官至 ns1:万年亭侯,
+        ns1:威虏将军,
+        ns1:徐州刺史 .
+
+ns1:吴兰 ns1:官至 ns1:将军 .
+
+ns1:吴匡 ns1:官至 ns1:何进部将 .
+
+ns1:吴巨 ns1:官至 ns1:苍梧太守 .
+
+ns1:吴懿 ns1:兄弟 ns1:吴皇后 ;
+    ns1:官至 ns1:假节,
+        ns1:济阳侯,
+        ns1:车骑将军,
+        ns1:雍州刺史 ;
+    ns1:曾效力过 ns1:刘璋 .
+
+ns1:吴敦 ns1:官至 ns1:利城太守 ;
+    ns1:曾效力过 ns1:吕布,
+        ns1:陶谦 .
+
+ns1:吴景 ns1:官至 ns1:丹杨太守,
+        ns1:扬武将军 ;
+    ns1:曾效力过 ns1:东汉,
+        ns1:吴 .
+
+ns1:吴班 ns1:官至 ns1:假节,
+        ns1:绵竹侯,
+        ns1:骠骑将军 .
+
+ns1:吴质 ns1:子女 ns1:吴应 ;
+    ns1:官至 ns1:侍中,
+        ns1:列侯,
+        ns1:振威将军,
+        ns1:谥曰威 .
+
+ns1:吾彦 ns1:官至 ns1:大长秋 ;
+    ns1:曾效力过 ns1:吴 .
+
+ns1:吾粲 ns1:官至 ns1:太子太傅 .
+
+ns1:周不疑 ns1:官至 ns1:无 ;
+    ns1:曾效力过 ns1:刘表 .
+
+ns1:周仓 ns1:官至 ns1:将军 ;
+    ns1:曾效力过 ns1:蜀 .
+
+ns1:周处 ns1:官至 ns1:建威将军,
+        ns1:追赠平西将军 ;
+    ns1:曾效力过 ns1:吴 .
+
+ns1:周宣 ns1:曾效力过 ns1:东汉 .
+
+ns1:周平 ns1:兄弟 ns1:周泰 .
+
+ns1:周日禺 ns1:官至 ns1:豫州刺史 ;
+    ns1:曾效力过 ns1:魏 .
+
+ns1:周旨 ns1:官至 ns1:牙门将 .
+
+ns1:周昂 ns1:官至 ns1:九江太守 .
+
+ns1:周昕 ns1:官至 ns1:丹杨太守 ;
+    ns1:曾效力过 ns1:东汉 .
+
+ns1:周朝 ns1:官至 ns1:无 .
+
+ns1:周浚 ns1:官至 ns1:侍中,
+        ns1:安东将军,
+        ns1:将作大匠,
+        ns1:少府 ;
+    ns1:曾效力过 ns1:魏 .
+
+ns1:周群 ns1:官至 ns1:儒林校尉 ;
+    ns1:曾效力过 ns1:刘焉 .
+
+ns1:周鲂 ns1:官至 ns1:关内侯,
+        ns1:裨将军,
+        ns1:鄱阳太守 .
+
+ns1:呼厨泉 ns1:官至 ns1:南匈奴单于 ;
+    ns1:曾效力过 ns1:少数民族 .
+
+ns1:和洽 ns1:官至 ns1:太常,
+        ns1:西陵乡侯,
+        ns1:谥曰简侯 ;
+    ns1:曾效力过 ns1:刘表 .
+
+ns1:唐周 ns1:曾效力过 ns1:东汉 .
+
+ns1:唐咨 ns1:官至 ns1:假节,
+        ns1:列侯,
+        ns1:安远将军 ;
+    ns1:曾效力过 ns1:魏 .
+
+ns1:唐彬 ns1:官至 ns1:上庸县侯,
+        ns1:使持节,
+        ns1:前将军,
+        ns1:西戎校尉,
+        ns1:谥曰襄侯,
+        ns1:雍州刺史 ;
+    ns1:曾效力过 ns1:魏 ;
+    ns1:父亲 ns1:唐宣 .
+
+ns1:国渊 ns1:官至 ns1:太仆 .
+
+ns1:土安 ns1:官至 ns1:藤甲军领兵俘长 .
+
+ns1:士仁 ns1:官至 ns1:将军 ;
+    ns1:曾效力过 ns1:蜀 .
+
+ns1:士匡 ns1:官至 ns1:中郎将 ;
+    ns1:曾效力过 ns1:士燮 .
+
+ns1:士壹 ns1:官至 ns1:偏将军,
+        ns1:都乡侯 ;
+    ns1:曾效力过 ns1:士燮 .
+
+ns1:士孙瑞 ns1:子女 ns1:士孙萌 ;
+    ns1:官至 ns1:尚书令 .
+
+ns1:士干 ns1:曾效力过 ns1:士燮 .
+
+ns1:士徽 ns1:曾效力过 ns1:士燮 .
+
+ns1:士武 ns1:官至 ns1:南海太守 ;
+    ns1:曾效力过 ns1:士燮 .
+
+ns1:士祗 ns1:曾效力过 ns1:吴 .
+
+ns1:士颂 ns1:曾效力过 ns1:士燮 .
+
+ns1:士黄有 ns1:官至 ns1:九真太守 ;
+    ns1:曾效力过 ns1:士燮 .
+
+ns1:夏侯令女 ns1:官至 ns1:无 .
+
+ns1:夏侯儒 ns1:官至 ns1:太仆 .
+
+ns1:夏侯兰 ns1:官至 ns1:军正 ;
+    ns1:曾效力过 ns1:蜀 .
+
+ns1:夏侯博 ns1:官至 ns1:将军 .
+
+ns1:夏侯咸 ns1:官至 ns1:军司马 .
+
+ns1:夏侯德 ns1:官至 ns1:将军 .
+
+ns1:夏侯恩 ns1:官至 ns1:背剑官,
+        ns1:部将 .
+
+ns1:夏侯杰 ns1:官至 ns1:部将 .
+
+ns1:夏侯献 ns1:官至 ns1:领军将军 .
+
+ns1:夏恽 ns1:官至 ns1:中常侍 .
+
+ns1:太史慈 ns1:子女 ns1:太史享 ;
+    ns1:官至 ns1:建昌都尉 ;
+    ns1:曾效力过 ns1:刘繇 ;
+    ns1:母亲 ns1:太史慈母 .
+
+ns1:奚泥 ns1:官至 ns1:藤甲军领兵俘长 .
+
+ns1:姚伷 ns1:官至 ns1:尚书仆射 .
+
+ns1:姜维 ns1:官至 ns1:假节,
+        ns1:凉州刺史,
+        ns1:大将军,
+        ns1:平襄侯 ;
+    ns1:母亲 ns1:姜维母 ;
+    ns1:父亲 ns1:姜冏 .
+
+ns1:娄圭 ns1:官至 ns1:将军 ;
+    ns1:曾效力过 ns1:刘表 .
+
+ns1:子冥 ns1:官至 ns1:司空,
+        ns1:水官 .
+
+ns1:孔伷 ns1:官至 ns1:豫州刺史 ;
+    ns1:曾效力过 ns1:东汉 .
+
+ns1:孔秀 ns1:官至 ns1:将军 .
+
+ns1:孔默 ns1:官至 ns1:尚书右丞 .
+
+ns1:孙乾 ns1:官至 ns1:秉忠将军 .
+
+ns1:孙仲 ns1:官至 ns1:渠帅 .
+
+ns1:孙冀 ns1:官至 ns1:左将军 .
+
+ns1:孙夏 ns1:官至 ns1:渠帅 .
+
+ns1:孙峻 ns1:兄弟 <http://www.e3ol.com/biography/html/孙氏[全尚妻]>,
+        <http://www.e3ol.com/biography/html/孙氏[朱损妻]> ;
+    ns1:官至 ns1:丞相,
+        ns1:假节,
+        ns1:大将军,
+        ns1:富春侯,
+        ns1:督中外诸军事 ;
+    ns1:父亲 ns1:孙恭 .
+
+ns1:孙康 ns1:官至 ns1:列侯,
+        ns1:城阳太守 ;
+    ns1:曾效力过 ns1:吕布,
+        ns1:陶谦 .
+
+ns1:孙桓 ns1:兄弟 ns1:孙俊,
+        <http://www.e3ol.com/biography/html/孙俊[孙河子]>,
+        ns1:孙助,
+        ns1:孙谊 ;
+    ns1:官至 ns1:丹徒侯,
+        ns1:建武将军 ;
+    ns1:父亲 ns1:孙河 .
+
+ns1:孙歆 ns1:官至 ns1:乐乡督 .
+
+ns1:孙礼 ns1:官至 ns1:司空,
+        ns1:大利亭侯 .
+
+<http://www.e3ol.com/biography/html/孙秀[吴]> ns1:官至 ns1:伏波将军,
+        ns1:会稽公,
+        ns1:开府仪同三司,
+        ns1:追赠骠骑将军 ;
+    ns1:曾效力过 ns1:吴 .
+
+ns1:孙綝 ns1:兄弟 ns1:孙干,
+        ns1:孙恩,
+        ns1:孙据,
+        ns1:孙闿 ;
+    ns1:官至 ns1:丞相,
+        ns1:假节,
+        ns1:大将军,
+        ns1:永宁侯,
+        ns1:荆州牧 ;
+    ns1:父亲 <http://www.e3ol.com/biography/html/孙绰[孙暠子]> .
+
+ns1:孙综 ns1:官至 ns1:郎中令 .
+
+ns1:孙观 ns1:官至 ns1:假节,
+        ns1:吕都亭侯,
+        ns1:振威将军,
+        ns1:青州刺史 ;
+    ns1:曾效力过 ns1:吕布,
+        ns1:陶谦 .
+
+ns1:孙贲 ns1:官至 ns1:征虏将军,
+        ns1:豫章太守,
+        ns1:都亭侯 ;
+    ns1:曾效力过 ns1:东汉,
+        ns1:吴 .
+
+ns1:孙资 ns1:子女 ns1:孙宏,
+        ns1:孙密 ;
+    ns1:官至 ns1:中书令,
+        ns1:中都侯,
+        ns1:卫将军,
+        ns1:谥曰贞 .
+
+ns1:孙轻 ns1:曾效力过 ns1:反贼,
+        ns1:魏 .
+
+ns1:孙述 ns1:官至 ns1:武昌督 .
+
+ns1:孙邵 ns1:官至 ns1:丞相,
+        ns1:威远将军,
+        ns1:阳羡侯 ;
+    ns1:曾效力过 ns1:刘繇,
+        ns1:孔融 .
+
+ns1:孙震 ns1:官至 ns1:护军,
+        ns1:无难督 .
+
+ns1:孙韶 ns1:子女 ns1:孙奕,
+        ns1:孙异,
+        ns1:孙恢,
+        ns1:孙楷,
+        ns1:孙越 ;
+    ns1:官至 ns1:假节,
+        ns1:幽州牧,
+        ns1:镇北将军 .
+
+ns1:孟仁 ns1:官至 ns1:司空 .
+
+ns1:孟光 ns1:官至 ns1:大司农 ;
+    ns1:曾效力过 ns1:东汉,
+        ns1:刘焉 .
+
+ns1:孟坦 ns1:官至 ns1:牙将 .
+
+ns1:孟建 ns1:官至 ns1:凉州刺史,
+        ns1:征东将军 .
+
+<http://www.e3ol.com/biography/html/孟达[蜀]> ns1:官至 ns1:平阳亭侯,
+        ns1:建武将军,
+        ns1:散骑常侍,
+        ns1:新城太守 ;
+    ns1:曾效力过 ns1:刘璋,
+        ns1:蜀 .
+
+ns1:季雍 ns1:官至 ns1:鄃县令 ;
+    ns1:曾效力过 ns1:东汉 .
+
+ns1:宁随 ns1:官至 ns1:将军 .
+
+ns1:宋宪 ns1:曾效力过 ns1:吕布 .
+
+ns1:宋忠 ns1:曾效力过 ns1:东汉,
+        ns1:刘表 .
+
+ns1:宋扬 ns1:官至 ns1:河首平汉王 ;
+    ns1:曾效力过 ns1:东汉,
+        ns1:张角 .
+
+ns1:宋白 ns1:官至 ns1:慎县令 .
+
+ns1:宋襄公 ns1:官至 ns1:宋国国君 .
+
+ns1:宗子卿 ns1:官至 ns1:功曹 .
+
+ns1:宗宝 ns1:官至 ns1:将军 .
+
+ns1:宗玮 ns1:官至 ns1:太中大夫 .
+
+ns1:宗预 ns1:官至 ns1:兖州刺史,
+        ns1:关内侯,
+        ns1:镇军大将军 .
+
+ns1:审配 ns1:官至 ns1:治中 .
+
+ns1:宿舒 ns1:官至 ns1:校尉 .
+
+ns1:封谞 ns1:官至 ns1:中常侍 .
+
+ns1:射坚 ns1:官至 ns1:蜀郡太守 ;
+    ns1:曾效力过 ns1:东汉,
+        ns1:刘焉 .
+
+ns1:射援 ns1:官至 ns1:从事中郎 ;
+    ns1:曾效力过 ns1:东汉,
+        ns1:刘焉 .
+
+ns1:尉仇台 ns1:官至 ns1:夫馀王 .
+
+ns1:尹奉 ns1:官至 ns1:敦煌太守 .
+
+ns1:尹楷 ns1:官至 ns1:武安长 .
+
+ns1:尹礼 ns1:官至 ns1:东莞太守 ;
+    ns1:曾效力过 ns1:吕布,
+        ns1:陶谦 .
+
+ns1:尹赏 ns1:官至 ns1:执金吾 ;
+    ns1:曾效力过 ns1:蜀 .
+
+ns1:尹默 ns1:子女 ns1:尹宗 ;
+    ns1:官至 ns1:太中大夫 .
+
+ns1:山涛 ns1:子女 ns1:山简 ;
+    ns1:官至 ns1:侍中,
+        ns1:光禄大夫,
+        ns1:右仆射,
+        ns1:新沓伯,
+        ns1:谥曰康伯,
+        ns1:追赠司徒 ;
+    ns1:曾效力过 ns1:魏 ;
+    ns1:父亲 ns1:山曜 .
+
+ns1:岑璧 ns1:官至 ns1:将军 .
+
+ns1:崔勇 ns1:官至 ns1:部将 .
+
+ns1:崔州平 ns1:官至 ns1:不仕 .
+
+ns1:崔巨业 ns1:官至 ns1:将军 .
+
+ns1:崔琰 ns1:兄弟 ns1:崔林 ;
+    ns1:官至 ns1:中尉 ;
+    ns1:曾效力过 ns1:魏 .
+
+<http://www.e3ol.com/biography/html/崔谅[西晋]> ns1:官至 ns1:大鸿胪,
+        ns1:尚书 .
+
+ns1:嵇喜 ns1:官至 ns1:太仆,
+        ns1:宗正 ;
+    ns1:曾效力过 ns1:魏 .
+
+ns1:嵇康 ns1:官至 ns1:中散大夫 .
+
+ns1:嵇昭 ns1:官至 ns1:治书侍御史 .
+
+ns1:左丰 ns1:官至 ns1:黄门 .
+
+ns1:巩志 ns1:官至 ns1:武陵太守 ;
+    ns1:曾效力过 ns1:蜀 .
+
+ns1:师纂 ns1:官至 ns1:益州刺史 .
+
+ns1:常播 ns1:官至 ns1:郪长 .
+
+ns1:常旹 ns1:官至 ns1:泰山太守 .
+
+ns1:常林 ns1:官至 ns1:光禄大夫,
+        ns1:谥曰贞侯,
+        ns1:追赠骠骑将军,
+        ns1:高阳乡侯 .
+
+ns1:应玚 ns1:官至 ns1:司空掾 .
+
+ns1:庞会 ns1:官至 ns1:中尉将军,
+        ns1:临渭乡侯 ;
+    ns1:母亲 <http://www.e3ol.com/biography/html/李氏[庞德妻]> ;
+    ns1:父亲 ns1:庞德 .
+
+ns1:庞淯 ns1:官至 ns1:中散大夫,
+        ns1:关内侯 ;
+    ns1:曾效力过 ns1:东汉 .
+
+ns1:庞统 ns1:兄弟 ns1:庞林 ;
+    ns1:子女 ns1:庞宏 ;
+    ns1:官至 ns1:军师中郎将,
+        ns1:谥曰靖侯,
+        ns1:追赐关内侯 ;
+    ns1:曾效力过 ns1:蜀 .
+
+ns1:庞羲 ns1:官至 ns1:左将军司马 ;
+    ns1:曾效力过 ns1:东汉 .
+
+ns1:庾亮 ns1:官至 ns1:太尉 ;
+    ns1:曾效力过 ns1:魏 .
+
+ns1:廉斯鑡 ns1:官至 ns1:右渠帅 .
+
+ns1:廖化 ns1:官至 ns1:中乡侯,
+        ns1:假节,
+        ns1:右车骑将军,
+        ns1:并州刺史 .
+
+ns1:廖立 ns1:官至 ns1:长水校尉 .
+
+ns1:弓遵 ns1:官至 ns1:带方太守 .
+
+ns1:张世平 ns1:官至 ns1:无 .
+
+ns1:张举 ns1:曾效力过 ns1:东汉 .
+
+ns1:张乔 ns1:官至 ns1:城阳都尉 .
+
+ns1:张任 ns1:官至 ns1:益州从事 .
+
+ns1:张俨 ns1:官至 ns1:大鸿胪 .
+
+<http://www.e3ol.com/biography/html/张修[东汉]> ns1:官至 ns1:别部司马 .
+
+<http://www.e3ol.com/biography/html/张允[刘表]> ns1:曾效力过 ns1:刘表 .
+
+ns1:张勋 ns1:官至 ns1:大将军 .
+
+<http://www.e3ol.com/biography/html/张华[西晋]> ns1:官至 ns1:中书监,
+        ns1:侍中,
+        ns1:右光禄大夫,
+        ns1:壮武郡公 ;
+    ns1:曾效力过 ns1:魏 .
+
+<http://www.e3ol.com/biography/html/张南[蜀]> ns1:官至 ns1:将军 .
+
+<http://www.e3ol.com/biography/html/张南[魏]> ns1:官至 ns1:列侯,
+        ns1:将军 ;
+    ns1:曾效力过 ns1:魏 .
+
+ns1:张卫 ns1:曾效力过 ns1:东汉 .
+
+<http://www.e3ol.com/biography/html/张奉[中常侍]> ns1:官至 ns1:中常侍 .
+
+<http://www.e3ol.com/biography/html/张奋[吴]> ns1:官至 ns1:乐乡亭侯,
+        ns1:半州都督 .
+
+<http://www.e3ol.com/biography/html/张奋[魏]> ns1:曾效力过 ns1:东汉 .
+
+<http://www.e3ol.com/biography/html/张婴[吴]> ns1:曾效力过 ns1:魏 .
+
+ns1:张宝 ns1:官至 ns1:地公将军 .
+
+ns1:张嶷 ns1:子女 ns1:张护雄,
+        ns1:张瑛 ;
+    ns1:官至 ns1:关内侯,
+        ns1:荡寇将军 ;
+    ns1:曾效力过 ns1:刘焉 .
+
+ns1:张布 ns1:官至 ns1:侍中,
+        ns1:永康侯,
+        ns1:骠骑将军 .
+
+ns1:张恭 ns1:官至 ns1:关内侯,
+        ns1:西域戊己校尉,
+        ns1:赠执金吾 ;
+    ns1:曾效力过 ns1:东汉 .
+
+ns1:张悌 ns1:官至 ns1:丞相 .
+
+<http://www.e3ol.com/biography/html/张承[魏]> ns1:曾效力过 ns1:东汉 .
+
+ns1:张斅 ns1:官至 ns1:匈奴中郎将 .
+
+ns1:张既 ns1:子女 ns1:张缉,
+        ns1:张翁归,
+        ns1:翁归 ;
+    ns1:官至 ns1:凉州刺史,
+        ns1:西乡侯,
+        ns1:谥曰肃侯 .
+
+ns1:张显 ns1:官至 ns1:渔阳太守 .
+
+ns1:张曼成 ns1:官至 ns1:渠帅 .
+
+ns1:张机 ns1:官至 ns1:长沙太守 .
+
+ns1:张杨 ns1:官至 ns1:大司马,
+        ns1:晋阳侯,
+        ns1:河内太守 .
+
+<http://www.e3ol.com/biography/html/张松[刘璋]> ns1:官至 ns1:益州别驾 .
+
+<http://www.e3ol.com/biography/html/张梁[起义军]> ns1:官至 ns1:人公将军 .
+
+ns1:张津 ns1:官至 ns1:交州刺史 .
+
+ns1:张济 ns1:官至 ns1:平阳侯,
+        ns1:骠骑将军 .
+
+<http://www.e3ol.com/biography/html/张温[东汉]> ns1:官至 ns1:互乡侯,
+        ns1:卫尉 .
+
+<http://www.e3ol.com/biography/html/张温[吴]> ns1:官至 ns1:辅义中郎将 .
+
+ns1:张爽 ns1:官至 ns1:劝学从事 .
+
+ns1:张牛角 ns1:官至 ns1:首领 ;
+    ns1:曾效力过 ns1:反贼 .
+
+ns1:张特 ns1:官至 ns1:列侯,
+        ns1:安丰太守,
+        ns1:杂号将军 .
+
+ns1:张猛 ns1:官至 ns1:武威太守 .
+
+ns1:张球 ns1:官至 ns1:骁将 .
+
+ns1:张白骑 ns1:官至 ns1:无 .
+
+ns1:张睦 ns1:官至 ns1:西海太守 .
+
+ns1:张纮 ns1:子女 ns1:张玄,
+        ns1:张靖 ;
+    ns1:官至 ns1:长史 .
+
+ns1:张绣 ns1:子女 <http://www.e3ol.com/biography/html/张氏[曹均妻]>,
+        ns1:张泉 ;
+    ns1:官至 ns1:宣威侯,
+        ns1:破羌将军,
+        ns1:谥曰定侯 ;
+    ns1:曾效力过 ns1:东汉,
+        ns1:董卓 .
+
+ns1:张翼 ns1:官至 ns1:假节,
+        ns1:冀州刺史,
+        ns1:左车骑将军,
+        ns1:都亭侯 ;
+    ns1:曾效力过 ns1:蜀 .
+
+ns1:张肃 ns1:官至 ns1:广汉太守 .
+
+<http://www.e3ol.com/biography/html/张节[魏]> ns1:官至 ns1:黄门侍郎 ;
+    ns1:曾效力过 ns1:起义军 .
+
+ns1:张英 ns1:官至 ns1:将军 .
+
+ns1:张范 ns1:官至 ns1:丞相参军祭酒,
+        ns1:赵郡太守 ;
+    ns1:曾效力过 ns1:东汉 .
+
+ns1:张著 ns1:官至 ns1:将军 .
+
+<http://www.e3ol.com/biography/html/张虎[刘表]> ns1:官至 ns1:无 ;
+    ns1:曾效力过 ns1:反贼 .
+
+ns1:张裔 ns1:官至 ns1:丞相长史,
+        ns1:辅汉将军 ;
+    ns1:曾效力过 ns1:刘焉 .
+
+ns1:张让 ns1:官至 ns1:中常侍,
+        ns1:列侯 .
+
+ns1:张象 ns1:官至 ns1:游击将军 ;
+    ns1:曾效力过 ns1:吴 .
+
+<http://www.e3ol.com/biography/html/张超[张邈弟]> ns1:兄弟 ns1:张邈 ;
+    ns1:官至 ns1:广陵太守 .
+
+ns1:张辽 ns1:兄弟 ns1:张汎 ;
+    ns1:子女 <http://www.e3ol.com/biography/html/张虎[魏]> ;
+    ns1:官至 ns1:假节,
+        ns1:前将军,
+        ns1:晋阳侯,
+        ns1:谥曰刚侯 ;
+    ns1:曾效力过 ns1:东汉,
+        ns1:董卓 .
+
+<http://www.e3ol.com/biography/html/张达[蜀]> ns1:官至 ns1:将军 ;
+    ns1:曾效力过 ns1:蜀 .
+
+ns1:张遵 ns1:官至 ns1:尚书 .
+
+<http://www.e3ol.com/biography/html/张邈[东汉]> ns1:官至 ns1:陈留太守 ;
+    ns1:曾效力过 ns1:东汉 .
+
+<http://www.e3ol.com/biography/html/张邈[西晋]> ns1:官至 ns1:辽东太守 .
+
+ns1:张郃 ns1:子女 ns1:张雄 ;
+    ns1:官至 ns1:征西车骑将军,
+        ns1:谥壮侯 ;
+    ns1:曾效力过 ns1:魏 .
+
+ns1:张释之 ns1:官至 ns1:廷尉 .
+
+ns1:张钧 ns1:官至 ns1:郎中 .
+
+ns1:张闿 ns1:官至 ns1:都尉 ;
+    ns1:曾效力过 ns1:东汉 .
+
+ns1:张陟 ns1:官至 ns1:并州刺史 .
+
+ns1:张顗 ns1:官至 ns1:将军 ;
+    ns1:曾效力过 ns1:魏 .
+
+ns1:张颍 ns1:官至 ns1:将军 .
+
+ns1:张鲁 ns1:官至 ns1:谥曰原侯,
+        ns1:镇南将军,
+        ns1:阆中侯 .
+
+ns1:强端 ns1:官至 ns1:氐王 ;
+    ns1:曾效力过 ns1:少数民族 .
+
+ns1:彭仲爽 ns1:官至 ns1:令尹 .
+
+ns1:彭伯 ns1:官至 ns1:议郎 .
+
+ns1:彭羕 ns1:官至 ns1:江阳太守 ;
+    ns1:曾效力过 ns1:刘焉 .
+
+ns1:彭脱 ns1:官至 ns1:渠帅 .
+
+ns1:彻里吉 ns1:官至 ns1:西羌国王 .
+
+ns1:徐商 ns1:官至 ns1:将军 .
+
+ns1:徐奕 ns1:官至 ns1:谏议大夫 .
+
+ns1:徐宣 ns1:官至 ns1:侍中光禄大夫,
+        ns1:津阳亭侯,
+        ns1:谥曰贞侯,
+        ns1:追赠车骑将军 ;
+    ns1:曾效力过 ns1:东汉 .
+
+ns1:徐干 ns1:官至 ns1:五官将文学,
+        ns1:司空军师祭酒掾属 .
+
+ns1:徐庶 ns1:官至 ns1:右中郎将,
+        ns1:御史中丞 ;
+    ns1:曾效力过 ns1:蜀 ;
+    ns1:母亲 ns1:徐庶母 .
+
+ns1:徐晃 ns1:子女 ns1:徐盖 ;
+    ns1:官至 ns1:假节,
+        ns1:右将军,
+        ns1:谥曰壮侯,
+        ns1:阳平侯 ;
+    ns1:曾效力过 ns1:东汉 .
+
+<http://www.e3ol.com/biography/html/徐氏[孙翊妻]> ns1:官至 ns1:无 .
+
+ns1:徐璆 ns1:官至 ns1:太常 ;
+    ns1:曾效力过 ns1:东汉 ;
+    ns1:父亲 ns1:徐淑 .
+
+ns1:徐盛 ns1:子女 ns1:徐楷 ;
+    ns1:官至 ns1:安东将军,
+        ns1:芜湖侯 .
+
+ns1:徐荣 ns1:官至 ns1:中郎将 ;
+    ns1:曾效力过 ns1:东汉 .
+
+<http://www.e3ol.com/biography/html/徐质[魏讨蜀护军]> ns1:官至 ns1:讨蜀护军 .
+
+ns1:戏志才 ns1:官至 ns1:谋士 .
+
+ns1:成公英 ns1:官至 ns1:军师,
+        ns1:列侯 .
+
+ns1:成廉 ns1:官至 ns1:将军 .
+
+ns1:成得臣 ns1:官至 ns1:令尹 .
+
+ns1:成济 ns1:官至 ns1:将军 .
+
+ns1:文俶 ns1:兄弟 ns1:文虎 ;
+    ns1:官至 ns1:东夷校尉,
+        ns1:关内侯 ;
+    ns1:曾效力过 ns1:吴,
+        ns1:魏 ;
+    ns1:父亲 ns1:文钦 .
+
+ns1:文聘 ns1:子女 ns1:文休,
+        ns1:文岱 ;
+    ns1:官至 ns1:后将军,
+        ns1:新野侯,
+        ns1:江夏太守,
+        ns1:谥曰壮 ;
+    ns1:曾效力过 ns1:刘表 .
+
+ns1:方悦 ns1:官至 ns1:将军 .
+
+ns1:施朔 ns1:官至 ns1:武卫士 .
+
+ns1:昌豨 ns1:官至 ns1:东海太守 .
+
+ns1:是仪 ns1:官至 ns1:尚书仆射,
+        ns1:都乡侯,
+        ns1:鲁王傅 ;
+    ns1:曾效力过 ns1:刘繇,
+        ns1:孔融 .
+
+ns1:晏明 ns1:官至 ns1:将军 .
+
+ns1:普净 ns1:官至 ns1:僧人 .
+
+ns1:曹仁 ns1:兄弟 ns1:曹纯 ;
+    ns1:子女 <http://www.e3ol.com/biography/html/曹楷[曹仁子]>,
+        <http://www.e3ol.com/biography/html/曹氏[孙匡妻]>,
+        ns1:曹泰,
+        <http://www.e3ol.com/biography/html/曹范[曹仁子]> ;
+    ns1:官至 ns1:假节,
+        ns1:大司马,
+        ns1:谥曰忠侯,
+        ns1:陈侯 ;
+    ns1:父亲 ns1:曹炽 .
+
+ns1:曹休 ns1:官至 ns1:大司马,
+        ns1:谥曰壮 .
+
+ns1:曹奂 ns1:官至 ns1:谥曰元,
+        ns1:魏国皇帝 ;
+    ns1:曾效力过 ns1:魏 ;
+    ns1:父亲 ns1:曹宇 ;
+    ns1:配偶 <http://www.e3ol.com/biography/html/卞皇后[曹奂妻]> .
+
+ns1:曹性 ns1:官至 ns1:将军 .
+
+<http://www.e3ol.com/biography/html/曹氏[嵇康妻]> ns1:曾效力过 ns1:东汉 .
+
+ns1:曹永 ns1:官至 ns1:将军 .
+
+ns1:曹洪 ns1:子女 <http://www.e3ol.com/biography/html/曹氏[荀粲妻]>,
+        ns1:曹震,
+        ns1:曹馥 ;
+    ns1:官至 ns1:乐城侯,
+        ns1:特进,
+        ns1:谥曰恭侯,
+        ns1:骠骑将军 .
+
+ns1:曹肇 ns1:官至 ns1:安阳乡侯,
+        ns1:屯骑校尉,
+        ns1:追赠卫将军 .
+
+<http://www.e3ol.com/biography/html/曹节[东汉]> ns1:官至 ns1:尚书令,
+        ns1:育阳侯,
+        ns1:赠车骑将军 .
+
+ns1:曹芳 ns1:官至 ns1:谥曰厉,
+        ns1:魏国皇帝 .
+
+ns1:曹豹 ns1:官至 ns1:下邳相 .
+
+ns1:朱儁 ns1:子女 ns1:朱皓,
+        ns1:朱符 ;
+    ns1:官至 ns1:大司农,
+        ns1:钱塘侯 .
+
+ns1:朱光 ns1:官至 ns1:庐江太守 ;
+    ns1:曾效力过 ns1:东汉 .
+
+ns1:朱据 ns1:官至 ns1:云阳侯,
+        ns1:新都郡丞,
+        ns1:骠骑将军 .
+
+ns1:朱桓 ns1:子女 ns1:朱异 ;
+    ns1:官至 ns1:假节,
+        ns1:前将军,
+        ns1:嘉兴侯,
+        ns1:青州牧 .
+
+ns1:朱治 ns1:官至 ns1:吴郡太守,
+        ns1:安国将军,
+        ns1:毗陵侯 .
+
+ns1:朱灵 ns1:官至 ns1:假节,
+        ns1:后将军,
+        ns1:谥曰威,
+        ns1:高唐亭侯 ;
+    ns1:曾效力过 ns1:魏 .
+
+ns1:朱然 ns1:兄弟 ns1:朱万,
+        ns1:朱才,
+        ns1:朱纪,
+        ns1:朱纬 ;
+    ns1:子女 ns1:朱绩 ;
+    ns1:官至 ns1:兖州牧,
+        ns1:右军师,
+        ns1:左大司马,
+        ns1:当阳侯 ;
+    ns1:母亲 ns1:朱氏 ;
+    ns1:父亲 ns1:施氏 .
+
+ns1:朱褒 ns1:官至 ns1:牂牁太守 ;
+    ns1:曾效力过 ns1:蜀 .
+
+ns1:李严 ns1:子女 <http://www.e3ol.com/biography/html/李丰[蜀]> ;
+    ns1:官至 ns1:中都护,
+        ns1:都乡侯,
+        ns1:骠骑将军 ;
+    ns1:曾效力过 ns1:刘焉,
+        ns1:刘表 .
+
+<http://www.e3ol.com/biography/html/李丰[袁术]> ns1:官至 ns1:将军 .
+
+<http://www.e3ol.com/biography/html/李丰[魏]> ns1:兄弟 ns1:李伟,
+        ns1:李翼 ;
+    ns1:子女 ns1:李韬 ;
+    ns1:官至 ns1:中书令 ;
+    ns1:父亲 ns1:李义 .
+
+ns1:李乐 ns1:官至 ns1:征北将军 .
+
+ns1:李傕 ns1:官至 ns1:大司马,
+        ns1:池阳侯 .
+
+ns1:李儒 ns1:官至 ns1:郎中令 .
+
+ns1:李典 ns1:子女 <http://www.e3ol.com/biography/html/李祯[魏]> ;
+    ns1:官至 ns1:破虏将军,
+        ns1:谥曰愍侯,
+        ns1:都亭侯 .
+
+ns1:李历 ns1:官至 ns1:治中 .
+
+ns1:李孚 ns1:官至 ns1:阳平太守 ;
+    ns1:曾效力过 ns1:魏 .
+
+ns1:李密 ns1:官至 ns1:汉中太守 .
+
+<http://www.e3ol.com/biography/html/李异[吴]> ns1:官至 ns1:将军 .
+
+ns1:李恢 ns1:兄弟 ns1:李球之父 ;
+    ns1:子女 ns1:李遗 ;
+    ns1:官至 ns1:安汉将军,
+        ns1:建宁太守,
+        ns1:汉兴亭侯 ;
+    ns1:曾效力过 ns1:刘焉 .
+
+ns1:李敏 ns1:官至 ns1:河内太守 .
+
+ns1:李整 ns1:官至 ns1:青州刺史 .
+
+ns1:李歆 ns1:官至 ns1:将军 ;
+    ns1:曾效力过 ns1:蜀 .
+
+ns1:李珪 ns1:官至 ns1:幕官 .
+
+ns1:李球 ns1:官至 ns1:羽林右部督 .
+
+ns1:李福 ns1:子女 <http://www.e3ol.com/biography/html/李骧[西晋]> ;
+    ns1:官至 ns1:前监军,
+        ns1:大将军司马,
+        ns1:平阳亭侯 ;
+    ns1:父亲 ns1:李权 .
+
+ns1:李秉 ns1:官至 ns1:秦州刺史 .
+
+ns1:李立 ns1:官至 ns1:荆州刺史 .
+
+<http://www.e3ol.com/biography/html/李肃[东汉]> ns1:官至 ns1:骑都尉 .
+
+<http://www.e3ol.com/biography/html/李肃[吴]> ns1:官至 ns1:卿 .
+
+ns1:李胜 ns1:官至 ns1:荆州刺史 ;
+    ns1:父亲 ns1:李休 .
+
+ns1:李蒙 ns1:官至 ns1:校尉 .
+
+ns1:李譔 ns1:官至 ns1:中散中大夫,
+        ns1:右中郎将 ;
+    ns1:父亲 <http://www.e3ol.com/biography/html/李仁[东汉]> .
+
+ns1:李辅 ns1:官至 ns1:前将军 .
+
+<http://www.e3ol.com/biography/html/李通[魏]> ns1:子女 ns1:李基,
+        ns1:李绪 ;
+    ns1:官至 ns1:汝南太守,
+        ns1:谥曰刚侯,
+        ns1:都亭侯 .
+
+ns1:李邹 ns1:官至 ns1:部将 .
+
+ns1:李重 ns1:官至 ns1:平阳太守,
+        ns1:追赠散骑常侍 .
+
+ns1:李鹏 ns1:官至 ns1:将军 .
+
+ns1:杜夔 ns1:官至 ns1:协律都尉,
+        ns1:太乐令 ;
+    ns1:曾效力过 ns1:东汉,
+        ns1:刘表 .
+
+ns1:杜宽 ns1:官至 ns1:郎中 .
+
+ns1:杜微 ns1:官至 ns1:谏议大夫 .
+
+ns1:杜琼 ns1:官至 ns1:太常 .
+
+ns1:杜畿 ns1:官至 ns1:丰乐亭侯,
+        ns1:尚书仆射,
+        ns1:谥曰戴侯,
+        ns1:追赠太仆 ;
+    ns1:曾效力过 ns1:东汉 .
+
+ns1:杜袭 ns1:官至 ns1:太中大夫,
+        ns1:平阳乡侯,
+        ns1:谥曰定侯,
+        ns1:追赠少府 ;
+    ns1:曾效力过 ns1:刘表 .
+
+ns1:杜远 ns1:官至 ns1:无 .
+
+ns1:杜预 ns1:子女 ns1:杜锡 ;
+    ns1:官至 ns1:当阳县侯,
+        ns1:谥成,
+        ns1:镇南大将军 ;
+    ns1:曾效力过 ns1:魏 ;
+    ns1:父亲 ns1:杜恕 .
+
+ns1:来敏 ns1:子女 ns1:来忠 ;
+    ns1:官至 ns1:执慎将军 ;
+    ns1:父亲 ns1:来艳 .
+
+ns1:杨丑 ns1:官至 ns1:将军 .
+
+ns1:杨仪 ns1:兄弟 ns1:杨虑 ;
+    ns1:官至 ns1:中军师 .
+
+ns1:杨任 ns1:官至 ns1:将军 .
+
+ns1:杨修 ns1:官至 ns1:丞相主簿 .
+
+ns1:杨奉 ns1:官至 ns1:车骑将军 ;
+    ns1:曾效力过 ns1:东汉,
+        ns1:董卓 .
+
+<http://www.e3ol.com/biography/html/杨弘[袁术]> ns1:官至 ns1:长史 .
+
+ns1:杨彪 ns1:官至 ns1:临晋侯,
+        ns1:光禄大夫 ;
+    ns1:曾效力过 ns1:东汉 .
+
+ns1:杨怀 ns1:官至 ns1:白水军督 .
+
+ns1:杨戏 ns1:官至 ns1:射声校尉,
+        ns1:护军监军,
+        ns1:梓潼太守 .
+
+ns1:杨昂 ns1:官至 ns1:将军 .
+
+ns1:杨暨 ns1:子女 ns1:杨肇 ;
+    ns1:官至 ns1:中领军 .
+
+ns1:杨欣 ns1:官至 ns1:凉州刺史 ;
+    ns1:曾效力过 ns1:魏 .
+
+ns1:杨洪 ns1:官至 ns1:关内侯,
+        ns1:蜀郡太守,
+        ns1:越骑校尉 ;
+    ns1:曾效力过 ns1:刘焉 .
+
+ns1:杨济 ns1:官至 ns1:太子太傅 .
+
+ns1:杨祚 ns1:官至 ns1:将军 ;
+    ns1:曾效力过 ns1:东汉 .
+
+ns1:杨秋 ns1:官至 ns1:临泾侯,
+        ns1:讨寇将军 ;
+    ns1:曾效力过 ns1:韩遂 .
+
+ns1:杨稷 ns1:官至 ns1:交州刺史,
+        ns1:追赠交州刺史 .
+
+ns1:杨锋 ns1:官至 ns1:迤西银冶洞二十一洞主 ;
+    ns1:曾效力过 ns1:少数民族 .
+
+ns1:杨阜 ns1:官至 ns1:关内侯,
+        ns1:少府 ;
+    ns1:配偶 ns1:杨阜妻 .
+
+ns1:杨陵 ns1:官至 ns1:南安太守 .
+
+ns1:杨颙 ns1:官至 ns1:主簿,
+        ns1:巴郡太守 .
+
+ns1:杨龄 ns1:官至 ns1:管军校尉 ;
+    ns1:曾效力过 ns1:刘表 .
+
+ns1:枣祗 ns1:官至 ns1:陈留太守 .
+
+ns1:柯吾 ns1:曾效力过 ns1:少数民族 .
+
+ns1:柳浦 ns1:官至 ns1:参军 .
+
+ns1:柳远 ns1:官至 ns1:长史 .
+
+ns1:栈潜 ns1:官至 ns1:中尉 .
+
+ns1:桓治 ns1:官至 ns1:将军 .
+
+ns1:桓温 ns1:官至 ns1:侍中,
+        ns1:大司马,
+        ns1:安西将军,
+        ns1:开府,
+        ns1:录尚书事 .
+
+ns1:桓阶 ns1:兄弟 ns1:桓纂 ;
+    ns1:子女 ns1:桓嘉,
+        ns1:桓祐 ;
+    ns1:官至 ns1:太常,
+        ns1:安乐乡侯,
+        ns1:谥曰贞侯 ;
+    ns1:曾效力过 ns1:东汉,
+        ns1:刘表 ;
+    ns1:父亲 ns1:桓胜 .
+
+ns1:桥瑁 ns1:官至 ns1:东郡太守 .
+
+ns1:桥蕤 ns1:曾效力过 ns1:东汉 .
+
+ns1:梁习 ns1:官至 ns1:大司农,
+        ns1:并州刺史,
+        ns1:申门亭侯 .
+
+ns1:梁纲 ns1:官至 ns1:将军 .
+
+ns1:梁绪 ns1:官至 ns1:大鸿胪 ;
+    ns1:曾效力过 ns1:蜀 .
+
+ns1:梁虔 ns1:官至 ns1:大长秋 ;
+    ns1:曾效力过 ns1:蜀 .
+
+ns1:梁鹄 ns1:官至 ns1:吏部尚书 .
+
+ns1:梅成 ns1:官至 ns1:无 .
+
+ns1:楚成王 ns1:官至 ns1:国君 .
+
+ns1:楼玄 ns1:子女 ns1:楼据 ;
+    ns1:官至 ns1:会稽太守,
+        ns1:大司农,
+        ns1:宫下镇禁中候,
+        ns1:散骑中常侍 .
+
+ns1:樊建 ns1:官至 ns1:给事中 ;
+    ns1:曾效力过 ns1:蜀,
+        ns1:魏 .
+
+ns1:樊氏 ns1:官至 ns1:无 ;
+    ns1:曾效力过 ns1:东汉,
+        ns1:刘表 .
+
+ns1:樊稠 ns1:官至 ns1:万年侯,
+        ns1:右将军 .
+
+ns1:樊能 ns1:官至 ns1:将军 .
+
+ns1:步度根 ns1:官至 ns1:鲜卑王 ;
+    ns1:曾效力过 ns1:少数民族 .
+
+ns1:步玑 ns1:官至 ns1:左将军,
+        ns1:庐陵太守,
+        ns1:散骑常侍,
+        ns1:江陵侯 ;
+    ns1:曾效力过 ns1:吴 .
+
+ns1:步璿 ns1:官至 ns1:宣威将军,
+        ns1:给事中,
+        ns1:都乡侯 ;
+    ns1:曾效力过 ns1:吴 .
+
+ns1:步骘 ns1:子女 ns1:步协,
+        ns1:步阐 ;
+    ns1:官至 ns1:丞相,
+        ns1:临湘侯 .
+
+ns1:武安国 ns1:官至 ns1:将军 .
+
+ns1:段珪 ns1:子女 ns1:无 ;
+    ns1:官至 ns1:中常侍,
+        ns1:列侯 .
+
+ns1:殷观 ns1:官至 ns1:别驾从事 ;
+    ns1:曾效力过 ns1:刘表 .
+
+ns1:毌丘俭 ns1:官至 ns1:假节,
+        ns1:安邑侯,
+        ns1:杨州刺史,
+        ns1:镇南将军 .
+
+ns1:毌丘甸 ns1:官至 ns1:治书侍御史 .
+
+ns1:毕岚 ns1:官至 ns1:中常侍 .
+
+ns1:毕轨 ns1:官至 ns1:侍中,
+        ns1:司隶校尉,
+        ns1:尚书 .
+
+ns1:毛炅 ns1:官至 ns1:交阯太守 .
+
+ns1:毛玠 ns1:子女 ns1:毛机 ;
+    ns1:官至 ns1:尚书仆射 ;
+    ns1:曾效力过 ns1:东汉 .
+
+ns1:汗卢维 ns1:官至 ns1:率众王 .
+
+ns1:沈莹 ns1:官至 ns1:丹杨太守 .
+
+ns1:沙摩柯 ns1:官至 <http://www.e3ol.com/biography/html/蛮王（胡王）> .
+
+ns1:沮授 ns1:兄弟 ns1:沮宗 ;
+    ns1:子女 ns1:沮鹄 ;
+    ns1:官至 ns1:奋威将军,
+        ns1:监军 .
+
+ns1:法正 ns1:子女 ns1:法邈 ;
+    ns1:官至 ns1:护军将军,
+        <http://www.e3ol.com/biography/html/（汉中国）尚书令> ;
+    ns1:父亲 ns1:法衍 .
+
+ns1:注诣 ns1:官至 ns1:烧当羌王 .
+
+ns1:淳于丹 ns1:官至 ns1:将军 .
+
+ns1:淳于导 ns1:官至 ns1:将军 .
+
+ns1:淳于琼 ns1:官至 ns1:西园校尉 ;
+    ns1:曾效力过 ns1:东汉 .
+
+ns1:温恢 ns1:官至 ns1:凉州刺史,
+        ns1:护羌校尉 ;
+    ns1:曾效力过 ns1:东汉 .
+
+ns1:滕修 ns1:官至 ns1:安南将军,
+        ns1:广州牧,
+        ns1:持节,
+        ns1:武当侯,
+        ns1:谥曰忠侯,
+        ns1:都督广州军事 ;
+    ns1:曾效力过 ns1:吴 .
+
+ns1:滕胤 ns1:官至 ns1:丞相,
+        ns1:大司马,
+        ns1:都亭侯 .
+
+ns1:满宠 ns1:子女 ns1:满伟 ;
+    ns1:官至 ns1:太尉,
+        ns1:昌邑侯,
+        ns1:谥曰景侯 ;
+    ns1:曾效力过 ns1:东汉 .
+
+ns1:潘临 ns1:官至 ns1:山贼大帅 .
+
+ns1:潘凤 ns1:官至 ns1:将军 .
+
+ns1:潘岳 ns1:官至 ns1:给事黄门侍郎 .
+
+ns1:潘濬 ns1:官至 ns1:假节,
+        ns1:刘阳侯,
+        ns1:太常 ;
+    ns1:曾效力过 ns1:刘表,
+        ns1:蜀 .
+
+ns1:潘璋 ns1:子女 ns1:潘平 ;
+    ns1:官至 ns1:右将军,
+        ns1:溧阳侯 .
+
+ns1:焦和 ns1:官至 ns1:青州刺史 .
+
+ns1:焦彝 ns1:官至 ns1:将军 .
+
+ns1:焦触 ns1:官至 ns1:列侯,
+        ns1:将军 ;
+    ns1:曾效力过 ns1:魏 .
+
+ns1:熊睦 ns1:官至 ns1:尚书 .
+
+ns1:牛辅 ns1:官至 ns1:中郎将 .
+
+ns1:牛金 ns1:官至 ns1:后将军 .
+
+ns1:牵弘 ns1:曾效力过 ns1:魏 .
+
+ns1:牵招 ns1:官至 ns1:关内侯,
+        ns1:右中郎将,
+        ns1:雁门太守 ;
+    ns1:曾效力过 ns1:东汉,
+        ns1:魏 .
+
+<http://www.e3ol.com/biography/html/王业[西晋]> ns1:曾效力过 ns1:魏 .
+
+<http://www.e3ol.com/biography/html/王业[魏]> ns1:官至 ns1:谒者仆射 .
+
+ns1:王买 ns1:官至 ns1:将军 .
+
+ns1:王伉 ns1:官至 ns1:亭侯,
+        ns1:永昌太守 .
+
+ns1:王修 ns1:官至 ns1:大司农郎中令 ;
+    ns1:曾效力过 ns1:魏 .
+
+ns1:王儁 ns1:官至 ns1:不仕 .
+
+ns1:王允 ns1:官至 ns1:司徒,
+        ns1:尚书令 .
+
+ns1:王凌 ns1:官至 ns1:南乡侯,
+        ns1:太尉,
+        ns1:车骑将军 .
+
+ns1:王匡 ns1:官至 ns1:河内太守 ;
+    ns1:曾效力过 ns1:东汉 .
+
+<http://www.e3ol.com/biography/html/王双[讨蜀]> ns1:官至 ns1:前部大先锋,
+        ns1:虎威将军 .
+
+<http://www.e3ol.com/biography/html/王同[乌丸]> ns1:官至 ns1:归义侯 ;
+    ns1:曾效力过 ns1:少数民族 .
+
+ns1:王含 ns1:官至 ns1:监军 .
+
+ns1:王商 ns1:官至 ns1:蜀郡太守 .
+
+ns1:王基 ns1:子女 ns1:王徽 ;
+    ns1:官至 ns1:东武侯,
+        ns1:司空,
+        ns1:征南将军,
+        ns1:谥曰景 ;
+    ns1:父亲 ns1:王豹 .
+
+ns1:王子服 ns1:官至 ns1:偏将军,
+        ns1:越骑校尉 .
+
+ns1:王平 ns1:子女 ns1:王训 ;
+    ns1:官至 ns1:安汉侯,
+        ns1:汉中太守,
+        ns1:镇北大将军 ;
+    ns1:曾效力过 ns1:蜀 .
+
+ns1:王建 ns1:官至 ns1:相国 .
+
+ns1:王异 ns1:子女 ns1:赵月,
+        ns1:赵英 ;
+    ns1:配偶 ns1:赵昂 .
+
+ns1:王弼 ns1:官至 ns1:尚书郎 .
+
+ns1:王必 ns1:官至 ns1:丞相长史 .
+
+<http://www.e3ol.com/biography/html/王忠[魏]> ns1:官至 ns1:中郎将 .
+
+ns1:王惇 ns1:官至 ns1:将军 .
+
+ns1:王戎 ns1:官至 ns1:司徒 ;
+    ns1:曾效力过 ns1:魏 ;
+    ns1:父亲 <http://www.e3ol.com/biography/html/王浑[凉州刺史]> .
+
+ns1:王方 ns1:官至 ns1:校尉 .
+
+<http://www.e3ol.com/biography/html/王朗[司徒]> ns1:官至 ns1:兰陵侯,
+        ns1:司徒,
+        ns1:谥曰成侯 ;
+    ns1:曾效力过 ns1:东汉 .
+
+ns1:王植 ns1:官至 ns1:荥阳太守 .
+
+ns1:王楷 ns1:曾效力过 ns1:东汉 .
+
+ns1:王沈 ns1:官至 ns1:博陵县公,
+        ns1:录尚书事,
+        ns1:散骑常侍,
+        ns1:谥曰元公,
+        ns1:追博陵郡公,
+        ns1:骠骑将军 ;
+    ns1:曾效力过 ns1:魏 .
+
+<http://www.e3ol.com/biography/html/王浑[西晋]> ns1:官至 ns1:加侍中,
+        ns1:司徒,
+        ns1:录尚书事,
+        ns1:谥曰元 ;
+    ns1:曾效力过 ns1:魏 .
+
+ns1:王濬 ns1:官至 ns1:襄阳县侯,
+        ns1:谥武侯,
+        ns1:镇军大将军 ;
+    ns1:曾效力过 ns1:魏 .
+
+ns1:王熙 ns1:官至 ns1:太医令 .
+
+ns1:王甫 ns1:官至 ns1:荆州议曹从事 ;
+    ns1:曾效力过 ns1:刘焉 .
+
+ns1:王真 ns1:官至 ns1:将军 .
+
+ns1:王祥 ns1:曾效力过 ns1:东汉,
+        ns1:魏 .
+
+ns1:王粲 ns1:官至 ns1:侍中 ;
+    ns1:曾效力过 ns1:刘表 ;
+    ns1:父亲 ns1:王谦 .
+
+ns1:王累 ns1:官至 ns1:益州从事 .
+
+ns1:王考 ns1:官至 ns1:冀州刺史 .
+
+ns1:王肃 ns1:官至 ns1:中领军,
+        ns1:兰陵侯,
+        ns1:散骑常侍,
+        ns1:谥曰景侯,
+        ns1:追赠卫将军 .
+
+ns1:王蕃 ns1:官至 ns1:散骑中常侍 .
+
+ns1:王观 ns1:官至 ns1:司空,
+        ns1:谥曰肃侯,
+        ns1:阳乡侯 .
+
+ns1:王谋 ns1:官至 ns1:关内侯,
+        ns1:太常 ;
+    ns1:曾效力过 ns1:刘焉 .
+
+ns1:王起 ns1:官至 ns1:校书郎,
+        ns1:部曲将 .
+
+ns1:王连 ns1:官至 ns1:丞相长史,
+        ns1:屯骑校尉,
+        ns1:平阳亭侯 ;
+    ns1:曾效力过 ns1:刘焉 .
+
+ns1:王述 ns1:官至 ns1:尚书令 .
+
+ns1:王门 ns1:官至 ns1:将军 ;
+    ns1:曾效力过 ns1:公孙瓒 .
+
+ns1:甄像 ns1:官至 ns1:伏波将军 .
+
+ns1:甄邯 ns1:官至 ns1:太保 .
+
+ns1:甘宁 ns1:子女 ns1:甘瑰 ;
+    ns1:官至 ns1:折冲将军,
+        ns1:西陵太守 ;
+    ns1:曾效力过 ns1:刘焉,
+        ns1:刘表 .
+
+ns1:田丰 ns1:官至 ns1:冀州别驾 ;
+    ns1:曾效力过 ns1:东汉 .
+
+ns1:田楷 ns1:官至 ns1:青州刺史 .
+
+ns1:田畴 ns1:曾效力过 ns1:魏 .
+
+ns1:田章 ns1:官至 ns1:奋威护军 ;
+    ns1:曾效力过 ns1:魏 .
+
+<http://www.e3ol.com/biography/html/田豫[魏]> ns1:子女 ns1:田彭祖 ;
+    ns1:官至 ns1:太中大夫,
+        ns1:长乐亭侯 ;
+    ns1:曾效力过 ns1:蜀 .
+
+ns1:申仪 ns1:官至 ns1:楼船将军,
+        ns1:真乡侯,
+        ns1:魏兴太守 ;
+    ns1:曾效力过 ns1:蜀,
+        ns1:魏 .
+
+ns1:申耽 ns1:官至 ns1:员乡侯,
+        ns1:怀集将军 ;
+    ns1:曾效力过 ns1:蜀,
+        ns1:魏 .
+
+ns1:留平 ns1:官至 ns1:左将军 .
+
+ns1:留略 ns1:官至 ns1:东海太守 .
+
+ns1:留赞 ns1:官至 ns1:左将军,
+        ns1:左护军 .
+
+ns1:白绕 ns1:官至 ns1:无 .
+
+ns1:白虎文 ns1:官至 ns1:凉州胡王 .
+
+ns1:皇甫嵩 ns1:官至 ns1:太常,
+        ns1:追赠骠骑将军,
+        ns1:都乡侯 .
+
+ns1:皇甫郦 ns1:曾效力过 ns1:东汉 .
+
+ns1:皇甫闿 ns1:官至 ns1:参军 .
+
+ns1:盛曼 ns1:官至 ns1:建平太守 .
+
+ns1:眭元进 ns1:官至 ns1:督将 .
+
+ns1:眭固 ns1:官至 ns1:将军 .
+
+ns1:石崇 ns1:官至 ns1:荆州刺史 .
+
+ns1:石苞 ns1:曾效力过 ns1:魏 .
+
+ns1:石韬 ns1:官至 ns1:御史中丞 .
+
+ns1:祖茂 ns1:官至 ns1:将军 .
+
+ns1:祖郎 ns1:官至 ns1:门下贼曹 .
+
+ns1:祢衡 ns1:官至 ns1:江夏太守书记 ;
+    ns1:曾效力过 ns1:东汉 .
+
+ns1:种拂 ns1:官至 ns1:司空,
+        ns1:太常 .
+
+ns1:秦宓 ns1:官至 ns1:大司农 ;
+    ns1:曾效力过 ns1:刘焉 .
+
+ns1:秦宜禄 ns1:官至 ns1:铚长 ;
+    ns1:曾效力过 ns1:吕布 .
+
+ns1:秦明 ns1:官至 ns1:将军 .
+
+ns1:秦朗 ns1:官至 <http://www.e3ol.com/biography/html/骁骑将军、给事中> .
+
+ns1:秦琪 ns1:官至 ns1:将军 .
+
+ns1:秦穆公 ns1:官至 ns1:秦国国君 .
+
+ns1:秦良 ns1:官至 ns1:将军 .
+
+ns1:程奂 ns1:官至 ns1:从事 .
+
+ns1:程昱 ns1:子女 ns1:程延,
+        ns1:程武 ;
+    ns1:官至 ns1:卫尉,
+        ns1:安乡侯,
+        ns1:谥曰肃侯,
+        ns1:追赠车骑将军 .
+
+ns1:程晓 ns1:官至 ns1:汝南太守 .
+
+ns1:程普 ns1:子女 ns1:程咨 ;
+    ns1:官至 ns1:江夏太守,
+        ns1:荡寇将军 .
+
+ns1:程秉 ns1:官至 ns1:兼任太常,
+        ns1:太子太傅 .
+
+<http://www.e3ol.com/biography/html/穆顺[东汉]> ns1:官至 ns1:宦官 .
+
+<http://www.e3ol.com/biography/html/穆顺[张杨]> ns1:官至 ns1:将军 .
+
+ns1:简雍 ns1:官至 ns1:昭德将军 .
+
+ns1:管宁 ns1:子女 ns1:管邈 ;
+    ns1:官至 ns1:不仕 .
+
+ns1:管承 ns1:官至 ns1:无 .
+
+ns1:管辂 ns1:官至 ns1:少府丞 .
+
+ns1:纪灵 ns1:官至 ns1:将军 .
+
+ns1:纶直 ns1:官至 ns1:将军 ;
+    ns1:曾效力过 ns1:东汉 .
+
+ns1:罗宪 ns1:官至 ns1:冠军将军,
+        ns1:西鄂侯,
+        ns1:谥曰烈侯,
+        ns1:追赠安南将军 ;
+    ns1:曾效力过 ns1:蜀 .
+
+ns1:羊祜 ns1:兄弟 ns1:羊发,
+        ns1:羊承 ;
+    ns1:官至 ns1:南城侯,
+        ns1:征南大将军 ;
+    ns1:曾效力过 ns1:魏 ;
+    ns1:母亲 ns1:蔡氏 ;
+    ns1:父亲 <http://www.e3ol.com/biography/html/羊衜[魏]> .
+
+<http://www.e3ol.com/biography/html/羊衜[吴]> ns1:官至 ns1:桂阳太守 .
+
+ns1:耿武 ns1:官至 ns1:长史 .
+
+ns1:耿纪 ns1:官至 ns1:少府 .
+
+ns1:胡亥 ns1:官至 ns1:皇帝 .
+
+ns1:胡冲 ns1:官至 ns1:吴郡太守,
+        ns1:尚书郎 ;
+    ns1:曾效力过 ns1:吴 ;
+    ns1:父亲 ns1:胡综 .
+
+ns1:胡奋 ns1:官至 ns1:壮候,
+        ns1:左仆射,
+        ns1:开府仪同三司,
+        ns1:追车骑将军,
+        ns1:镇军大将军 ;
+    ns1:曾效力过 ns1:魏 .
+
+ns1:胡昭 ns1:官至 <http://www.e3ol.com/biography/html/长期隐居深山,终身不仕.> .
+
+ns1:胡济 ns1:兄弟 ns1:胡博 ;
+    ns1:官至 ns1:假节,
+        ns1:兖州刺史,
+        ns1:右骠骑将军,
+        ns1:成阳亭侯 .
+
+ns1:胡渊 ns1:官至 ns1:将军 ;
+    ns1:曾效力过 ns1:魏 .
+
+ns1:胡烈 ns1:官至 ns1:秦州刺史 ;
+    ns1:曾效力过 ns1:魏 .
+
+ns1:胡班 ns1:官至 ns1:从事 ;
+    ns1:曾效力过 ns1:蜀 .
+
+ns1:胡质 ns1:子女 ns1:胡威,
+        ns1:胡罴 ;
+    ns1:官至 ns1:假节,
+        ns1:征东将军,
+        ns1:荆州刺史,
+        ns1:谥曰贞侯,
+        ns1:阳陵亭侯 ;
+    ns1:父亲 ns1:胡敏 .
+
+ns1:胡车儿 ns1:官至 ns1:偏将 .
+
+<http://www.e3ol.com/biography/html/胡轸[董卓]> ns1:官至 ns1:陈郡太守 ;
+    ns1:曾效力过 ns1:东汉 .
+
+ns1:胡遵 ns1:官至 ns1:卫将军,
+        ns1:追赠车骑将军,
+        ns1:阴密侯 .
+
+ns1:脂习 ns1:官至 ns1:中散大夫 .
+
+ns1:臧旻 ns1:子女 ns1:臧洪 ;
+    ns1:官至 ns1:太原太守 .
+
+ns1:臧霸 ns1:子女 ns1:臧舜,
+        ns1:臧艾 ;
+    ns1:官至 ns1:执金吾,
+        ns1:特进,
+        ns1:良成侯,
+        ns1:谥曰威侯 ;
+    ns1:曾效力过 ns1:吕布,
+        ns1:陶谦 ;
+    ns1:父亲 ns1:臧戒 .
+
+ns1:芒中 ns1:官至 ns1:烧当羌王 .
+
+ns1:苏则 ns1:官至 ns1:东平相,
+        ns1:谥曰刚侯,
+        ns1:都亭侯 ;
+    ns1:曾效力过 ns1:东汉 .
+
+ns1:苏双 ns1:官至 ns1:无 .
+
+ns1:苏由 ns1:曾效力过 ns1:魏 .
+
+ns1:苏飞 ns1:官至 ns1:军都督 ;
+    ns1:曾效力过 ns1:刘表 .
+
+ns1:苻健 ns1:官至 ns1:氐王 ;
+    ns1:曾效力过 ns1:蜀 .
+
+ns1:范强 ns1:官至 ns1:将军 ;
+    ns1:曾效力过 ns1:蜀 .
+
+ns1:范明友 ns1:官至 ns1:度辽将军 .
+
+ns1:范頵 ns1:官至 ns1:大中正 .
+
+ns1:荀勖 ns1:官至 ns1:尚书令 ;
+    ns1:曾效力过 ns1:魏 .
+
+ns1:荀恺 ns1:官至 ns1:侍中,
+        ns1:南顿子 ;
+    ns1:曾效力过 ns1:魏 .
+
+ns1:荀攸 ns1:子女 ns1:荀缉,
+        ns1:荀适 ;
+    ns1:官至 ns1:尚书令,
+        ns1:谥曰敬侯,
+        ns1:陵树亭侯 ;
+    ns1:曾效力过 ns1:东汉 ;
+    ns1:父亲 ns1:荀彝 ;
+    ns1:配偶 ns1:阿骛 .
+
+ns1:荀正 ns1:官至 ns1:将军 .
+
+ns1:荀爽 ns1:兄弟 ns1:荀俭,
+        ns1:荀旉,
+        ns1:荀汪,
+        ns1:荀焘,
+        ns1:荀绲,
+        ns1:荀肃,
+        ns1:荀衍,
+        ns1:荀诜,
+        ns1:荀靖 ;
+    ns1:官至 ns1:司空 ;
+    ns1:父亲 ns1:荀淑 .
+
+ns1:萧望 ns1:官至 ns1:冯翊太守,
+        ns1:宰相,
+        ns1:少府 .
+
+ns1:葛玄 ns1:曾效力过 ns1:吴 .
+
+ns1:董厥 ns1:官至 ns1:南乡侯,
+        ns1:散骑常侍,
+        ns1:相国参军 ;
+    ns1:曾效力过 ns1:蜀 .
+
+ns1:董宏 ns1:官至 ns1:巴西太守 .
+
+ns1:董扶 ns1:官至 ns1:蜀郡属国都尉 .
+
+ns1:董昭 ns1:兄弟 ns1:董访 ;
+    ns1:子女 ns1:董胄 ;
+    ns1:官至 ns1:乐平侯,
+        ns1:司徒,
+        ns1:谥曰定 ;
+    ns1:曾效力过 ns1:东汉,
+        ns1:魏 .
+
+ns1:董璜 ns1:官至 ns1:中军校尉,
+        ns1:侍中,
+        ns1:典兵 ;
+    ns1:父亲 ns1:董擢 .
+
+ns1:董白 ns1:官至 ns1:渭阳君 .
+
+ns1:董衡 ns1:官至 ns1:将军 .
+
+ns1:董袭 ns1:官至 ns1:偏将军 .
+
+ns1:董超 ns1:官至 ns1:部曲将 .
+
+ns1:蒋干 ns1:官至 ns1:幕僚 ;
+    ns1:曾效力过 ns1:魏 .
+
+ns1:蒋济 ns1:子女 ns1:蒋秀 ;
+    ns1:官至 ns1:太尉,
+        ns1:昌陵亭侯,
+        ns1:谥曰景 .
+
+ns1:蒋班 ns1:官至 ns1:将军 ;
+    ns1:曾效力过 ns1:魏 .
+
+ns1:蒋石 ns1:曾效力过 ns1:东汉 .
+
+ns1:蒋舒 ns1:官至 ns1:武兴督 ;
+    ns1:曾效力过 ns1:魏 .
+
+ns1:蒋钦 ns1:子女 ns1:蒋休,
+        ns1:蒋壹 ;
+    ns1:官至 ns1:右护军,
+        ns1:濡须,
+        ns1:荡寇将军 .
+
+ns1:蒯良 ns1:兄弟 ns1:蒯越 .
+
+ns1:蔡中 ns1:官至 ns1:军副将 ;
+    ns1:曾效力过 ns1:刘表 .
+
+ns1:蔡和 ns1:官至 ns1:水军副将 ;
+    ns1:曾效力过 ns1:刘表 .
+
+ns1:蔡琰 ns1:兄弟 ns1:蔡贞姬 ;
+    ns1:曾效力过 ns1:少数民族,
+        ns1:董卓 ;
+    ns1:父亲 ns1:蔡邕 ;
+    ns1:配偶 <http://www.e3ol.com/biography/html/刘豹[匈奴]>,
+        ns1:卫仲道,
+        ns1:董祀 .
+
+ns1:蔡瑁 ns1:官至 ns1:汉阳亭侯,
+        ns1:长水校尉 ;
+    ns1:曾效力过 ns1:刘表 .
+
+ns1:蔡贡 ns1:官至 ns1:将军 .
+
+ns1:蔡阳 ns1:官至 ns1:将军 .
+
+ns1:蔺相如 ns1:官至 ns1:上卿 .
+
+ns1:薛则 ns1:官至 ns1:部将 .
+
+ns1:薛悌 ns1:官至 ns1:尚书 .
+
+ns1:薛珝 ns1:官至 ns1:大都督,
+        ns1:威南将军 .
+
+ns1:薛综 ns1:官至 ns1:太子太傅 .
+
+ns1:薛莹 ns1:官至 ns1:散骑常侍 ;
+    ns1:曾效力过 ns1:吴 .
+
+ns1:虞汜 ns1:官至 ns1:交州刺史,
+        ns1:冠军将军,
+        ns1:馀姚侯 .
+
+ns1:虞翻 ns1:官至 ns1:骑都尉 .
+
+ns1:虞诩 ns1:官至 ns1:尚书令 .
+
+ns1:袁叙 ns1:官至 ns1:济阴太守 ;
+    ns1:曾效力过 ns1:东汉 .
+
+ns1:袁尚 ns1:官至 ns1:大将军,
+        ns1:邺侯 .
+
+ns1:袁涣 ns1:官至 ns1:御史大夫,
+        ns1:郎中令 ;
+    ns1:曾效力过 ns1:吕布,
+        ns1:魏 .
+
+ns1:袁谭 ns1:官至 ns1:车骑将军,
+        ns1:青州刺史 ;
+    ns1:曾效力过 ns1:魏 .
+
+ns1:袁隗 ns1:官至 ns1:太傅 .
+
+ns1:袁霸 ns1:官至 ns1:大司农 .
+
+<http://www.e3ol.com/biography/html/裴潜[魏]> ns1:官至 ns1:光禄大夫,
+        ns1:清阳亭侯,
+        ns1:谥曰贞侯,
+        ns1:追赠太常 .
+
+ns1:裴秀 ns1:官至 ns1:司空,
+        ns1:谥曰元公,
+        ns1:钜鹿公 ;
+    ns1:曾效力过 ns1:魏 .
+
+<http://www.e3ol.com/biography/html/许允[蜀]> ns1:官至 ns1:偏将军,
+        ns1:汉城亭侯 .
+
+ns1:许劭 ns1:曾效力过 ns1:东汉 .
+
+ns1:许式 ns1:官至 ns1:平原太守,
+        ns1:濮阳内史 .
+
+ns1:许慈 ns1:官至 ns1:大长秋 .
+
+<http://www.e3ol.com/biography/html/许攸[东汉]> ns1:曾效力过 ns1:东汉 .
+
+<http://www.e3ol.com/biography/html/许攸[袁绍]> ns1:官至 ns1:将军 ;
+    ns1:曾效力过 ns1:魏 .
+
+ns1:许汜 ns1:官至 ns1:谋士 .
+
+ns1:许靖 ns1:兄弟 <http://www.e3ol.com/biography/html/许劭（从弟）> ;
+    ns1:子女 ns1:许钦 ;
+    ns1:官至 ns1:司徒 ;
+    ns1:曾效力过 ns1:东汉,
+        ns1:刘焉 .
+
+ns1:诸葛玄 ns1:官至 ns1:豫章太守 ;
+    ns1:曾效力过 ns1:东汉 .
+
+ns1:诸葛绪 ns1:官至 ns1:卫尉,
+        ns1:太常,
+        ns1:雍州刺史 .
+
+ns1:诸葛诞 ns1:子女 ns1:诸葛靓 ;
+    ns1:官至 ns1:大司徒,
+        ns1:寿春侯,
+        ns1:青州牧,
+        ns1:骠骑将军 .
+
+ns1:谢旌 ns1:官至 ns1:将军 .
+
+ns1:谢雄 ns1:官至 ns1:裨将 .
+
+ns1:谭雄 ns1:官至 ns1:裨将军 .
+
+ns1:谯周 ns1:子女 ns1:谯同,
+        ns1:谯熙,
+        ns1:谯贤 ;
+    ns1:官至 <http://www.e3ol.com/biography/html/光禄大夫（蜀汉）>,
+        <http://www.e3ol.com/biography/html/散骑常侍（西晋）> ;
+    ns1:曾效力过 ns1:刘焉,
+        ns1:蜀 ;
+    ns1:父亲 ns1:谯山并 .
+
+ns1:谷利 ns1:官至 ns1:左右给使,
+        ns1:都亭侯 .
+
+ns1:费曜 ns1:官至 ns1:后将军 .
+
+ns1:费栈 ns1:官至 ns1:蕲春太守 ;
+    ns1:曾效力过 ns1:反贼 .
+
+ns1:费祎 ns1:子女 ns1:费恭,
+        ns1:费承,
+        <http://www.e3ol.com/biography/html/费氏[刘璿妻]> ;
+    ns1:官至 ns1:大将军,
+        ns1:谥曰敬 .
+
+ns1:费观 ns1:官至 ns1:振威将军,
+        ns1:都亭侯 .
+
+ns1:费诗 ns1:官至 ns1:谏议大夫 .
+
+ns1:贺齐 ns1:官至 ns1:假节,
+        ns1:后将军,
+        ns1:山阴侯,
+        ns1:徐州牧 .
+
+ns1:贾华 ns1:官至 ns1:将军 .
+
+ns1:贾秀玉 ns1:官至 ns1:武威太守 .
+
+ns1:贾范 ns1:官至 ns1:将军 .
+
+ns1:贾诩 ns1:兄弟 ns1:贾彩 ;
+    ns1:子女 ns1:贾玑,
+        ns1:贾穆,
+        ns1:贾访 ;
+    ns1:官至 ns1:太尉,
+        ns1:谥曰肃侯,
+        ns1:魏寿乡侯 ;
+    ns1:曾效力过 ns1:东汉,
+        ns1:董卓,
+        ns1:魏 ;
+    ns1:父亲 ns1:贾龚 .
+
+ns1:贾龙 ns1:官至 ns1:校尉 ;
+    ns1:曾效力过 ns1:东汉 .
+
+ns1:赖恭 ns1:官至 ns1:太常 ;
+    ns1:曾效力过 ns1:刘表 .
+
+ns1:赵云 ns1:子女 ns1:赵广,
+        ns1:赵统 ;
+    ns1:官至 ns1:永昌亭侯,
+        ns1:谥曰顺平侯,
+        ns1:镇军将军 ;
+    ns1:曾效力过 ns1:蜀 ;
+    ns1:配偶 ns1:马云騄 .
+
+ns1:赵俨 ns1:官至 ns1:司空,
+        ns1:谥曰穆侯,
+        ns1:都乡侯 .
+
+ns1:赵叡 ns1:官至 ns1:骑督 .
+
+<http://www.e3ol.com/biography/html/赵咨[魏]> ns1:官至 ns1:尚书 .
+
+ns1:赵娥 ns1:官至 ns1:无 .
+
+ns1:赵岑 ns1:官至 ns1:将军 .
+
+ns1:赵庶 ns1:官至 ns1:部将 ;
+    ns1:曾效力过 ns1:吕布 .
+
+ns1:赵彦信 ns1:官至 ns1:太尉 .
+
+ns1:赵戬 ns1:官至 ns1:五官将司马,
+        ns1:相国长史 ;
+    ns1:曾效力过 ns1:东汉,
+        ns1:刘表 .
+
+ns1:赵昱 ns1:官至 ns1:广陵太守 ;
+    ns1:曾效力过 ns1:东汉 .
+
+ns1:赵浮 ns1:官至 ns1:从事 .
+
+ns1:赵累 ns1:官至 ns1:都督 .
+
+ns1:赵范 ns1:官至 ns1:桂阳太守 ;
+    ns1:曾效力过 ns1:刘表,
+        ns1:蜀 .
+
+<http://www.e3ol.com/biography/html/赵达[魏]> ns1:官至 ns1:校事 .
+
+ns1:越吉 ns1:官至 ns1:元帅 .
+
+ns1:蹇硕 ns1:官至 ns1:上军校尉,
+        ns1:元帅 .
+
+ns1:蹋顿 ns1:兄弟 ns1:楼班 ;
+    ns1:官至 ns1:乌桓王 ;
+    ns1:父亲 ns1:丘力居 .
+
+ns1:车胄 ns1:官至 ns1:徐州刺史,
+        ns1:车骑将军 .
+
+ns1:轲比能 ns1:官至 ns1:附义王,
+        ns1:鲜卑首领 .
+
+ns1:辅匡 ns1:官至 ns1:中乡侯,
+        ns1:右将军 .
+
+ns1:辛毗 ns1:兄弟 ns1:辛评 ;
+    ns1:子女 ns1:辛宪英,
+        ns1:辛敞 ;
+    ns1:官至 ns1:卫尉,
+        ns1:谥曰肃侯,
+        ns1:颍乡侯 ;
+    ns1:曾效力过 ns1:魏 .
+
+ns1:边让 ns1:官至 ns1:九江太守 .
+
+ns1:迷当 ns1:官至 ns1:羌王 .
+
+ns1:逢纪 ns1:官至 ns1:护军 .
+
+ns1:遏父 ns1:官至 ns1:陶正 .
+
+ns1:邓忠 ns1:官至 ns1:惠唐亭侯 .
+
+ns1:邓方 ns1:官至 ns1:安远将军,
+        ns1:庲降都督 .
+
+ns1:邓艾 ns1:官至 ns1:太尉,
+        ns1:邓侯 .
+
+<http://www.e3ol.com/biography/html/邓贤[刘璋]> ns1:官至 ns1:将军 .
+
+ns1:邢颙 ns1:官至 ns1:关内侯,
+        ns1:太常 .
+
+ns1:邴原 ns1:兄弟 ns1:无 ;
+    ns1:子女 ns1:邴氏 ;
+    ns1:官至 ns1:五官将长史 .
+
+ns1:邵悌 ns1:官至 ns1:西曹属 .
+
+ns1:邹丹 ns1:官至 ns1:渔阳太守 .
+
+ns1:邹靖 ns1:官至 ns1:北军中侯 .
+
+ns1:郑冲 ns1:官至 ns1:公,
+        ns1:司徒,
+        ns1:太傅 ;
+    ns1:曾效力过 ns1:魏 .
+
+ns1:郑文 ns1:官至 ns1:偏将军 .
+
+ns1:郑泰 ns1:官至 ns1:扬州刺史 ;
+    ns1:曾效力过 ns1:东汉 .
+
+ns1:郑浑 ns1:官至 ns1:将作大匠 ;
+    ns1:曾效力过 ns1:魏 .
+
+ns1:郑玄 ns1:官至 ns1:大司农 ;
+    ns1:曾效力过 ns1:东汉 .
+
+ns1:郗虑 ns1:官至 ns1:御史大夫 ;
+    ns1:曾效力过 ns1:东汉 .
+
+ns1:郝昭 ns1:子女 ns1:郝凯 ;
+    ns1:官至 ns1:关內侯,
+        ns1:将军 .
+
+ns1:郝萌 ns1:官至 ns1:将军 .
+
+ns1:郤正 ns1:官至 ns1:巴西太守 ;
+    ns1:父亲 ns1:郤揖 .
+
+ns1:郭修 ns1:官至 ns1:中郎,
+        ns1:谥曰威侯,
+        ns1:追长乐乡侯 .
+
+ns1:郭喜 ns1:官至 ns1:中书郎,
+        ns1:侍中,
+        ns1:右卫将军,
+        ns1:散骑常侍,
+        ns1:辅国大将军 .
+
+ns1:郭宪 ns1:官至 ns1:关内侯,
+        ns1:西平郡功曹 ;
+    ns1:曾效力过 ns1:东汉 .
+
+ns1:郭昕 ns1:官至 ns1:大司马长史 .
+
+ns1:郭汜 ns1:官至 ns1:美阳侯,
+        ns1:车骑将军 .
+
+ns1:郭淮 ns1:兄弟 ns1:郭豫,
+        ns1:郭配,
+        ns1:郭镇 ;
+    ns1:子女 ns1:郭统 ;
+    ns1:官至 ns1:仪同三司,
+        ns1:假节,
+        ns1:谥曰贞侯,
+        ns1:车骑将军,
+        ns1:追赠大将军,
+        ns1:都督,
+        ns1:阳曲侯 ;
+    ns1:父亲 ns1:郭缊 ;
+    ns1:配偶 ns1:王氏 .
+
+ns1:郭石 ns1:官至 ns1:无 .
+
+ns1:郭详 ns1:官至 ns1:驸马都尉 .
+
+ns1:郭贡 ns1:官至 ns1:豫州刺史 .
+
+ns1:郭马 ns1:曾效力过 ns1:张角 .
+
+ns1:都市牛利 ns1:官至 <http://www.e3ol.com/biography/html/次使都巿（倭）>,
+        <http://www.e3ol.com/biography/html/率善校尉（魏）> .
+
+ns1:鄂焕 ns1:官至 ns1:牙门将 ;
+    ns1:曾效力过 ns1:少数民族 .
+
+ns1:金祎 ns1:父亲 ns1:金旋 ;
+    ns1:配偶 ns1:金祎妻 .
+
+ns1:钟离牧 ns1:官至 ns1:假节,
+        ns1:前将军,
+        ns1:武陵太守,
+        ns1:都乡侯 .
+
+ns1:钟绅 ns1:官至 ns1:将军 .
+
+ns1:闵纯 ns1:官至 ns1:冀州别驾 .
+
+ns1:闵贡 ns1:官至 ns1:郎中,
+        ns1:都亭侯 .
+
+ns1:阎圃 ns1:官至 ns1:平乐乡侯 ;
+    ns1:曾效力过 ns1:东汉 .
+
+ns1:阎宇 ns1:官至 ns1:右大将军 .
+
+ns1:阎柔 ns1:官至 ns1:度辽将军 .
+
+ns1:阎温 ns1:官至 ns1:上邽令,
+        ns1:凉州别驾 .
+
+ns1:阎行 ns1:官至 ns1:列侯,
+        ns1:犍为太守 ;
+    ns1:曾效力过 ns1:韩遂 .
+
+ns1:阚泽 ns1:官至 ns1:太子太傅,
+        ns1:都乡侯,
+        ns1:领中书 .
+
+ns1:阮咸 ns1:官至 ns1:始平太守,
+        ns1:散骑侍郎 ;
+    ns1:曾效力过 ns1:魏 .
+
+ns1:阮园客 ns1:官至 ns1:员外散骑侍郎 .
+
+ns1:阮瑀 ns1:官至 ns1:仓曹掾属 .
+
+ns1:阮籍 ns1:官至 ns1:步兵校尉 .
+
+ns1:阿贵 ns1:官至 ns1:兴国氐王 .
+
+ns1:陆凯 ns1:官至 ns1:嘉兴侯,
+        ns1:左丞相,
+        ns1:荆州牧 .
+
+ns1:陆绩 ns1:官至 ns1:偏将军,
+        ns1:郁林太守 .
+
+ns1:陆郁生 ns1:官至 ns1:义姑 .
+
+ns1:陈兰 ns1:官至 ns1:无 ;
+    ns1:曾效力过 ns1:东汉 .
+
+ns1:陈到 ns1:官至 ns1:亭侯,
+        ns1:征西将军,
+        ns1:永安都督 .
+
+ns1:陈嚣 ns1:官至 ns1:太中大夫 .
+
+ns1:陈宫 ns1:曾效力过 ns1:东汉 .
+
+ns1:陈容 ns1:官至 ns1:东郡丞 ;
+    ns1:曾效力过 ns1:东汉 .
+
+ns1:陈寿 ns1:官至 ns1:太子中庶子 ;
+    ns1:曾效力过 ns1:蜀,
+        ns1:魏 .
+
+ns1:陈就 ns1:官至 ns1:都督 .
+
+<http://www.e3ol.com/biography/html/陈应[刘表]> ns1:官至 ns1:管军校尉 .
+
+ns1:陈式 ns1:官至 ns1:将军 .
+
+ns1:陈曶 ns1:官至 ns1:将军 .
+
+ns1:陈武 ns1:子女 ns1:陈修,
+        ns1:陈表 ;
+    ns1:官至 ns1:偏将军 .
+
+ns1:陈琳 ns1:官至 ns1:典记室,
+        ns1:军谋祭酒 ;
+    ns1:曾效力过 ns1:东汉,
+        ns1:魏 .
+
+ns1:陈瑀 ns1:官至 ns1:故安都尉 ;
+    ns1:曾效力过 ns1:东汉,
+        ns1:袁绍 .
+
+ns1:陈生 ns1:官至 ns1:无 .
+
+ns1:陈登 ns1:兄弟 <http://www.e3ol.com/biography/html/陈应[东汉]> ;
+    ns1:子女 ns1:陈肃 ;
+    ns1:官至 ns1:东城太守,
+        ns1:伏波将军 ;
+    ns1:曾效力过 ns1:蜀 ;
+    ns1:父亲 ns1:陈珪 .
+
+ns1:陈矫 ns1:官至 ns1:司徒 .
+
+ns1:陈祗 ns1:官至 ns1:侍中,
+        ns1:列侯,
+        ns1:尚书令,
+        ns1:谥曰忠侯,
+        ns1:镇军将军 .
+
+ns1:陈符 ns1:官至 ns1:东观秘书郎,
+        ns1:做著作佐郎,
+        ns1:将军主簿,
+        ns1:散骑常侍,
+        ns1:著作郎,
+        ns1:黄门侍郎 .
+
+<http://www.e3ol.com/biography/html/陈纪[袁术]> ns1:官至 ns1:九江太守 .
+
+ns1:陈莅 ns1:官至 ns1:州别驾,
+        ns1:骠骑将军齐王辟掾 .
+
+ns1:陈蕃 ns1:官至 ns1:太尉 .
+
+ns1:陈逵 ns1:官至 ns1:卫将军,
+        ns1:西中郎将 .
+
+ns1:陈震 ns1:子女 ns1:陈济 ;
+    ns1:官至 ns1:尚书令 .
+
+ns1:陈骞 ns1:曾效力过 ns1:魏 .
+
+ns1:陶升 ns1:官至 ns1:建义中郎将 ;
+    ns1:曾效力过 ns1:袁绍 .
+
+ns1:陶濬 ns1:官至 ns1:荆州牧,
+        ns1:镇南大将军 .
+
+ns1:陶璜 ns1:官至 ns1:交州刺史,
+        ns1:冠军将军,
+        ns1:宛陵侯 ;
+    ns1:曾效力过 ns1:吴 .
+
+ns1:难升米 ns1:官至 <http://www.e3ol.com/biography/html/大夫（倭）>,
+        <http://www.e3ol.com/biography/html/率善中郎将（魏）> .
+
+ns1:雅丹 ns1:官至 ns1:丞相 .
+
+ns1:雍闿 ns1:官至 ns1:永昌太守 ;
+    ns1:曾效力过 ns1:蜀 .
+
+ns1:雷绪 ns1:官至 ns1:偏将军 ;
+    ns1:曾效力过 ns1:蜀 .
+
+ns1:雷铜 ns1:官至 ns1:将军 .
+
+ns1:韦康 ns1:兄弟 ns1:韦诞 ;
+    ns1:官至 ns1:凉州刺史 ;
+    ns1:父亲 ns1:韦端 .
+
+ns1:韦晃 ns1:官至 ns1:丞相司直 .
+
+ns1:韦曜 ns1:官至 ns1:侍中,
+        ns1:左国史,
+        ns1:高陵亭侯 .
+
+ns1:韩冉 ns1:官至 ns1:军谋掾 .
+
+ns1:韩嵩 ns1:官至 ns1:大鸿胪 ;
+    ns1:曾效力过 ns1:刘表 .
+
+ns1:韩当 ns1:子女 ns1:韩综 ;
+    ns1:官至 ns1:冠军太守,
+        ns1:昭武将军 .
+
+<http://www.e3ol.com/biography/html/韩忠[黄巾军]> ns1:官至 ns1:渠帅 .
+
+ns1:韩暨 ns1:子女 ns1:韩繇,
+        ns1:韩肇 ;
+    ns1:官至 ns1:南乡亭侯,
+        ns1:司徒,
+        ns1:谥曰恭侯 ;
+    ns1:曾效力过 ns1:刘表 ;
+    ns1:父亲 ns1:韩纯 .
+
+ns1:韩浩 ns1:官至 ns1:中护军,
+        ns1:列侯 ;
+    ns1:曾效力过 ns1:魏 .
+
+ns1:韩珩 ns1:官至 ns1:幽州别驾 .
+
+ns1:韩瑛 ns1:官至 ns1:先锋 .
+
+ns1:韩瑶 ns1:官至 ns1:将军 .
+
+ns1:韩福 ns1:官至 ns1:洛阳太守 .
+
+ns1:韩胤 ns1:官至 ns1:使者 .
+
+ns1:韩莒子 ns1:官至 ns1:骑督 .
+
+ns1:韩融 ns1:官至 ns1:太仆 .
+
+ns1:韩馥 ns1:官至 ns1:冀州牧,
+        ns1:奋威将军 .
+
+ns1:顾众 ns1:官至 ns1:光禄大夫,
+        ns1:尚书仆射 .
+
+ns1:顾谭 ns1:官至 ns1:太常,
+        ns1:平尚书事 .
+
+ns1:顾雍 ns1:子女 ns1:顾济,
+        ns1:顾裕,
+        ns1:顾邵 ;
+    ns1:官至 ns1:丞相,
+        ns1:平尚书事,
+        ns1:谥曰,
+        ns1:醴陵侯 .
+
+ns1:马元义 ns1:官至 ns1:黄巾大方 .
+
+ns1:马宇 ns1:官至 ns1:侍中 .
+
+ns1:马岱 ns1:官至 ns1:平北将军,
+        ns1:陈仓侯 ;
+    ns1:曾效力过 ns1:蜀,
+        ns1:马腾 .
+
+ns1:马延 ns1:官至 ns1:将军 ;
+    ns1:曾效力过 ns1:魏 .
+
+<http://www.e3ol.com/biography/html/马忠[吴]> ns1:官至 ns1:军司马 .
+
+<http://www.e3ol.com/biography/html/马忠[蜀]> ns1:子女 ns1:马修,
+        ns1:马恢 ;
+    ns1:官至 ns1:彭乡侯,
+        ns1:镇南大将军 .
+
+ns1:马日磾 ns1:官至 ns1:太傅 .
+
+ns1:马遵 ns1:官至 ns1:天水太守 .
+
+ns1:马邈 ns1:官至 ns1:蜀汉江油太守 ;
+    ns1:曾效力过 ns1:蜀 .
+
+ns1:马钧 ns1:官至 ns1:给事中 .
+
+ns1:马隆 ns1:官至 ns1:东羌校尉,
+        ns1:奉高县侯 ;
+    ns1:曾效力过 ns1:魏 .
+
+ns1:驷勋 ns1:官至 ns1:功曹史 .
+
+ns1:骆统 ns1:官至 ns1:偏将军,
+        ns1:新阳亭侯,
+        ns1:濡须督 .
+
+ns1:骨进 ns1:官至 ns1:乌丸王 .
+
+ns1:高儁 ns1:官至 ns1:大将军掾 .
+
+ns1:高堂隆 ns1:官至 ns1:光禄勋,
+        ns1:关内侯 ;
+    ns1:曾效力过 ns1:东汉 .
+
+ns1:高干 ns1:官至 ns1:并州牧 ;
+    ns1:曾效力过 ns1:魏 ;
+    ns1:母亲 ns1:袁氏 ;
+    ns1:父亲 ns1:高躬 .
+
+ns1:高柔 ns1:官至 ns1:太尉,
+        ns1:安国侯,
+        ns1:谥曰元侯 .
+
+ns1:高沛 ns1:官至 ns1:白水军督 .
+
+ns1:高翔 ns1:官至 ns1:右将军,
+        ns1:玄乡侯 .
+
+ns1:高览 ns1:官至 ns1:东莱侯,
+        ns1:偏将军 ;
+    ns1:曾效力过 ns1:魏 .
+
+ns1:魏延 ns1:官至 ns1:假节,
+        ns1:凉州刺史,
+        ns1:前军师,
+        ns1:南郑侯,
+        ns1:征西大将军 .
+
+ns1:魏攸 ns1:官至 ns1:东曹掾 .
+
+ns1:魏续 ns1:曾效力过 ns1:吕布 .
+
+ns1:魏讽 ns1:官至 ns1:西曹掾 .
+
+ns1:鲁肃 ns1:子女 ns1:鲁淑 ;
+    ns1:官至 ns1:横江将军,
+        ns1:汉昌太守 ;
+    ns1:曾效力过 ns1:吴 .
+
+ns1:鲍信 ns1:兄弟 ns1:鲍忠,
+        ns1:鲍韬,
+        <http://www.e3ol.com/biography/html/（弟）鲍韬> ;
+    ns1:子女 ns1:鲍勋,
+        ns1:鲍邵 ;
+    ns1:官至 <http://www.e3ol.com/biography/html/破虏将军、济北相> ;
+    ns1:父亲 ns1:鲍丹 .
+
+ns1:鲍素 ns1:官至 ns1:将军 .
+
+ns1:鲍隆 ns1:官至 ns1:管军校尉 ;
+    ns1:曾效力过 ns1:刘表 .
+
+ns1:鲜于辅 ns1:官至 ns1:昌县亭侯,
+        ns1:特进,
+        ns1:虎牙将军 ;
+    ns1:曾效力过 ns1:东汉,
+        ns1:刘虞 .
+
+ns1:麴演 ns1:官至 ns1:护羌校尉 .
+
+ns1:黄乱 ns1:官至 ns1:山越渠帅 .
+
+ns1:黄忠 ns1:子女 ns1:黄叙 ;
+    ns1:官至 ns1:关内侯,
+        ns1:后将军,
+        ns1:谥曰刚侯 ;
+    ns1:曾效力过 ns1:刘表,
+        ns1:蜀 .
+
+ns1:黄权 ns1:子女 ns1:黄崇,
+        ns1:黄邕 ;
+    ns1:官至 ns1:仪同三司,
+        ns1:育阳侯,
+        ns1:谥曰景侯,
+        ns1:车骑将军 .
+
+ns1:黄琬 ns1:兄弟 ns1:黄瓒 ;
+    ns1:子女 ns1:黄奎 ;
+    ns1:官至 ns1:司隶校尉,
+        ns1:阳泉乡侯 ;
+    ns1:母亲 ns1:姜氏 ;
+    ns1:父亲 ns1:黄阁 .
+
+ns1:黄皓 ns1:官至 ns1:中常侍,
+        ns1:奉车都尉 .
+
+<http://www.e3ol.com/biography/html/黄盖[吴]> ns1:子女 ns1:黄柄 ;
+    ns1:官至 ns1:偏将军,
+        ns1:武陵太守 .
+
+ns1:黄祖 ns1:子女 ns1:黄射 ;
+    ns1:官至 ns1:江夏太守 .
+
+ns1:黄邵 ns1:官至 ns1:渠帅 .
+
+ns1:龚景 ns1:官至 ns1:青州太守 .
+
+ns1:龚起 ns1:官至 ns1:裨将 .
+
+ns1:丁冲 ns1:曾效力过 ns1:魏 .
+
+ns1:丁夫人 ns1:曾效力过 ns1:魏 .
+
+ns1:丁封 ns1:官至 ns1:后将军 ;
+    ns1:曾效力过 ns1:吴 .
+
+ns1:丁廙 ns1:官至 ns1:黄门侍郎 ;
+    ns1:曾效力过 ns1:魏 .
+
+ns1:丘力居 ns1:官至 ns1:乌桓大人 ;
+    ns1:曾效力过 ns1:少数民族 .
+
+ns1:严舆 ns1:曾效力过 ns1:东汉 .
+
+ns1:临汾公主 ns1:曾效力过 ns1:魏 .
+
+ns1:乐綝 ns1:子女 ns1:乐肇 ;
+    ns1:官至 ns1:广昌亭侯,
+        ns1:扬州刺史,
+        ns1:谥曰愍侯,
+        ns1:追赠卫尉 ;
+    ns1:曾效力过 ns1:魏 ;
+    ns1:父亲 ns1:乐进 .
+
+ns1:乐肇 ns1:曾效力过 ns1:魏 .
+
+ns1:乐进 ns1:子女 ns1:乐綝 ;
+    ns1:官至 ns1:右将军,
+        ns1:谥曰威 ;
+    ns1:曾效力过 ns1:魏 .
+
+ns1:于圭 ns1:曾效力过 ns1:魏 .
+
+ns1:京兆公主 ns1:曾效力过 ns1:西晋 .
+
+ns1:仲姬 ns1:曾效力过 ns1:吴 .
+
+ns1:任先 ns1:曾效力过 ns1:东汉 .
+
+ns1:任氏 ns1:曾效力过 ns1:魏 .
+
+ns1:任览 ns1:曾效力过 ns1:魏 .
+
+ns1:伏寿 ns1:官至 ns1:皇后 ;
+    ns1:曾效力过 ns1:东汉 .
+
+ns1:何劭 ns1:曾效力过 ns1:西晋 .
+
+ns1:何夔 ns1:官至 ns1:太仆,
+        ns1:成阳亭侯,
+        ns1:谥曰靖侯 ;
+    ns1:曾效力过 ns1:魏 .
+
+ns1:何氏 ns1:曾效力过 ns1:西晋 .
+
+ns1:何进 ns1:兄弟 ns1:何氏,
+        ns1:何皇后,
+        ns1:何苗,
+        ns1:灵思皇后 ;
+    ns1:官至 ns1:大将军,
+        ns1:录尚书事,
+        ns1:慎侯 ;
+    ns1:曾效力过 ns1:东汉 ;
+    ns1:父亲 ns1:何真 .
+
+ns1:何遵 ns1:曾效力过 ns1:西晋 .
+
+ns1:傅募 ns1:曾效力过 ns1:蜀 .
+
+ns1:傅睿 ns1:曾效力过 ns1:东汉 .
+
+ns1:傅祗 ns1:曾效力过 ns1:西晋 .
+
+ns1:傅肜 ns1:官至 ns1:将军 ;
+    ns1:曾效力过 ns1:蜀 .
+
+ns1:傅著 ns1:曾效力过 ns1:蜀 .
+
+ns1:全吴 ns1:曾效力过 ns1:吴 .
+
+ns1:全寄 ns1:曾效力过 ns1:吴 .
+
+ns1:全怿 ns1:官至 ns1:临湘侯,
+        ns1:平东将军 ;
+    ns1:曾效力过 ns1:吴,
+        ns1:魏 .
+
+ns1:全柔 ns1:官至 ns1:桂阳太守 ;
+    ns1:曾效力过 ns1:东汉,
+        ns1:吴 .
+
+ns1:全皇后 ns1:曾效力过 ns1:吴 .
+
+ns1:全纪 ns1:官至 ns1:黄门侍郎 ;
+    ns1:曾效力过 ns1:吴 .
+
+ns1:全绪 ns1:官至 ns1:镇北将军 ;
+    ns1:曾效力过 ns1:吴 .
+
+ns1:公孙康 ns1:官至 ns1:左将军,
+        ns1:襄平侯,
+        ns1:辽东太守 ;
+    ns1:曾效力过 ns1:东汉 .
+
+ns1:公孙延 ns1:曾效力过 ns1:东汉 .
+
+ns1:公孙恭 ns1:官至 ns1:假节,
+        ns1:平郭侯,
+        ns1:车骑将军,
+        ns1:辽东太守 ;
+    ns1:曾效力过 ns1:东汉 .
+
+ns1:公孙瓒 ns1:兄弟 ns1:公孙范,
+        ns1:公孙越 ;
+    ns1:子女 ns1:公孙续 ;
+    ns1:官至 ns1:前将军,
+        ns1:封易侯 ;
+    ns1:曾效力过 ns1:东汉 .
+
+ns1:公孙续 ns1:曾效力过 ns1:东汉 .
+
+ns1:公孙范 ns1:官至 ns1:渤海太守 ;
+    ns1:曾效力过 ns1:东汉 .
+
+ns1:公孙越 ns1:曾效力过 ns1:东汉 .
+
+ns1:关兴 ns1:官至 ns1:中监军,
+        ns1:侍中,
+        ns1:汉寿亭侯 ;
+    ns1:曾效力过 ns1:蜀 .
+
+ns1:关索 ns1:曾效力过 ns1:蜀 .
+
+ns1:关羽 ns1:官至 ns1:假节钺,
+        ns1:前将军,
+        ns1:汉寿亭侯,
+        ns1:谥曰壮缪侯 ;
+    ns1:曾效力过 ns1:东汉,
+        ns1:蜀,
+        ns1:魏 .
+
+ns1:关银屏 ns1:曾效力过 ns1:蜀 .
+
+ns1:典满 ns1:官至 ns1:关内侯,
+        ns1:都尉 ;
+    ns1:曾效力过 ns1:魏 ;
+    ns1:父亲 ns1:典韦 .
+
+ns1:典韦 ns1:子女 ns1:典满 ;
+    ns1:官至 ns1:武猛校尉 ;
+    ns1:曾效力过 ns1:魏 .
+
+ns1:冯氏 ns1:曾效力过 ns1:袁术 .
+
+ns1:凌封 ns1:曾效力过 ns1:吴 .
+
+ns1:凌操 ns1:官至 ns1:破贼校尉 ;
+    ns1:曾效力过 ns1:吴 .
+
+ns1:凌烈 ns1:曾效力过 ns1:吴 .
+
+ns1:刘修 ns1:曾效力过 ns1:魏 .
+
+ns1:刘和 ns1:官至 ns1:幽州牧 ;
+    ns1:曾效力过 ns1:东汉 .
+
+ns1:刘备母 ns1:曾效力过 ns1:东汉 .
+
+ns1:刘夫人 ns1:曾效力过 ns1:魏 .
+
+ns1:刘姬 ns1:曾效力过 ns1:魏 .
+
+<http://www.e3ol.com/biography/html/刘宏[东汉]> ns1:曾效力过 ns1:东汉 .
+
+<http://www.e3ol.com/biography/html/刘弘[刘备父]> ns1:曾效力过 ns1:东汉 .
+
+ns1:刘懿 ns1:曾效力过 ns1:东汉 .
+
+ns1:刘敦 ns1:曾效力过 ns1:东汉 .
+
+ns1:刘智 ns1:曾效力过 ns1:魏 .
+
+ns1:刘曼 ns1:曾效力过 ns1:东汉 .
+
+ns1:刘林 ns1:官至 ns1:牙门将 ;
+    ns1:曾效力过 ns1:魏 .
+
+ns1:刘正 ns1:曾效力过 ns1:魏 .
+
+<http://www.e3ol.com/biography/html/刘氏[曹爽妻]> ns1:曾效力过 ns1:魏 .
+
+<http://www.e3ol.com/biography/html/刘熙[刘协子]> ns1:曾效力过 ns1:东汉 .
+
+<http://www.e3ol.com/biography/html/刘熙[刘放子]> ns1:曾效力过 ns1:魏 .
+
+<http://www.e3ol.com/biography/html/刘琮[刘表子]> ns1:兄弟 ns1:刘修,
+        ns1:刘琦 ;
+    ns1:官至 ns1:列侯,
+        ns1:谏议大夫,
+        ns1:青州刺史 ;
+    ns1:曾效力过 ns1:刘表,
+        ns1:魏 ;
+    ns1:母亲 <http://www.e3ol.com/biography/html/蔡氏[刘表妻]> ;
+    ns1:父亲 ns1:刘表 .
+
+ns1:刘琳 ns1:曾效力过 ns1:魏 .
+
+ns1:刘瑁 ns1:曾效力过 ns1:东汉 .
+
+ns1:刘璿 ns1:兄弟 ns1:刘恂,
+        <http://www.e3ol.com/biography/html/刘氏[诸葛瞻妻]>,
+        ns1:刘琮,
+        <http://www.e3ol.com/biography/html/刘琮[刘禅子]>,
+        ns1:刘瑶,
+        ns1:刘璩,
+        ns1:刘瓒,
+        ns1:刘谌 ;
+    ns1:官至 ns1:皇太子 ;
+    ns1:曾效力过 ns1:蜀,
+        ns1:魏 ;
+    ns1:母亲 <http://www.e3ol.com/biography/html/王贵人[刘禅妻]> ;
+    ns1:父亲 ns1:刘禅 ;
+    ns1:配偶 <http://www.e3ol.com/biography/html/费氏[刘璿妻]> .
+
+ns1:刘祥 ns1:曾效力过 ns1:东汉 .
+
+ns1:刘胤 ns1:曾效力过 ns1:蜀 .
+
+ns1:刘范 ns1:官至 ns1:左中朗将 ;
+    ns1:曾效力过 ns1:东汉 .
+
+ns1:刘虞 ns1:子女 ns1:刘和 ;
+    ns1:官至 ns1:太傅,
+        ns1:幽州牧,
+        ns1:襄贲侯 ;
+    ns1:曾效力过 ns1:东汉 ;
+    ns1:父亲 <http://www.e3ol.com/biography/html/刘舒[刘虞父]> .
+
+ns1:刘许 ns1:曾效力过 ns1:魏 .
+
+ns1:刘诞 ns1:曾效力过 ns1:东汉 .
+
+<http://www.e3ol.com/biography/html/刘豹[匈奴]> ns1:官至 ns1:匈奴北部都尉 ;
+    ns1:曾效力过 ns1:少数民族,
+        ns1:魏 .
+
+ns1:刘辑 ns1:曾效力过 ns1:蜀 .
+
+<http://www.e3ol.com/biography/html/刘靖[魏]> ns1:官至 ns1:谥曰景,
+        ns1:镇北将军 ;
+    ns1:曾效力过 ns1:魏 .
+
+ns1:华佗妻 ns1:曾效力过 ns1:在野 .
+
+ns1:华博 ns1:曾效力过 ns1:魏 .
+
+ns1:华周 ns1:曾效力过 ns1:魏 .
+
+ns1:华表 ns1:官至 ns1:太中大夫,
+        ns1:观阳伯,
+        ns1:谥曰康伯 ;
+    ns1:曾效力过 ns1:西晋,
+        ns1:魏 .
+
+ns1:卢毓 ns1:官至 ns1:司空,
+        ns1:容城侯,
+        ns1:谥曰成侯 .
+
+ns1:卫瓘 ns1:官至 ns1:司空,
+        ns1:太保 ;
+    ns1:曾效力过 ns1:魏 .
+
+ns1:司马孚 ns1:兄弟 ns1:司马恂,
+        ns1:司马懿,
+        ns1:司马敏,
+        ns1:司马旭,
+        ns1:司马朗,
+        ns1:司马进,
+        ns1:司马通 ;
+    ns1:子女 ns1:司马望,
+        ns1:司马瑰 ;
+    ns1:官至 ns1:太宰,
+        ns1:安平王,
+        ns1:谥曰献 ;
+    ns1:曾效力过 ns1:魏 ;
+    ns1:父亲 ns1:司马防 .
+
+ns1:司马攸 ns1:官至 ns1:侍中,
+        ns1:假节,
+        ns1:太子少傅,
+        ns1:太常,
+        ns1:谥曰献王,
+        ns1:齐王 ;
+    ns1:曾效力过 ns1:魏 .
+
+ns1:司马望 ns1:官至 ns1:义阳王,
+        ns1:大司马,
+        ns1:谥曰成 ;
+    ns1:曾效力过 ns1:魏 .
+
+ns1:司马炎 ns1:官至 ns1:晋皇帝,
+        ns1:谥曰武皇帝 ;
+    ns1:曾效力过 ns1:魏 .
+
+ns1:周承 ns1:官至 ns1:陵阳侯 .
+
+ns1:周泰 ns1:子女 ns1:周承,
+        ns1:周邵 ;
+    ns1:官至 ns1:奋威将军,
+        ns1:汉中太守,
+        ns1:陵阳侯 .
+
+ns1:夏侯尚 ns1:子女 ns1:夏侯徽,
+        ns1:夏侯玄 ;
+    ns1:官至 ns1:征南大将军,
+        ns1:昌陵乡侯,
+        ns1:荆州牧,
+        ns1:谥曰悼 ;
+    ns1:配偶 <http://www.e3ol.com/biography/html/曹氏[夏侯尚妻]> .
+
+ns1:夏侯惇 ns1:兄弟 ns1:夏侯廉 ;
+    ns1:子女 ns1:夏侯充,
+        ns1:夏侯子江,
+        ns1:夏侯子臧,
+        ns1:夏侯楙 ;
+    ns1:官至 ns1:大将军,
+        ns1:谥曰忠侯,
+        ns1:高安乡侯 ;
+    ns1:曾效力过 ns1:东汉 .
+
+ns1:夏侯楙 ns1:兄弟 ns1:夏侯充,
+        ns1:夏侯子江,
+        ns1:夏侯子臧 ;
+    ns1:官至 ns1:假节,
+        ns1:关内侯,
+        ns1:镇东将军 ;
+    ns1:父亲 ns1:夏侯惇 ;
+    ns1:配偶 ns1:清河长公主 .
+
+ns1:夏侯玄 ns1:兄弟 ns1:夏侯徽,
+        <http://www.e3ol.com/biography/html/夏侯徽（景怀夏侯皇后）> ;
+    ns1:官至 ns1:太常,
+        ns1:征西将军 ;
+    ns1:母亲 ns1:曹氏 ;
+    ns1:父亲 ns1:夏侯尚 .
+
+ns1:太史享 ns1:官至 ns1:越骑校尉 .
+
+ns1:姜维母 ns1:曾效力过 ns1:蜀 .
+
+ns1:孙休 ns1:官至 ns1:吴皇帝,
+        ns1:谥曰景皇帝 .
+
+<http://www.e3ol.com/biography/html/孙俊[孙河子]> ns1:官至 ns1:定武中郎将 .
+
+ns1:孙和 ns1:官至 ns1:南阳王,
+        ns1:追谥文皇帝 .
+
+ns1:孙奋 ns1:官至 ns1:章安侯 .
+
+ns1:孙异 ns1:官至 ns1:领军将军 .
+
+<http://www.e3ol.com/biography/html/孙氏[曹彰妻]> ns1:曾效力过 ns1:魏 .
+
+ns1:孙河 ns1:官至 ns1:将军 .
+
+<http://www.e3ol.com/biography/html/孙登[吴]> ns1:官至 ns1:吴太子,
+        ns1:谥曰宣太子 .
+
+ns1:孙皎 ns1:兄弟 ns1:孙奂,
+        ns1:孙暠,
+        ns1:孙瑜,
+        ns1:孙谦,
+        <http://www.e3ol.com/biography/html/孙谦[孙静子]> ;
+    ns1:子女 ns1:孙仪,
+        ns1:孙咨,
+        <http://www.e3ol.com/biography/html/孙弥[孙皎子]>,
+        ns1:孙晞,
+        ns1:孙胤 ;
+    ns1:官至 ns1:征虏将军 ;
+    ns1:父亲 ns1:孙静 .
+
+<http://www.e3ol.com/biography/html/孙虑[孙权子]> ns1:官至 ns1:假节,
+        ns1:建昌王,
+        ns1:开府,
+        ns1:镇军大将军 .
+
+ns1:孙霸 ns1:官至 ns1:鲁王 .
+
+ns1:孟优 ns1:曾效力过 ns1:少数民族 .
+
+ns1:孟节 ns1:官至 ns1:无 .
+
+ns1:孟获 ns1:兄弟 ns1:孟优,
+        ns1:孟节 ;
+    ns1:子女 ns1:孟虬,
+        ns1:花鬘 ;
+    ns1:官至 ns1:御史中丞 ;
+    ns1:曾效力过 ns1:少数民族 ;
+    ns1:配偶 ns1:祝融 .
+
+ns1:宣阳乡君 ns1:官至 ns1:宣阳乡君 .
+
+ns1:崔林 ns1:官至 ns1:司空,
+        ns1:安阳乡侯,
+        ns1:谥曰孝侯 .
+
+ns1:庞宏 ns1:官至 ns1:关内侯,
+        ns1:涪陵太守 .
+
+ns1:庞德 ns1:官至 ns1:关门亭侯,
+        ns1:立义将军,
+        ns1:谥曰壮侯 ;
+    ns1:曾效力过 ns1:马腾,
+        ns1:魏 .
+
+ns1:庞林 ns1:官至 ns1:列侯,
+        ns1:钜鹿太守 ;
+    ns1:曾效力过 ns1:蜀,
+        ns1:魏 .
+
+<http://www.e3ol.com/biography/html/张休[吴]> ns1:官至 ns1:娄侯,
+        ns1:扬武将军 .
+
+<http://www.e3ol.com/biography/html/张承[吴]> ns1:兄弟 ns1:张休 ;
+    ns1:子女 <http://www.e3ol.com/biography/html/张氏[孙和嫡妃]>,
+        <http://www.e3ol.com/biography/html/张氏[陆抗妻]>,
+        <http://www.e3ol.com/biography/html/张震[吴]>,
+        <http://www.e3ol.com/biography/html/张震[张昭孙]> ;
+    ns1:官至 ns1:卫尉,
+        ns1:奋威将军,
+        ns1:谥曰定侯,
+        ns1:豫章太守,
+        ns1:都乡侯 ;
+    ns1:父亲 <http://www.e3ol.com/biography/html/张昭[吴]> .
+
+<http://www.e3ol.com/biography/html/张昭[吴]> ns1:子女 <http://www.e3ol.com/biography/html/张休[吴]>,
+        <http://www.e3ol.com/biography/html/张承[吴]> ;
+    ns1:官至 ns1:娄侯,
+        ns1:谥曰文,
+        ns1:辅吴将军 .
+
+ns1:张燕 ns1:子女 ns1:张方 ;
+    ns1:官至 ns1:安国亭侯,
+        ns1:平北将军 ;
+    ns1:曾效力过 ns1:张角,
+        ns1:魏 .
+
+ns1:张缉 ns1:官至 ns1:光禄大夫 .
+
+ns1:张翁归 ns1:官至 ns1:关内侯 .
+
+<http://www.e3ol.com/biography/html/张虎[魏]> ns1:官至 ns1:偏将军,
+        ns1:晋阳侯 .
+
+ns1:张飞 ns1:子女 <http://www.e3ol.com/biography/html/张皇后[刘禅妻]>,
+        ns1:张绍,
+        <http://www.e3ol.com/biography/html/张苞[蜀]>,
+        ns1:敬哀皇后 ;
+    ns1:官至 ns1:假节,
+        ns1:司隶校尉,
+        ns1:西乡侯,
+        ns1:谥曰桓侯,
+        ns1:车骑将军 ;
+    ns1:配偶 <http://www.e3ol.com/biography/html/夏侯氏[张飞妻]> .
+
+ns1:文虎 ns1:官至 ns1:偏将军,
+        ns1:关内侯 ;
+    ns1:曾效力过 ns1:吴,
+        ns1:魏 .
+
+ns1:文钦 ns1:曾效力过 ns1:魏 .
+
+ns1:曹嵩 ns1:官至 ns1:汉太尉,
+        ns1:费亭侯,
+        ns1:追魏太皇帝 .
+
+ns1:曹泰 ns1:官至 ns1:假节,
+        ns1:甯陵侯,
+        ns1:镇东将军 .
+
+ns1:曹爽 ns1:兄弟 ns1:曹则,
+        ns1:曹彦,
+        ns1:曹皑,
+        ns1:曹羲,
+        ns1:曹训 ;
+    ns1:官至 ns1:大将军 ;
+    ns1:父亲 ns1:曹真 ;
+    ns1:配偶 <http://www.e3ol.com/biography/html/刘氏[曹爽妻]>,
+        ns1:张才人 .
+
+ns1:曹真 ns1:兄弟 ns1:曹彬,
+        <http://www.e3ol.com/biography/html/曹彬[曹真弟]> ;
+    ns1:子女 ns1:曹则,
+        ns1:曹彦,
+        ns1:曹爽,
+        ns1:曹皑,
+        ns1:曹羲,
+        ns1:曹训 ;
+    ns1:官至 ns1:大司马,
+        ns1:谥曰元 ;
+    ns1:父亲 ns1:曹邵 .
+
+ns1:曹纯 ns1:官至 ns1:虎豹骑督,
+        ns1:高陵亭侯 .
+
+ns1:曹髦 ns1:兄弟 ns1:曹启,
+        ns1:曹殷,
+        ns1:曹穆 ;
+    ns1:官至 ns1:魏国皇帝 ;
+    ns1:父亲 ns1:曹霖 .
+
+ns1:朱皓 ns1:官至 ns1:南昌太守,
+        ns1:钱塘侯 .
+
+ns1:朱符 ns1:官至 ns1:交州刺史 .
+
+ns1:朱绩 ns1:官至 ns1:左大司马 .
+
+<http://www.e3ol.com/biography/html/李丰[蜀]> ns1:官至 ns1:朱提太守 .
+
+<http://www.e3ol.com/biography/html/李氏[庞德妻]> ns1:曾效力过 ns1:东汉 .
+
+ns1:杜恕 ns1:官至 ns1:丰乐亭侯,
+        ns1:乌丸校尉,
+        ns1:幽州刺史,
+        ns1:建威将军,
+        ns1:持节 .
+
+ns1:杨氏 ns1:官至 ns1:无 .
+
+ns1:杨肇 ns1:官至 ns1:东武伯,
+        ns1:折冲将军,
+        ns1:荆州刺史,
+        ns1:谥曰戴伯 ;
+    ns1:曾效力过 ns1:魏 .
+
+ns1:桓嘉 ns1:官至 ns1:乐安太守,
+        ns1:安乐乡侯,
+        ns1:谥曰壮侯 .
+
+ns1:楼班 ns1:官至 ns1:乌丸单于 .
+
+ns1:步协 ns1:官至 ns1:抚军将军 .
+
+ns1:步阐 ns1:官至 ns1:交州牧,
+        ns1:仪同三司,
+        ns1:侍中,
+        ns1:假节,
+        ns1:卫将军,
+        ns1:宜都公 ;
+    ns1:曾效力过 ns1:吴 .
+
+ns1:沮鹄 ns1:官至 ns1:将军 .
+
+ns1:灵思皇后 ns1:兄弟 ns1:何苗,
+        ns1:何进 ;
+    ns1:子女 ns1:刘辩 ;
+    ns1:官至 ns1:汉皇太后,
+        ns1:谥曰灵思皇后 ;
+    ns1:母亲 ns1:兴 ;
+    ns1:父亲 ns1:何真 ;
+    ns1:配偶 <http://www.e3ol.com/biography/html/刘宏[汉灵帝]> .
+
+<http://www.e3ol.com/biography/html/王浑[凉州刺史]> ns1:官至 ns1:凉州刺史,
+        ns1:贞陵亭侯 .
+
+ns1:祝融 ns1:兄弟 ns1:带来洞主 ;
+    ns1:子女 ns1:孟虬,
+        ns1:花鬘 ;
+    ns1:曾效力过 ns1:少数民族 ;
+    ns1:配偶 ns1:孟获 .
+
+ns1:程武 ns1:官至 ns1:安乡侯 .
+
+ns1:胡综 ns1:官至 ns1:乡侯,
+        ns1:偏将军,
+        ns1:左执法,
+        ns1:领辞讼 .
+
+ns1:臧洪 ns1:官至 ns1:东郡太守 ;
+    ns1:曾效力过 ns1:东汉 .
+
+ns1:臧舜 ns1:官至 ns1:散骑常侍 ;
+    ns1:曾效力过 ns1:吕布,
+        ns1:魏 .
+
+ns1:荀谌 ns1:兄弟 ns1:荀彧 ;
+    ns1:子女 ns1:荀闳 ;
+    ns1:父亲 ns1:荀绲 .
+
+ns1:荀顗 ns1:兄弟 ns1:荀俣,
+        ns1:荀恽,
+        ns1:荀氏,
+        ns1:荀粲,
+        ns1:荀诜 ;
+    ns1:官至 ns1:临淮公,
+        ns1:侍中,
+        ns1:太子太傅,
+        ns1:太尉,
+        ns1:谥曰康公 ;
+    ns1:曾效力过 ns1:魏 ;
+    ns1:母亲 ns1:唐氏 ;
+    ns1:父亲 ns1:荀彧 .
+
+ns1:董允 ns1:官至 ns1:侍中守尚书令 ;
+    ns1:父亲 <http://www.e3ol.com/biography/html/董和[蜀]> .
+
+ns1:董卓母 ns1:曾效力过 ns1:东汉 .
+
+<http://www.e3ol.com/biography/html/董和[蜀]> ns1:子女 ns1:董允 ;
+    ns1:官至 ns1:掌军中郎将 .
+
+ns1:董旻 ns1:官至 ns1:左将军,
+        ns1:鄠侯 .
+
+ns1:蒋斌 ns1:兄弟 ns1:蒋显 ;
+    ns1:官至 ns1:安阳亭侯,
+        ns1:汉城护军,
+        ns1:绥武将军 ;
+    ns1:曾效力过 ns1:蜀 ;
+    ns1:父亲 ns1:蒋琬 .
+
+ns1:蒋琬 ns1:兄弟 <http://www.e3ol.com/biography/html/刘敏(外弟)> ;
+    ns1:子女 ns1:蒋斌,
+        ns1:蒋显 ;
+    ns1:官至 ns1:大司马,
+        ns1:大将军,
+        ns1:安阳亭侯 .
+
+ns1:蒯越 ns1:官至 ns1:光禄勋 ;
+    ns1:曾效力过 ns1:东汉,
+        ns1:刘表 .
+
+ns1:蔡邕 ns1:官至 ns1:左中郎将,
+        ns1:高阳乡侯 ;
+    ns1:曾效力过 ns1:东汉 .
+
+ns1:袁熙 ns1:官至 ns1:幽州牧 .
+
+ns1:袁燿 ns1:官至 ns1:郎中 ;
+    ns1:曾效力过 ns1:袁术 .
+
+ns1:许仪 ns1:子女 ns1:许综 ;
+    ns1:官至 ns1:牙门将,
+        ns1:牟乡侯 ;
+    ns1:父亲 ns1:许褚 .
+
+ns1:许褚 ns1:兄弟 ns1:许定 ;
+    ns1:子女 ns1:许仪 ;
+    ns1:官至 ns1:武卫将军,
+        ns1:牟乡侯,
+        ns1:谥曰壮侯 ;
+    ns1:曾效力过 ns1:魏 .
+
+ns1:诸葛恪 ns1:兄弟 ns1:诸葛乔,
+        ns1:诸葛融 ;
+    ns1:子女 ns1:诸葛建,
+        ns1:诸葛竦,
+        ns1:诸葛绰 ;
+    ns1:官至 ns1:太傅 ;
+    ns1:父亲 ns1:诸葛瑾 ;
+    ns1:配偶 ns1:诸葛恪妻 .
+
+ns1:诸葛靓 ns1:官至 ns1:右将军 ;
+    ns1:曾效力过 ns1:魏 .
+
+ns1:谯山并 ns1:官至 ns1:师友从事 .
+
+ns1:貂蝉 ns1:曾效力过 ns1:东汉 ;
+    ns1:配偶 ns1:吕布 .
+
+ns1:贾充 ns1:兄弟 ns1:贾混 ;
+    ns1:子女 <http://www.e3ol.com/biography/html/贾氏[韩寿妻]> ;
+    ns1:官至 ns1:太子太保,
+        ns1:太尉,
+        ns1:录尚书事,
+        ns1:谥曰武公,
+        ns1:追赠太宰,
+        ns1:鲁郡公 ;
+    ns1:曾效力过 ns1:魏 ;
+    ns1:母亲 ns1:柳氏 ;
+    ns1:父亲 <http://www.e3ol.com/biography/html/贾逵[魏]> ;
+    ns1:配偶 ns1:郭槐 .
+
+<http://www.e3ol.com/biography/html/贾逵[魏]> ns1:子女 ns1:贾充 ;
+    ns1:官至 ns1:建威将军,
+        ns1:谥肃侯,
+        ns1:阳里亭侯 .
+
+ns1:赵广 ns1:官至 ns1:牙门将 .
+
+ns1:赵昂 ns1:官至 ns1:参军事 ;
+    ns1:曾效力过 ns1:东汉 .
+
+ns1:赵月 ns1:官至 ns1:裨将军 ;
+    ns1:曾效力过 ns1:东汉 .
+
+ns1:赵统 ns1:官至 ns1:永昌亭侯,
+        ns1:督行领军,
+        ns1:虎贲中郎 .
+
+ns1:辛宪英 ns1:官至 ns1:无 ;
+    ns1:曾效力过 ns1:魏 .
+
+ns1:辛敞 ns1:官至 ns1:卫尉,
+        ns1:颍乡侯 ;
+    ns1:曾效力过 ns1:魏 .
+
+ns1:邓良 ns1:兄弟 ns1:无 ;
+    ns1:官至 ns1:广汉太守 ;
+    ns1:曾效力过 ns1:蜀,
+        ns1:魏 ;
+    ns1:父亲 ns1:邓芝 .
+
+ns1:邓芝 ns1:子女 ns1:邓良 ;
+    ns1:官至 ns1:假节,
+        ns1:车骑将军,
+        ns1:阳武亭侯 ;
+    ns1:母亲 ns1:郑天生 .
+
+ns1:郭嘉 ns1:子女 <http://www.e3ol.com/biography/html/郭奕[魏]> ;
+    ns1:官至 ns1:司空军祭酒,
+        ns1:洧阳亭侯,
+        ns1:谥曰贞侯 ;
+    ns1:曾效力过 ns1:魏 .
+
+<http://www.e3ol.com/biography/html/郭奕[魏]> ns1:子女 ns1:郭敞,
+        ns1:郭深 ;
+    ns1:官至 ns1:太子文学,
+        ns1:洧阳亭侯 ;
+    ns1:父亲 ns1:郭嘉 .
+
+ns1:郭女王 ns1:官至 ns1:谥曰文德皇后,
+        ns1:魏皇后 .
+
+ns1:郭槐 ns1:官至 ns1:宜城君谥宣 ;
+    ns1:曾效力过 ns1:魏 .
+
+ns1:金旋 ns1:官至 ns1:中郎将,
+        ns1:武陵太守 ;
+    ns1:曾效力过 ns1:东汉,
+        ns1:刘表 .
+
+ns1:钟会 ns1:兄弟 ns1:钟劭,
+        ns1:钟毓 ;
+    ns1:官至 ns1:假节,
+        ns1:县侯,
+        ns1:司徒,
+        ns1:都督关中诸军事 ;
+    ns1:母亲 <http://www.e3ol.com/biography/html/张氏[钟繇妻]> ;
+    ns1:父亲 ns1:钟繇 .
+
+ns1:钟繇 ns1:兄弟 ns1:钟氏,
+        ns1:钟演 ;
+    ns1:子女 ns1:钟会,
+        ns1:钟毓 ;
+    ns1:官至 ns1:太傅,
+        ns1:定陵侯,
+        ns1:谥曰成侯 ;
+    ns1:曾效力过 ns1:东汉 ;
+    ns1:配偶 <http://www.e3ol.com/biography/html/孙氏[钟繇妾]>,
+        <http://www.e3ol.com/biography/html/张氏[钟繇妻]>,
+        <http://www.e3ol.com/biography/html/贾氏[钟繇妻]> .
+
+ns1:陆景 ns1:兄弟 ns1:陆云,
+        ns1:陆晏,
+        ns1:陆机,
+        ns1:陆玄,
+        ns1:陆耽 ;
+    ns1:官至 ns1:中夏督,
+        ns1:偏将军,
+        ns1:毗陵侯 ;
+    ns1:母亲 <http://www.e3ol.com/biography/html/张氏[陆抗妻]> ;
+    ns1:父亲 ns1:陆抗 ;
+    ns1:配偶 <http://www.e3ol.com/biography/html/孙氏[陆景妻]> .
+
+ns1:陆逊 ns1:兄弟 ns1:陆瑁,
+        <http://www.e3ol.com/biography/html/陆瑁&;> ;
+    ns1:子女 ns1:陆延,
+        ns1:陆抗 ;
+    ns1:官至 ns1:上大将军,
+        ns1:丞相,
+        ns1:右都护,
+        ns1:谥昭侯 ;
+    ns1:父亲 ns1:陆骏 ;
+    ns1:配偶 <http://www.e3ol.com/biography/html/孙氏[陆逊妻]> .
+
+ns1:陈修 ns1:官至 ns1:别部司马,
+        ns1:校尉 .
+
+ns1:陈泰 ns1:子女 <http://www.e3ol.com/biography/html/陈恂[魏]>,
+        <http://www.e3ol.com/biography/html/陈温[魏]> ;
+    ns1:官至 ns1:尚书左仆射,
+        ns1:谥曰穆,
+        ns1:镇军将军 ;
+    ns1:母亲 ns1:荀氏 ;
+    ns1:父亲 ns1:陈群 .
+
+ns1:陈珪 ns1:官至 ns1:沛相 ;
+    ns1:曾效力过 ns1:东汉 .
+
+ns1:陈群 ns1:子女 ns1:陈泰 ;
+    ns1:官至 ns1:司空,
+        ns1:谥曰靖 ;
+    ns1:父亲 <http://www.e3ol.com/biography/html/陈纪[东汉]> .
+
+ns1:陈表 ns1:官至 ns1:偏将军,
+        ns1:都乡侯 .
+
+ns1:霍峻 ns1:兄弟 ns1:霍笃 ;
+    ns1:子女 ns1:霍弋 ;
+    ns1:官至 ns1:梓潼太守,
+        ns1:裨将军 ;
+    ns1:曾效力过 ns1:刘表 .
+
+ns1:霍弋 ns1:官至 ns1:列侯,
+        ns1:南中都督 ;
+    ns1:曾效力过 ns1:蜀,
+        ns1:魏 ;
+    ns1:父亲 ns1:霍峻 .
+
+ns1:韩综 ns1:官至 ns1:将军,
+        ns1:广阳侯 ;
+    ns1:曾效力过 ns1:魏 .
+
+ns1:马承 ns1:官至 ns1:斄乡侯 ;
+    ns1:曾效力过 ns1:蜀,
+        ns1:马腾 .
+
+ns1:马秉 ns1:官至 ns1:骑都尉 .
+
+ns1:马良 ns1:兄弟 ns1:马谡 ;
+    ns1:子女 ns1:马秉 ;
+    ns1:官至 ns1:侍中 .
+
+ns1:马谡 ns1:兄弟 ns1:马良 ;
+    ns1:官至 ns1:参军,
+        ns1:越隽太守 .
+
+ns1:马超 ns1:兄弟 ns1:马云騄,
+        ns1:马休,
+        ns1:马铁 ;
+    ns1:子女 ns1:马承,
+        ns1:马氏,
+        ns1:马秋 ;
+    ns1:官至 ns1:假节,
+        ns1:凉州牧,
+        ns1:犛乡侯,
+        ns1:谥曰威侯,
+        ns1:骠骑将军 ;
+    ns1:曾效力过 ns1:东汉,
+        ns1:蜀,
+        ns1:马腾 ;
+    ns1:父亲 ns1:马腾 ;
+    ns1:配偶 ns1:杨氏,
+        <http://www.e3ol.com/biography/html/董氏[马超妻]> .
+
+ns1:鲁淑 ns1:官至 ns1:假节,
+        ns1:夏口督,
+        ns1:昭武将军,
+        ns1:都亭侯 .
+
+ns1:鲍勋 ns1:官至 ns1:宫正 .
+
+ns1:麋竺 ns1:兄弟 ns1:麋夫人,
+        ns1:麋芳 ;
+    ns1:官至 ns1:安汉将军 .
+
+ns1:麋芳 ns1:兄弟 ns1:麋氏,
+        ns1:麋竺 ;
+    ns1:官至 ns1:将军 ;
+    ns1:曾效力过 ns1:蜀 .
+
+ns1:黄崇 ns1:官至 ns1:尚书郎 .
+
+ns1:黄承彦 ns1:子女 ns1:黄月英 ;
+    ns1:官至 ns1:不仕 .
+
+ns1:仇昭仪 ns1:曾效力过 ns1:魏 .
+
+ns1:何真 ns1:曾效力过 ns1:东汉 .
+
+ns1:何苗 ns1:官至 ns1:车骑将军 ;
+    ns1:曾效力过 ns1:东汉 .
+
+<http://www.e3ol.com/biography/html/刘宏[汉灵帝]> ns1:官至 ns1:汉皇帝,
+        ns1:谥孝灵皇帝 ;
+    ns1:曾效力过 ns1:东汉 .
+
+ns1:刘恂 ns1:曾效力过 ns1:蜀 .
+
+<http://www.e3ol.com/biography/html/刘氏[曹操妾]> ns1:曾效力过 ns1:魏 .
+
+ns1:刘琦 ns1:官至 ns1:荆州刺史 ;
+    ns1:曾效力过 ns1:刘表 .
+
+<http://www.e3ol.com/biography/html/刘琮[刘禅子]> ns1:曾效力过 ns1:蜀 .
+
+ns1:刘瑶 ns1:曾效力过 ns1:蜀 .
+
+ns1:刘璩 ns1:曾效力过 ns1:蜀 .
+
+ns1:刘瓒 ns1:官至 ns1:新平王 ;
+    ns1:曾效力过 ns1:蜀 .
+
+ns1:刘谌 ns1:官至 ns1:北地王 ;
+    ns1:曾效力过 ns1:蜀 .
+
+ns1:刘辩 ns1:官至 ns1:弘农王 ;
+    ns1:曾效力过 ns1:东汉 .
+
+ns1:司马朗 ns1:官至 ns1:兖州刺史 .
+
+ns1:司马防 ns1:官至 ns1:骑都尉 .
+
+ns1:周循 ns1:兄弟 ns1:周氏,
+        ns1:周胤 ;
+    ns1:官至 ns1:骑都尉 ;
+    ns1:母亲 ns1:小乔 ;
+    ns1:父亲 ns1:周瑜 ;
+    ns1:配偶 ns1:孙鲁班 .
+
+ns1:周胤 ns1:兄弟 ns1:周循,
+        ns1:周氏 ;
+    ns1:官至 ns1:行兴业都尉封都乡侯 ;
+    ns1:母亲 ns1:小乔 ;
+    ns1:父亲 ns1:周瑜 .
+
+ns1:夏侯充 ns1:官至 ns1:关内侯 .
+
+ns1:夏侯和 ns1:兄弟 ns1:夏侯威,
+        ns1:夏侯惠,
+        ns1:夏侯称,
+        ns1:夏侯荣,
+        ns1:夏侯衡,
+        ns1:夏侯霸 ;
+    ns1:官至 ns1:乡侯,
+        ns1:光禄勋 ;
+    ns1:曾效力过 ns1:魏 ;
+    ns1:母亲 ns1:曹操内妹 ;
+    ns1:父亲 ns1:夏侯渊 .
+
+ns1:夏侯威 ns1:兄弟 ns1:夏侯和,
+        ns1:夏侯惠,
+        ns1:夏侯称,
+        ns1:夏侯荣,
+        ns1:夏侯衡,
+        ns1:夏侯霸 ;
+    ns1:子女 ns1:夏侯骏 ;
+    ns1:官至 ns1:兖州刺史,
+        ns1:关内侯,
+        ns1:谥曰穆 ;
+    ns1:父亲 ns1:夏侯渊 .
+
+ns1:夏侯子江 ns1:官至 ns1:关内侯 .
+
+ns1:夏侯子臧 ns1:官至 ns1:关内侯 .
+
+<http://www.e3ol.com/biography/html/夏侯氏[张飞妻]> ns1:官至 ns1:无 ;
+    ns1:曾效力过 ns1:蜀 .
+
+ns1:夏侯渊 ns1:子女 ns1:夏侯和,
+        ns1:夏侯威,
+        ns1:夏侯惠,
+        ns1:夏侯称,
+        ns1:夏侯荣,
+        ns1:夏侯衡,
+        ns1:夏侯霸 ;
+    ns1:官至 ns1:假节,
+        ns1:博昌亭侯,
+        ns1:征西将军,
+        ns1:谥曰愍 .
+
+ns1:孔融 ns1:官至 ns1:太中大夫 .
+
+ns1:孙瑜 ns1:官至 ns1:丹杨太守,
+        ns1:奋威将军 .
+
+ns1:孙静 ns1:兄弟 ns1:孙坚,
+        <http://www.e3ol.com/biography/html/孙氏[徐真妻]>,
+        ns1:孙羌 ;
+    ns1:子女 ns1:孙奂,
+        ns1:孙暠,
+        ns1:孙瑜,
+        ns1:孙皎,
+        <http://www.e3ol.com/biography/html/孙谦[孙静子]> ;
+    ns1:官至 ns1:昭义中郎将 ;
+    ns1:父亲 ns1:孙钟 .
+
+ns1:张绍 ns1:官至 ns1:列侯,
+        ns1:尚书仆射 ;
+    ns1:曾效力过 ns1:蜀,
+        ns1:魏 .
+
+ns1:敬哀皇后 ns1:兄弟 ns1:小张氏,
+        <http://www.e3ol.com/biography/html/张皇后[刘禅妻]>,
+        ns1:张绍,
+        ns1:张苞,
+        <http://www.e3ol.com/biography/html/张苞[蜀]> ;
+    ns1:官至 ns1:蜀皇后,
+        ns1:谥曰敬哀皇后 ;
+    ns1:母亲 <http://www.e3ol.com/biography/html/夏侯氏[张飞妻]> ;
+    ns1:父亲 ns1:张飞 ;
+    ns1:配偶 ns1:刘禅 .
+
+ns1:文昭皇后 ns1:兄弟 ns1:甄俨,
+        ns1:甄姜,
+        ns1:甄尧,
+        ns1:甄脱,
+        ns1:甄荣,
+        ns1:甄豫,
+        ns1:甄道 ;
+    ns1:子女 ns1:东乡公主,
+        ns1:曹叡 ;
+    ns1:官至 ns1:追谥文昭皇后 ;
+    ns1:曾效力过 ns1:魏 ;
+    ns1:母亲 ns1:安喜君 ;
+    ns1:父亲 ns1:甄逸 ;
+    ns1:配偶 ns1:曹丕,
+        ns1:袁熙 .
+
+ns1:昭烈皇后 ns1:子女 ns1:刘禅 ;
+    ns1:官至 ns1:皇思夫人,
+        ns1:谥曰昭烈皇后 ;
+    ns1:配偶 ns1:刘备 .
+
+ns1:曹彦 ns1:官至 ns1:列侯,
+        ns1:散骑常侍侍讲 .
+
+ns1:曹羲 ns1:官至 ns1:中领军,
+        ns1:安乡侯 .
+
+ns1:曹训 ns1:官至 ns1:列侯,
+        ns1:武卫将军 .
+
+ns1:桥公 ns1:子女 ns1:大乔,
+        ns1:小乔 ;
+    ns1:官至 ns1:无 .
+
+ns1:荀彧 ns1:兄弟 ns1:荀衍,
+        ns1:荀谌 ;
+    ns1:子女 ns1:荀俣,
+        ns1:荀恽,
+        ns1:荀粲,
+        ns1:荀诜,
+        ns1:荀顗 ;
+    ns1:官至 ns1:万岁亭侯,
+        ns1:太尉,
+        ns1:谥曰敬 ;
+    ns1:曾效力过 ns1:东汉 ;
+    ns1:父亲 ns1:荀绲 .
+
+ns1:荀恽 ns1:官至 ns1:万岁亭侯,
+        ns1:虎贲中郎将 .
+
+ns1:蒋显 ns1:官至 ns1:太子仆 ;
+    ns1:曾效力过 ns1:蜀 .
+
+ns1:袁胤 ns1:官至 ns1:丹杨太守 ;
+    ns1:曾效力过 ns1:东汉 .
+
+ns1:袁遗 ns1:官至 ns1:扬州刺史 ;
+    ns1:曾效力过 ns1:东汉 .
+
+ns1:诸葛均 ns1:官至 ns1:长水校尉 .
+
+ns1:诸葛瑾 ns1:兄弟 ns1:诸葛亮,
+        ns1:诸葛均 ;
+    ns1:子女 ns1:诸葛乔,
+        ns1:诸葛恪,
+        ns1:诸葛融 ;
+    ns1:官至 ns1:大将军 ;
+    ns1:父亲 ns1:诸葛珪 .
+
+ns1:诸葛瞻 ns1:兄弟 ns1:诸葛乔,
+        ns1:诸葛芸 ;
+    ns1:子女 ns1:诸葛京,
+        ns1:诸葛尚 ;
+    ns1:官至 ns1:卫将军,
+        ns1:平尚书事,
+        ns1:武乡侯,
+        ns1:行都护 ;
+    ns1:母亲 ns1:黄月英 ;
+    ns1:父亲 ns1:诸葛亮 ;
+    ns1:配偶 <http://www.e3ol.com/biography/html/刘氏[诸葛瞻妻]> .
+
+ns1:钟毓 ns1:官至 ns1:后将军,
+        ns1:青州刺史 .
+
+ns1:陆抗 ns1:兄弟 ns1:陆延 ;
+    ns1:子女 ns1:陆云,
+        ns1:陆晏,
+        ns1:陆景,
+        ns1:陆机,
+        ns1:陆玄,
+        ns1:陆耽 ;
+    ns1:官至 ns1:大司马,
+        ns1:荆州牧 ;
+    ns1:母亲 ns1:孙策之女 ;
+    ns1:父亲 ns1:陆逊 ;
+    ns1:配偶 <http://www.e3ol.com/biography/html/张氏[陆抗妻]> .
+
+ns1:韩遂 ns1:官至 ns1:征西将军 ;
+    ns1:曾效力过 ns1:东汉 .
+
+ns1:马休 ns1:官至 ns1:奉车都尉 ;
+    ns1:曾效力过 ns1:马腾 .
+
+ns1:马铁 ns1:官至 ns1:骑都尉 ;
+    ns1:曾效力过 ns1:马腾 .
+
+ns1:麋夫人 ns1:官至 ns1:无 .
+
+<http://www.e3ol.com/biography/html/刘氏[诸葛瞻妻]> ns1:官至 ns1:公主 ;
+    ns1:曾效力过 ns1:蜀 .
+
+ns1:刘永 ns1:兄弟 ns1:刘理,
+        ns1:刘禅 ;
+    ns1:官至 ns1:乡侯,
+        ns1:蜀甘陵王,
+        ns1:魏奉车都尉 ;
+    ns1:曾效力过 ns1:蜀 ;
+    ns1:母亲 ns1:穆皇后 ;
+    ns1:父亲 ns1:刘备 .
+
+ns1:刘理 ns1:兄弟 ns1:刘永,
+        ns1:刘禅 ;
+    ns1:子女 ns1:刘胤,
+        ns1:刘辑 ;
+    ns1:官至 ns1:安平王,
+        ns1:谥曰悼王 ;
+    ns1:曾效力过 ns1:蜀 ;
+    ns1:母亲 ns1:穆皇后 ;
+    ns1:父亲 ns1:刘备 ;
+    ns1:配偶 ns1:马氏 .
+
+ns1:司马伷 ns1:兄弟 ns1:司马京,
+        ns1:司马亮,
+        ns1:司马伦,
+        ns1:司马师,
+        ns1:司马干,
+        ns1:司马彤,
+        ns1:司马昭,
+        <http://www.e3ol.com/biography/html/司马氏[荀霬妻]>,
+        ns1:司马骏 ;
+    ns1:子女 ns1:司马繇 ;
+    ns1:官至 ns1:大将军,
+        ns1:琅邪王,
+        ns1:谥曰武 ;
+    ns1:曾效力过 ns1:魏 ;
+    ns1:母亲 ns1:伏夫人 ;
+    ns1:父亲 ns1:司马懿 .
+
+ns1:司马师 ns1:兄弟 ns1:司马京,
+        ns1:司马亮,
+        ns1:司马伦,
+        ns1:司马伷,
+        ns1:司马干,
+        ns1:司马昭,
+        ns1:司马榦,
+        <http://www.e3ol.com/biography/html/司马氏[荀霬妻]>,
+        ns1:司马肜,
+        ns1:司马骏 ;
+    ns1:子女 <http://www.e3ol.com/biography/html/司马氏[甄德妻]> ;
+    ns1:官至 ns1:大将军,
+        ns1:谥号景帝 ;
+    ns1:曾效力过 ns1:魏 ;
+    ns1:母亲 ns1:张春华 ;
+    ns1:父亲 ns1:司马懿 ;
+    ns1:配偶 ns1:夏侯徽,
+        ns1:羊徽瑜 .
+
+ns1:司马昭 ns1:兄弟 ns1:司马京,
+        ns1:司马亮,
+        ns1:司马伦,
+        ns1:司马伷,
+        ns1:司马师,
+        ns1:司马干,
+        ns1:司马榦,
+        <http://www.e3ol.com/biography/html/司马氏[荀霬妻]>,
+        ns1:司马肜,
+        ns1:司马骏 ;
+    ns1:子女 ns1:京兆公主,
+        ns1:司马攸,
+        ns1:司马炎 ;
+    ns1:官至 ns1:大将军,
+        ns1:庙号太祖,
+        ns1:晋王,
+        ns1:追文皇帝 ;
+    ns1:母亲 ns1:张春华 ;
+    ns1:父亲 ns1:司马懿 ;
+    ns1:配偶 ns1:王元姬 .
+
+ns1:周瑜 ns1:子女 ns1:周循,
+        ns1:周氏,
+        ns1:周胤 ;
+    ns1:官至 ns1:偏将军,
+        ns1:南郡太守 ;
+    ns1:曾效力过 ns1:吴 ;
+    ns1:父亲 ns1:周异 ;
+    ns1:配偶 ns1:小乔 .
+
+ns1:夏侯徽 ns1:官至 ns1:追谥景怀皇后 ;
+    ns1:曾效力过 ns1:东汉,
+        ns1:魏 .
+
+ns1:夏侯惠 ns1:官至 ns1:乐安太守,
+        ns1:关内侯 .
+
+ns1:夏侯衡 ns1:官至 ns1:安宁亭侯 .
+
+ns1:夏侯霸 ns1:官至 ns1:车骑将军 ;
+    ns1:曾效力过 ns1:蜀 .
+
+ns1:大乔 ns1:兄弟 ns1:小乔 ;
+    ns1:父亲 ns1:桥公 ;
+    ns1:配偶 ns1:孙策 .
+
+ns1:孙匡 ns1:兄弟 ns1:孙夫人,
+        ns1:孙尚香,
+        ns1:孙朗,
+        ns1:孙权,
+        ns1:孙策,
+        ns1:孙翊 ;
+    ns1:子女 ns1:孙泰 ;
+    ns1:官至 ns1:乌程侯 ;
+    ns1:母亲 ns1:吴氏 ;
+    ns1:父亲 ns1:孙坚 ;
+    ns1:配偶 <http://www.e3ol.com/biography/html/曹氏[孙匡妻]> .
+
+ns1:孙权 ns1:兄弟 ns1:孙匡,
+        ns1:孙夫人,
+        ns1:孙尚香,
+        ns1:孙朗,
+        ns1:孙策,
+        ns1:孙翊 ;
+    ns1:子女 ns1:孙亮,
+        ns1:孙休,
+        ns1:孙和,
+        ns1:孙奋,
+        <http://www.e3ol.com/biography/html/孙氏[刘纂妻]>,
+        <http://www.e3ol.com/biography/html/孙登[吴]>,
+        <http://www.e3ol.com/biography/html/孙虑[孙权子]>,
+        ns1:孙霸,
+        ns1:孙鲁班,
+        ns1:孙鲁育 ;
+    ns1:官至 ns1:吴国皇帝,
+        ns1:谥曰大 ;
+    ns1:母亲 ns1:武烈皇后 ;
+    ns1:父亲 ns1:孙坚 ;
+    ns1:配偶 ns1:仲姬,
+        ns1:大懿皇后,
+        ns1:徐夫人,
+        ns1:敬怀皇后,
+        ns1:步夫人,
+        ns1:潘夫人,
+        ns1:袁夫人,
+        ns1:谢夫人 .
+
+ns1:孙鲁班 ns1:官至 ns1:号曰全,
+        ns1:吴公主 .
+
+ns1:曹叡 ns1:兄弟 ns1:东乡公主,
+        ns1:曹俨,
+        ns1:曹协,
+        ns1:曹礼,
+        ns1:曹蕤,
+        ns1:曹贡,
+        ns1:曹邕,
+        ns1:曹鉴,
+        ns1:曹霖 ;
+    ns1:子女 ns1:临汾公主,
+        <http://www.e3ol.com/biography/html/曹冏[曹叡子]>,
+        ns1:曹殷,
+        ns1:曹淑,
+        ns1:曹穆,
+        ns1:齐长公主 ;
+    ns1:官至 ns1:谥曰明,
+        ns1:魏国皇帝 ;
+    ns1:母亲 ns1:文昭皇后 ;
+    ns1:父亲 ns1:曹丕 ;
+    ns1:配偶 ns1:明元皇后,
+        ns1:明悼皇后,
+        ns1:虞氏 .
+
+ns1:曹霖 ns1:兄弟 ns1:东乡公主,
+        ns1:曹俨,
+        ns1:曹协,
+        ns1:曹叡,
+        ns1:曹礼,
+        ns1:曹蕤,
+        ns1:曹贡,
+        ns1:曹邕,
+        ns1:曹鉴 ;
+    ns1:子女 ns1:曹启,
+        ns1:曹髦 ;
+    ns1:官至 ns1:东海定王 ;
+    ns1:母亲 ns1:仇昭仪 ;
+    ns1:父亲 ns1:曹丕 .
+
+ns1:穆皇后 ns1:官至 ns1:蜀皇太后,
+        ns1:谥曰穆皇后 .
+
+ns1:荀诜 ns1:官至 ns1:大将军从事中郎 .
+
+ns1:诸葛乔 ns1:官至 ns1:驸马都尉 ;
+    ns1:曾效力过 ns1:蜀 .
+
+ns1:诸葛亮 ns1:兄弟 ns1:诸葛均,
+        ns1:诸葛瑾 ;
+    ns1:子女 ns1:诸葛瞻,
+        ns1:诸葛芸 ;
+    ns1:官至 ns1:丞相,
+        ns1:录尚书事,
+        ns1:谥曰忠武侯,
+        ns1:领司隶校尉益州牧 ;
+    ns1:母亲 ns1:章氏 ;
+    ns1:父亲 ns1:诸葛珪 ;
+    ns1:配偶 ns1:黄月英 .
+
+ns1:马云騄 ns1:曾效力过 ns1:马腾 .
+
+ns1:黄月英 ns1:子女 ns1:诸葛瞻 ;
+    ns1:官至 ns1:不详 ;
+    ns1:母亲 ns1:蔡氏 ;
+    ns1:父亲 ns1:黄承彦 ;
+    ns1:配偶 ns1:诸葛亮 .
+
+ns1:东乡公主 ns1:曾效力过 ns1:魏 .
+
+ns1:刘备 ns1:子女 ns1:刘永,
+        ns1:刘理,
+        ns1:刘禅 ;
+    ns1:官至 ns1:蜀国皇帝,
+        ns1:谥曰昭烈 ;
+    ns1:曾效力过 ns1:东汉,
+        ns1:刘表,
+        ns1:蜀,
+        ns1:袁绍,
+        ns1:魏 ;
+    ns1:母亲 ns1:刘备母 ;
+    ns1:父亲 <http://www.e3ol.com/biography/html/刘弘[刘备父]> ;
+    ns1:配偶 ns1:孙夫人,
+        ns1:昭烈皇后,
+        ns1:穆皇后,
+        ns1:麋夫人 .
+
+ns1:刘繇 ns1:官至 ns1:扬州牧,
+        ns1:振武将军 ;
+    ns1:曾效力过 ns1:东汉 .
+
+ns1:司马懿 ns1:兄弟 ns1:司马孚,
+        ns1:司马恂,
+        ns1:司马敏,
+        ns1:司马旭,
+        ns1:司马朗,
+        ns1:司马进,
+        ns1:司马通 ;
+    ns1:子女 ns1:司马亮,
+        ns1:司马伦,
+        ns1:司马伷,
+        ns1:司马师,
+        ns1:司马干,
+        ns1:司马昭,
+        <http://www.e3ol.com/biography/html/司马氏[荀霬妻]>,
+        ns1:司马骏 ;
+    ns1:官至 ns1:太傅,
+        ns1:谥曰文宣 ;
+    ns1:父亲 ns1:司马防 ;
+    ns1:配偶 ns1:张春华 .
+
+ns1:孙坚 ns1:兄弟 ns1:孙羌,
+        ns1:孙静 ;
+    ns1:子女 ns1:孙匡,
+        ns1:孙夫人,
+        ns1:孙朗,
+        ns1:孙权,
+        ns1:孙策,
+        ns1:孙翊 ;
+    ns1:官至 ns1:乌程侯,
+        ns1:破虏将军,
+        ns1:谥曰武烈,
+        ns1:豫州刺史 ;
+    ns1:曾效力过 ns1:东汉 ;
+    ns1:配偶 ns1:吴国太,
+        ns1:武烈皇后 .
+
+ns1:孙朗 ns1:官至 ns1:定武中郎将 .
+
+ns1:孙策 ns1:兄弟 ns1:孙匡,
+        ns1:孙夫人,
+        ns1:孙尚香,
+        ns1:孙朗,
+        ns1:孙权,
+        ns1:孙翊 ;
+    ns1:子女 <http://www.e3ol.com/biography/html/孙氏[朱纪妻]>,
+        <http://www.e3ol.com/biography/html/孙氏[陆逊妻]>,
+        <http://www.e3ol.com/biography/html/孙氏[顾邵妻]>,
+        <http://www.e3ol.com/biography/html/孙绍[孙策子]> ;
+    ns1:官至 ns1:会稽太守,
+        ns1:吴侯,
+        ns1:讨逆将军,
+        ns1:追谥长沙桓王 ;
+    ns1:曾效力过 ns1:吴 ;
+    ns1:母亲 ns1:武烈皇后 ;
+    ns1:父亲 ns1:孙坚 ;
+    ns1:配偶 ns1:大乔 .
+
+ns1:孙翊 ns1:官至 ns1:丹杨太守 .
+
+ns1:曹彰 ns1:兄弟 ns1:安阳公主,
+        ns1:曹上,
+        ns1:曹丕,
+        ns1:曹乘,
+        ns1:曹京,
+        ns1:曹冲,
+        ns1:曹勤,
+        ns1:曹华,
+        ns1:曹均,
+        ns1:曹宇,
+        ns1:曹宪,
+        ns1:曹峻,
+        ns1:曹干,
+        ns1:曹彪,
+        ns1:曹徽,
+        ns1:曹据,
+        ns1:曹整,
+        ns1:曹昂,
+        ns1:曹林,
+        ns1:曹棘,
+        ns1:曹植,
+        ns1:曹熊,
+        ns1:曹玹,
+        ns1:曹矩,
+        ns1:曹节,
+        <http://www.e3ol.com/biography/html/曹节[献穆皇后]>,
+        ns1:曹茂,
+        ns1:曹衮,
+        ns1:曹铄,
+        ns1:金乡公主 ;
+    ns1:子女 <http://www.e3ol.com/biography/html/曹楷[曹彰子]> ;
+    ns1:官至 ns1:任城王,
+        ns1:谥曰威王 ;
+    ns1:母亲 ns1:卞皇后 ;
+    ns1:父亲 ns1:曹操 ;
+    ns1:配偶 <http://www.e3ol.com/biography/html/孙氏[曹彰妻]> .
+
+ns1:曹操 ns1:兄弟 ns1:曹彬,
+        ns1:曹德 ;
+    ns1:子女 ns1:安阳公主,
+        ns1:广宗殇公,
+        ns1:曹上,
+        ns1:曹丕,
+        ns1:曹乘,
+        ns1:曹京,
+        ns1:曹冲,
+        ns1:曹华,
+        ns1:曹均,
+        ns1:曹宇,
+        ns1:曹宪,
+        ns1:曹峻,
+        ns1:曹干,
+        ns1:曹彪,
+        ns1:曹彰,
+        ns1:曹徽,
+        ns1:曹据,
+        ns1:曹整,
+        ns1:曹昂,
+        ns1:曹林,
+        ns1:曹棘,
+        ns1:曹植,
+        ns1:曹熊,
+        ns1:曹玹,
+        ns1:曹矩,
+        <http://www.e3ol.com/biography/html/曹节[献穆皇后]>,
+        ns1:曹茂,
+        ns1:曹衮,
+        ns1:曹铄,
+        ns1:金乡公主 ;
+    ns1:官至 ns1:丞相,
+        ns1:谥曰武,
+        ns1:追魏太祖武皇帝,
+        ns1:魏王 ;
+    ns1:曾效力过 ns1:东汉 ;
+    ns1:母亲 ns1:丁氏 ;
+    ns1:父亲 ns1:曹嵩 ;
+    ns1:配偶 ns1:丁夫人,
+        ns1:刘夫人,
+        ns1:刘姬,
+        <http://www.e3ol.com/biography/html/刘氏[曹操妾]>,
+        ns1:周姬,
+        ns1:孙姬,
+        <http://www.e3ol.com/biography/html/宋姬[曹操妃]>,
+        ns1:尹夫人,
+        ns1:李姬,
+        ns1:杜夫人,
+        ns1:武宣皇后,
+        ns1:王昭仪,
+        ns1:秦夫人,
+        ns1:赵姬,
+        <http://www.e3ol.com/biography/html/陈氏[曹操妾]> .
+
+ns1:曹昂 ns1:兄弟 ns1:安阳公主,
+        ns1:曹上,
+        ns1:曹丕,
+        ns1:曹乘,
+        ns1:曹京,
+        ns1:曹冲,
+        ns1:曹勤,
+        ns1:曹华,
+        ns1:曹均,
+        ns1:曹宇,
+        ns1:曹宪,
+        ns1:曹峻,
+        ns1:曹干,
+        ns1:曹彪,
+        ns1:曹彰,
+        ns1:曹徽,
+        ns1:曹据,
+        ns1:曹整,
+        ns1:曹林,
+        ns1:曹棘,
+        ns1:曹植,
+        ns1:曹熊,
+        ns1:曹玹,
+        ns1:曹矩,
+        <http://www.e3ol.com/biography/html/曹节[献穆皇后]>,
+        <http://www.e3ol.com/biography/html/曹节[魏]>,
+        ns1:曹茂,
+        ns1:曹衮,
+        ns1:曹铄,
+        ns1:金乡公主 ;
+    ns1:官至 ns1:丰王,
+        ns1:谥曰愍王 ;
+    ns1:母亲 <http://www.e3ol.com/biography/html/刘氏[曹操妾]> ;
+    ns1:父亲 ns1:曹操 .
+
+ns1:曹植 ns1:兄弟 ns1:安阳公主,
+        ns1:曹上,
+        ns1:曹丕,
+        ns1:曹乘,
+        ns1:曹京,
+        ns1:曹冲,
+        ns1:曹华,
+        ns1:曹均,
+        ns1:曹宇,
+        ns1:曹宪,
+        ns1:曹峻,
+        ns1:曹干,
+        ns1:曹彪,
+        ns1:曹彰,
+        ns1:曹徽,
+        ns1:曹据,
+        ns1:曹整,
+        ns1:曹昂,
+        ns1:曹林,
+        ns1:曹棘,
+        ns1:曹熊,
+        ns1:曹玹,
+        ns1:曹矩,
+        <http://www.e3ol.com/biography/html/曹节[献穆皇后]>,
+        ns1:曹茂,
+        ns1:曹衮,
+        ns1:曹铄,
+        ns1:金乡公主 ;
+    ns1:子女 ns1:曹志 ;
+    ns1:官至 ns1:征虏将军,
+        ns1:谥曰思,
+        ns1:陈王 ;
+    ns1:母亲 ns1:卞氏 ;
+    ns1:父亲 ns1:曹操 .
+
+ns1:刘璋 ns1:兄弟 ns1:刘瑁,
+        ns1:刘范,
+        ns1:刘诞 ;
+    ns1:官至 ns1:振威将军,
+        ns1:益州牧 ;
+    ns1:曾效力过 ns1:东汉,
+        ns1:刘璋,
+        ns1:蜀 ;
+    ns1:母亲 <http://www.e3ol.com/biography/html/费氏[刘璋母]> ;
+    ns1:父亲 ns1:刘焉 .
+
+ns1:孙夫人 ns1:曾效力过 ns1:蜀 .
+
+ns1:小乔 ns1:兄弟 ns1:大乔 ;
+    ns1:父亲 ns1:桥公 ;
+    ns1:配偶 ns1:周瑜 .
+
+ns1:曹冲 ns1:官至 ns1:谥曰哀,
+        ns1:邓王 .
+
+ns1:曹熊 ns1:官至 ns1:萧王,
+        ns1:谥曰怀王 .
+
+ns1:曹茂 ns1:官至 ns1:乐陵王 .
+
+ns1:曹衮 ns1:官至 ns1:中山王,
+        ns1:谥曰恭王 .
+
+ns1:陶谦 ns1:官至 ns1:安东将军,
+        ns1:徐州牧,
+        ns1:溧阳侯 ;
+    ns1:曾效力过 ns1:东汉 .
+
+ns1:刘禅 ns1:兄弟 ns1:刘永,
+        ns1:刘理 ;
+    ns1:子女 ns1:刘恂,
+        <http://www.e3ol.com/biography/html/刘氏[诸葛瞻妻]>,
+        <http://www.e3ol.com/biography/html/刘琮[刘禅子]>,
+        ns1:刘瑶,
+        ns1:刘璩,
+        ns1:刘璿,
+        ns1:刘瓒,
+        ns1:刘谌 ;
+    ns1:官至 ns1:蜀国皇帝,
+        ns1:谥曰思,
+        ns1:魏安乐公 ;
+    ns1:曾效力过 ns1:蜀 ;
+    ns1:母亲 ns1:昭烈皇后 ;
+    ns1:父亲 ns1:刘备 ;
+    ns1:配偶 <http://www.e3ol.com/biography/html/张皇后[刘禅妻]>,
+        ns1:敬哀皇后,
+        ns1:李昭仪,
+        <http://www.e3ol.com/biography/html/王贵人[刘禅妻]> .
+
+ns1:曹华 ns1:官至 ns1:汉帝贵人 ;
+    ns1:曾效力过 ns1:东汉 .
+
+ns1:曹宇 ns1:官至 ns1:大将军,
+        ns1:燕王 .
+
+ns1:曹宪 ns1:曾效力过 ns1:东汉 .
+
+<http://www.e3ol.com/biography/html/曹节[献穆皇后]> ns1:官至 ns1:汉皇后,
+        ns1:追谥献穆皇后,
+        ns1:魏山阳公夫人 ;
+    ns1:曾效力过 ns1:东汉 .
+
+ns1:张角 ns1:官至 ns1:天公将军 .
+
+ns1:曹丕 ns1:兄弟 ns1:安阳公主,
+        ns1:曹上,
+        ns1:曹乘,
+        ns1:曹京,
+        ns1:曹冲,
+        ns1:曹华,
+        ns1:曹均,
+        ns1:曹子上,
+        ns1:曹子乘,
+        ns1:曹子京,
+        ns1:曹子勤,
+        ns1:曹子棘,
+        ns1:曹宇,
+        ns1:曹宪,
+        ns1:曹峻,
+        ns1:曹干,
+        ns1:曹彪,
+        ns1:曹彰,
+        ns1:曹徽,
+        ns1:曹据,
+        ns1:曹整,
+        ns1:曹昂,
+        ns1:曹林,
+        ns1:曹棘,
+        ns1:曹植,
+        ns1:曹熊,
+        ns1:曹玹,
+        ns1:曹矩,
+        <http://www.e3ol.com/biography/html/曹节[献穆皇后]>,
+        <http://www.e3ol.com/biography/html/曹节[魏]>,
+        ns1:曹茂,
+        ns1:曹衮,
+        ns1:曹铄,
+        ns1:金乡公主 ;
+    ns1:子女 ns1:东乡公主,
+        ns1:曹俨,
+        ns1:曹协,
+        ns1:曹叡,
+        ns1:曹礼,
+        ns1:曹蕤,
+        ns1:曹贡,
+        ns1:曹邕,
+        ns1:曹鉴,
+        ns1:曹霖 ;
+    ns1:官至 ns1:魏文帝 ;
+    ns1:母亲 ns1:卞氏 ;
+    ns1:父亲 ns1:曹操 ;
+    ns1:配偶 ns1:仇昭仪,
+        ns1:任氏,
+        <http://www.e3ol.com/biography/html/宋姬[曹丕妃]>,
+        ns1:张姬,
+        ns1:徐姬,
+        ns1:文昭皇后,
+        ns1:朱淑媛,
+        ns1:李夫人,
+        ns1:李贵人,
+        ns1:柴贵人,
+        ns1:潘淑媛,
+        ns1:苏姬,
+        ns1:郭女王,
+        ns1:阴贵人 .
+
+ns1:士燮 ns1:官至 ns1:交址太守,
+        ns1:卫将军,
+        ns1:龙编侯 ;
+    ns1:曾效力过 ns1:东汉,
+        ns1:士燮 .
+
+ns1:袁术 ns1:兄弟 ns1:袁基,
+        ns1:袁绍,
+        ns1:袁胤,
+        ns1:袁遗,
+        ns1:袁闳 ;
+    ns1:子女 ns1:袁夫人,
+        <http://www.e3ol.com/biography/html/袁氏[杨彪妻]>,
+        ns1:袁燿 ;
+    ns1:官至 ns1:成皇帝,
+        ns1:汉左将军,
+        ns1:阳翟侯 ;
+    ns1:曾效力过 ns1:东汉 ;
+    ns1:母亲 ns1:赵氏 ;
+    ns1:父亲 ns1:袁逢 ;
+    ns1:配偶 ns1:冯氏 .
+
+ns1:马腾 ns1:子女 ns1:马云騄,
+        ns1:马休,
+        ns1:马超,
+        ns1:马铁 ;
+    ns1:官至 ns1:假节,
+        ns1:卫尉,
+        ns1:槐里侯 ;
+    ns1:曾效力过 ns1:东汉,
+        ns1:马腾 ;
+    ns1:父亲 ns1:马肃 .
+
+ns1:董卓 ns1:兄弟 ns1:董擢,
+        ns1:董旻 ;
+    ns1:官至 ns1:太师,
+        ns1:郿侯 ;
+    ns1:曾效力过 ns1:东汉 ;
+    ns1:母亲 ns1:董卓母 ;
+    ns1:父亲 ns1:董君雅 .
+
+ns1:吕布 ns1:子女 ns1:吕玲绮 ;
+    ns1:官至 ns1:左将军,
+        ns1:温侯 ;
+    ns1:曾效力过 ns1:东汉,
+        ns1:董卓 ;
+    ns1:配偶 ns1:严氏,
+        ns1:貂蝉 .
+
+ns1:袁绍 ns1:兄弟 ns1:袁基,
+        ns1:袁术,
+        ns1:袁胤,
+        ns1:袁遗,
+        ns1:袁闳 ;
+    ns1:官至 ns1:冀州牧,
+        ns1:大将军,
+        ns1:邺侯 ;
+    ns1:曾效力过 ns1:东汉,
+        ns1:董卓 .
+
+ns1:刘焉 ns1:官至 ns1:益州牧,
+        ns1:阳城侯 ;
+    ns1:曾效力过 ns1:东汉,
+        ns1:刘焉 .
+
+ns1:刘表 ns1:子女 ns1:刘琦,
+        <http://www.e3ol.com/biography/html/刘琮[刘表子]> ;
+    ns1:官至 ns1:成武侯,
+        ns1:荆州牧,
+        ns1:镇南将军 ;
+    ns1:曾效力过 ns1:东汉,
+        ns1:刘表 ;
+    ns1:配偶 <http://www.e3ol.com/biography/html/蔡氏[刘表妻]>,
+        <http://www.e3ol.com/biography/html/陈氏[刘琦母]> .
+
