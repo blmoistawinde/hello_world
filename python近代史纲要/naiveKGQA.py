@@ -58,7 +58,7 @@ class NaiveKGQA:
             return "你好"
     def get_default_answers(self,entities, answers):
         if len(answers) > 0:
-            return "、".join(" ".join(x) for x in answers)
+            return "、".join("".join(x) for x in answers)
         else:
             return "你好"
     def build_KG(self, SVOs, ht_SVO):
@@ -156,9 +156,37 @@ if __name__ == "__main__":
     for question0 in questions:
         print("问："+question0)
         print("答："+QA.answer(question0))
-    answer_func1 = lambda entities, answers: "清政府签订了"+"、".join(x[0] for x in answers)+"。"
+
+    # 为问题添加定制回答模板，需要制定问题主谓词情况，
+    # 以及回答函数（包括参数entities：问题中的实体(list), answers：查询结果(list of list)）
     print("添加定制模板后：")
+    answer_func1 = lambda entities, answers: "清政府签订了" + "、".join(x[0] for x in answers) + "。"
     QA.add_template(("#实体#","#谓词#"),"#机构名#签订了哪些条约？",answer_func1)
     question0 = "清政府签订了哪些条约？"
     print("问：" + question0)
     print("答：" + QA.answer(question0))
+
+    answer_func2 = lambda entities, answers: "他" + "、".join("".join(x) for x in answers) + "。"
+    QA.add_template(("#实体#",), "#人名#干了哪些事？", answer_func2)
+    question0 = "孙中山干了哪些事？"
+    print("问：" + question0)
+    print("答：" + QA.answer(question0))
+
+    def isPositive(fact0):
+        # 此处硬编码情感倾向作为示例，很多工具也能够判断褒贬，比如snownlp,pyhanlp,以及harvesttext
+        return {"发动护法运动":1,"就任临时大总统":1,"让位于袁世凯":0}[fact0]
+
+    def answer_func3(entities, answers):
+        ans = "他的贡献包括："
+        facts = []
+        for x in answers:
+            fact0 = "".join(x)
+            if isPositive(fact0):
+                facts.append(fact0)
+        return ans + "、".join(facts) + '。'
+    QA.add_template(("#实体#",), "#人名#做出了哪些贡献？", answer_func3)
+    question0 = "孙中山做出了哪些贡献？"
+    print("问：" + question0)
+    print("答：" + QA.answer(question0))
+
+
