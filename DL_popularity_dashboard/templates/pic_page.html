@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>DL Framework popularity</title>
+    <script src="http://echarts.baidu.com/dist/echarts.js"></script>
+    <script src="http://code.jquery.com/jquery-3.3.1.min.js"></script>
+</head>
+
+<body>
+<!--为ECharts准备一个具备大小（宽高）的Dom-->
+<div id="star" style="height:500px;border:1px solid #ccc;padding:10px;"></div>
+<div id="pop" style="height:500px;border:1px solid #ccc;padding:10px;"></div>
+<div id="month" style="height:500px;border:1px solid #ccc;padding:10px;"></div>
+<script type="text/javascript">
+    var starChart = echarts.init(document.getElementById('star'));
+
+    starChart.setOption({
+        title: {
+            text: 'DL Framework stars on Github'
+        },
+        tooltip: {},
+        xAxis: {
+            type: 'category',
+            data: ["tensorflow", "keras", "pytorch", "mxnet", "CNTK", "Paddle"]
+        },
+        yAxis: {},
+        series: [{
+			data: [],
+			type: 'bar'
+		}]
+    });
+
+    starChart.showLoading(); // 显示加载动画
+
+	var popChart = echarts.init(document.getElementById('pop'));
+
+    popChart.setOption({
+        title: {
+            text: 'DL Framework popularity on Github',
+			subtext: 'Popularity estimated by issues in a month'
+        },
+		tooltip: {
+				  trigger: 'item',
+				  formatter: "{b}: {c}"
+		},
+        series: [{
+			type: 'treemap',
+			nodeClick: false,//点击节点后的行为,false无反应
+			roam: false,//鼠标漫游scroll and frug disabled
+			data: [{
+				name: 'tensorflow',
+				value: 0,
+			}, {
+				name: 'keras',
+				value: 0,
+			}, {
+				name: 'pytorch',
+				value: 0,
+			}, {
+				name: 'mxnet',
+				value: 0,
+			}, {
+				name: 'CNTK',
+				value: 0,
+			}, {
+				name: 'Paddle',
+				value: 0,
+			}]
+		}]
+    });
+
+    popChart.showLoading(); // 显示加载动画
+
+	var monthChart = echarts.init(document.getElementById('month'));
+
+    monthChart.setOption({
+        title: {
+            text: 'DL Framework vitality on Github',
+			subtext:'develop vitality: 1000*PRs/stars\nuse vitality: 1000*issues/stars'
+        },
+        tooltip: {},
+        legend: {
+            data:["develop","use"]
+        },
+        xAxis: {
+            type: 'category',
+            data: ["tensorflow", "keras", "pytorch", "mxnet", "CNTK", "Paddle"]
+        },
+        yAxis: {},
+        series: [
+		{
+			name: 'develop',
+			data: [],
+			type: 'bar'
+		},
+		{
+			name: 'use',
+			data: [],
+			type: 'bar'
+		}]
+    });
+
+    monthChart.showLoading(); // 显示加载动画
+
+	// With error alert
+    $.ajax({
+         type : "get",
+//       async : true,            //异步请求（同步请求将会锁住浏览器，用户其他操作必须等待请求完成才可以执行）
+         url : "{{ url_for('gitdl_api') }}",    //请求发送到Servlet处
+//       data : {},
+         dataType : "json",        //返回数据形式为json
+         success : function(result) {
+             //请求成功时执行该函数内容，result即为服务器返回的json对象
+             if (result) {
+                    data = result;
+                    starChart.hideLoading();    //隐藏加载动画
+                    // 填入数据
+                    starChart.setOption({
+						title: {
+							subtext: 'by '+(data.date)
+						},
+                        series: [{
+							data: data.stars
+						}]
+                    });
+
+					monthChart.hideLoading();    //隐藏加载动画
+                    // 填入数据
+                    monthChart.setOption({
+						title: {
+							subtext:'develop vitality: 1000*PRs/stars\nuse vitality: 1000*issues/stars'
+						},
+                        series: [{
+							name: 'develop',
+							data: data.develop,
+							type: 'bar'
+						},
+						{
+							name: 'use',
+							data: data.use,
+							type: 'bar'
+						}]
+                    });
+
+					popChart.hideLoading();    //隐藏加载动画
+                    // 填入数据
+                    popChart.setOption({
+                        series: [{
+							nodeClick: false,//点击节点后的行为,false无反应
+							roam: false,//鼠标漫游scroll and frug disabled
+							type: "treemap",
+							data: data.pop
+						}]
+                    });
+             }
+         },
+         error: function(result) {alert("error!")}
+	});
+
+
+
+</script>
+</body>
+</html>
