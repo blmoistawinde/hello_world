@@ -1,6 +1,7 @@
 # 深度学习框架热度展板
 
 相关博客：https://blog.csdn.net/blmoistawinde/article/details/87384348
+
 在线演示：http://blmoistawinde.pythonanywhere.com/DL_pop 【每日12:00(北京时间)更新数据】
 
 ## 使用
@@ -10,7 +11,7 @@
 flask run
 ```
 
-就可以在http://127.0.0.1:5000/DL_pop看到对应的展板。
+就可以在 http://127.0.0.1:5000/DL_pop 看到对应的展板。
 
 ## 主要文件
 - app.py: Flask框架建站的主代码
