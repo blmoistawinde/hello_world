@@ -3,6 +3,8 @@
 
 其中的项目和相关文章：
 
+- \caipu_data_analyze:[判菜系、调众口、打分数，这一回，我们用大数据烧菜？](https://blog.csdn.net/blmoistawinde/article/details/87884777)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20190222204959677.gif)
 - \sanguo_network：[用python分析《三国演义》中的社交网络](https://blog.csdn.net/blmoistawinde/article/details/85344906) 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190216160912307.gif)
 - \DL_popularity_dashboard：[深度学习哪家强？用数据来一较高下吧](https://blog.csdn.net/blmoistawinde/article/details/87384348)
