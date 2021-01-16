@@ -15,3 +15,4 @@
 - active_learning1.ipynb：[更少标注的机器学习方法——主动学习(python示例)](https://blog.csdn.net/blmoistawinde/article/details/84994719)
 - NeuralCoref_basic.ipynb：[NeuralCoref: python的共指消解工具，向代词指代的问题进军！](https://blog.csdn.net/blmoistawinde/article/details/81782971)
 - context_related_QA.ipynb：[NeuralCoref: 用指代消解来做一个“能多轮对话的问答对话机器人”](https://blog.csdn.net/blmoistawinde/article/details/81782992)
+- huggingface_classification.ipynb: 使用huggingface全家桶(transformers, datasets)实现一条龙BERT训练(trainer)和预测(pipeline)
